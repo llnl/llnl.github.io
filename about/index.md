@@ -51,7 +51,7 @@ This website abounds with examples of projects that have found a home in the ope
 
 <div class="row gx-5 gy-5">
   <div class="col-4 col-sm-4 col-lg-4">
-    {% include components/quick-link.html title="The People's Code Blog Post" url="https://www.cio.gov/2016/08/11/peoples-code.html" icon="fa-code" %}
+    {% include components/quick-link.html title="The People's Code" url="https://en.wikipedia.org/wiki/People%27s_Code" icon="fa-code" %}
   </div>
   <div class="col-4 col-sm-4 col-lg-4">
     {% include components/quick-link.html title="The Archived Policy on GitHub" url="https://github.com/WhiteHouse/source-code-policy" icon="fa-github" %}
