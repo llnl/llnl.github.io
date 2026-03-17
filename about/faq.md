@@ -78,10 +78,11 @@ There are several options for configuring 2FA for your GitHub account:
   * Printing the codes and storing them in a safe place in your office.
   * Storing the recovery codes in a password manager that you might be using.
 
-* **We recommend that you set up multiple 2FA options.** This can protect your access to your account in the event that you lose access to one of your authenticators.
+* **We recommend that you set up multiple 2FA options.** This can protect your access to your account in the event that you lose access to one of your authenticators. Please note that SMS is not a secure option and not recommended for LLNL accounts.
 
 <!-- START: Buttons -->
-{% include components/button.html content='Get More Info on 2FA' url="https://github.com/blog/1614-two-factor-authentication" tag="a" %}
+{% include components/button.html content='GitHub 2FA blog post' url="https://github.com/blog/1614-two-factor-authentication" tag="a" %}
+{% include components/button.html content='GitHub 2FA instructions' url="https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication" tag="a" %}
 {% include components/button.html content='Contact the LLNL GitHub Admins' url="mailto:github-admin@llnl.gov" tag="a" %}
 <!-- END: Buttons -->
 {% endcapture %}
