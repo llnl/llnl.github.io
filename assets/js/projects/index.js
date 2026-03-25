@@ -55,7 +55,7 @@ angular.module("app", []).controller("ProjectController", function($scope) {
             return true;
         }
         var query = $scope.query.toLowerCase(),
-            name = value.name.toLowerCase(),
+            name = value.nameWithOwner.toLowerCase(),
             description = value.description ? value.description.toLowerCase() : '',
             queryMatch = name.indexOf(query) > -1 || description.indexOf(query) > -1;
         return queryMatch;
