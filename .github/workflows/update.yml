@@ -16,7 +16,7 @@ defaults:
 jobs:
   runDataUpdate:
     if: github.ref == 'refs/heads/main'
-    name: Run Data Update
+    name: Run Main Data Update
     runs-on: ubuntu-latest
     env:
       REPO_DIR: main
@@ -109,7 +109,7 @@ jobs:
           git pull --ff-only
           git stash pop
           git add -A .
-          git commit -m "$TIMESTAMP Data Update by ${{ steps.app-token.outputs.app-slug }}"
+          git commit -m "$TIMESTAMP Main Data Update by ${{ steps.app-token.outputs.app-slug }}"
           git push
 
       - name: Show health stats
@@ -126,9 +126,105 @@ jobs:
         if: ${{ always() }}
         uses: actions/upload-artifact@v7
         with:
-          name: logfiles_${{ env.TIMESTAMP }}_update
+          name: logfiles_${{ env.TIMESTAMP }}_main_update
           path: |
             ${{ env.REPO_DIR }}/_visualize/LAST_MEMBERS_UPDATE.txt
             ${{ env.REPO_DIR }}/_visualize/LAST_MEMBERS_UPDATE.log
             ${{ env.REPO_DIR }}/_visualize/LAST_CORE_UPDATE.txt
             ${{ env.REPO_DIR }}/_visualize/LAST_CORE_UPDATE.log
+
+  runDataUpdateSlow:
+    needs: runDataUpdate
+    name: Run Activity Data Update (SLOW)
+    runs-on: ubuntu-latest
+    env:
+      REPO_DIR: main
+      TIMESTAMP: X
+    steps:
+      - name: Store timestamp
+        run: |
+          echo "TIMESTAMP=$(date -u +"%F-%H")" >> "$GITHUB_ENV"
+
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          path: ${{ env.REPO_DIR }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: false
+
+      - name: Setup python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: '${{ env.REPO_DIR }}/_visualize/scripts/requirements.txt'
+
+      - name: Install dependencies
+        run: pip install -r $REPO_DIR/_visualize/scripts/requirements.txt
+
+      - name: Run data collection script with Action Token
+        run: |
+          set -eu
+          cd $REPO_DIR/_visualize/scripts
+          ./UPDATE.sh $TAG
+        env:
+          GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TAG: SLOW
+
+      - name: Validate slow data updates
+        run: ./$REPO_DIR/.github/scripts/validate.sh
+        env:
+          TAG: SLOW
+
+      - name: Create GitHub App Installation Token
+        uses: actions/create-github-app-token@v3
+        id: app-token
+        with:
+          client-id: ${{ vars.CLIENT_ID }}
+          private-key: ${{ secrets.PRIVATE_KEY }}
+
+      - name: Get GitHub App User ID
+        id: get-user-id
+        env:
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+        run: echo "user-id=$(gh api "/users/${{ steps.app-token.outputs.app-slug }}[bot]" --jq .id)" >> "$GITHUB_OUTPUT"
+
+      - name: Configure git
+        env:
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+        run: |
+          gh auth setup-git
+          git config --global user.name '${{ steps.app-token.outputs.app-slug }}[bot]'
+          git config --global user.email '${{ steps.get-user-id.outputs.user-id }}+${{ steps.app-token.outputs.app-slug }}[bot]@users.noreply.github.com'
+
+      - name: Commit updated data
+        env:
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+        run: |
+          set -eu
+          cd $REPO_DIR
+          git stash
+          git pull --ff-only
+          git stash pop
+          git add -A .
+          git commit -m "$TIMESTAMP Activity Data Update by ${{ steps.app-token.outputs.app-slug }}"
+          git push
+
+      - name: Show health stats
+        if: ${{ always() }}
+        run: |
+          for TAG in SLOW; do
+            cat $REPO_DIR/_visualize/LAST_${TAG}_UPDATE.txt || true
+            echo "Warning Count: $(grep -c 'Warning' $REPO_DIR/_visualize/LAST_${TAG}_UPDATE.log)"
+            echo "From Timeouts: $(grep -c 'but failed' $REPO_DIR/_visualize/LAST_${TAG}_UPDATE.log)"
+            echo "Limit Reached: $(grep -c 'rate limit exceeded' $REPO_DIR/_visualize/LAST_${TAG}_UPDATE.log)"
+          done
+
+      - name: Save log files
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v7
+        with:
+          name: logfiles_${{ env.TIMESTAMP }}_activity_update
+          path: |
+            ${{ env.REPO_DIR }}/_visualize/LAST_SLOW_UPDATE.txt
+            ${{ env.REPO_DIR }}/_visualize/LAST_SLOW_UPDATE.log

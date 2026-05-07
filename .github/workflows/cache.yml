@@ -7,21 +7,20 @@ on:
 
 concurrency:
   group: data-cache
+  cancel-in-progress: false
 
 defaults:
   run:
     shell: bash
 
-env:
-  TAG: CACHE
-
 jobs:
-  runDataUpdate:
+  runDataCache:
     if: github.ref == 'refs/heads/main'
     name: Run Cache Request
     runs-on: ubuntu-latest
     env:
       REPO_DIR: main
+      TAG: CACHE
       TIMESTAMP: X
     steps:
       - name: Store timestamp
