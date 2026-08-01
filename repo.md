@@ -32,7 +32,7 @@ breadcrumb: Repository
                 <p class="my-0"><i class="fa fa-code"></i> {{ repo.primaryLanguage.name }}</p>
             </div>
             <div class="col-6 text-end">
-                <p><i class="fa fa-star"></i> {{ repo.stargazers.totalCount | number }}</p>
+                <p><i class="fa fa-star"></i> {{ repo.stargazerCount | number }}</p>
                 <p class="my-0"><i class="fa fa-code-fork"></i> {{ repo.forks.totalCount | number }}</p>
             </div>
         </div>
@@ -61,11 +61,6 @@ breadcrumb: Repository
             <svg class="repoCreationHistory d-block mx-auto my-0"></svg>
         </div>
     </div>
-    <div ng-show="repo.stargazers.totalCount" class="row border-bottom-gradient-impact-extreme thin border-bottom-1 chart-divide">
-        <div class="col-12">
-            <svg class="repoStarHistory d-block mx-auto my-0"></svg>
-        </div>
-    </div>
     <div ng-if="repo.languages.totalCount || repo.repositoryTopics.totalCount" class="row">
         <div ng-show="repo.languages.totalCount" ng-class="{'text-center col-12': true, 'col-md-6 border-bottom-gradient-impact-extreme thin border-bottom-1 chart-divide': repo.repositoryTopics.totalCount > 0}">
             <svg class="languagePie"></svg>
@@ -92,11 +87,10 @@ breadcrumb: Repository
 <script type="text/javascript" src="/assets/js/visualize/line_repoCreationHistory.js"></script>
 <script type="text/javascript" src="/assets/js/visualize/pie_language.js"></script>
 <script type="text/javascript" src="/assets/js/visualize/cloud_topics.js"></script>
-<script type="text/javascript" src="/assets/js/visualize/line_repoStarHistory.js"></script>
 
 <script>
     // GiHub Data Directory
-    var ghDataDir = 'https://software.llnl.gov/visualize/github-data';
+    var ghDataDir = '/visualize/github-data';
     // Global chart standards
     var stdTotalWidth = 500,
         stdTotalHeight = 400;

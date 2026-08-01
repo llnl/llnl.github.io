@@ -16,7 +16,6 @@ menus:
   <div class="nav pt-2 ps-3 sticky-top d-flex flex-column" aria-orientation="vertical">
     {% include components/icon-list-item.html title='Creation History' icon='fa-chart-line' %}
     {% include components/icon-list-item.html title='Activity Across all Repos' url="#activity-across-all-repos" icon='fa-chart-area' %}
-    {% include components/icon-list-item.html title='Stars' url="#number-of-stars-over-time" icon='fa-stars' %}
     {% include components/icon-list-item.html title='Pull Requests' url="#pull-requests" icon='fa-code-pull-request' %}
     {% include components/icon-list-item.html title='Issues' url="#repository-issues" icon='fa-circle-x' %}
     {% include components/icon-list-item.html title='Language Breakdown' url="#language-breakdown" icon='fa-language' %}
@@ -41,12 +40,6 @@ Lawrence Livermore National Lab has contributed to open source repositories for 
 
 <div class="border-bottom-gradient-impact-extreme thin border-bottom-1 pb-5">
   <svg class="repoActivityChart d-block mx-auto my-0"></svg>
-</div>
-
-### Number of Stars Over Time
-
-<div class="border-bottom-gradient-impact-extreme thin border-bottom-1 pb-5">
-  <svg class="repoStarHistoryChart d-block mx-auto my-0"></svg>
 </div>
 
 <div class="row">
@@ -96,7 +89,6 @@ Lawrence Livermore National Lab has contributed to open source repositories for 
 <script type="text/javascript" src="/assets/js/visualize/pie_languageExplore.js"></script>
 <script type="text/javascript" src="/assets/js/visualize/cloud_topics.js"></script>
 <script type="text/javascript" src="/assets/js/visualize/sunburst_licenses.js"></script>
-<script type="text/javascript" src="/assets/js/visualize/line_repoStarHistoryExplore.js"></script>
 
 <script>
     // GiHub Data Directory
@@ -120,6 +112,5 @@ Lawrence Livermore National Lab has contributed to open source repositories for 
         draw_pie_language('languagePie');
         draw_cloud_topics('topicCloud');
         draw_sunburst_licenses('licenseSunburst');
-        draw_line_repoStarHistory('repoStarHistoryChart');
     });
 </script>

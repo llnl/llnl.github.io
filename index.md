@@ -112,7 +112,7 @@ breadcrumb: Home
                         </div>
                         <div class="col-8 px-0">
                             <select class="form-control form-select fs-14 fw-semibold sort-by" id="sort" name="sort" ng-model="sortBy" ng-change="trackProjectImpressions()" >
-                                <option value="-stargazers.totalCount">Stars</option>
+                                <option value="-stargazerCount">Stars</option>
                                 <option value="owner.login">Organization</option>
                                 <option value="name">Repo Name</option>
                                 <option value="-forks.totalCount">Forks</option>
@@ -154,9 +154,9 @@ breadcrumb: Home
                                         </p>
                                     </div>
                                     <div class="text-end">
-                                        <p class="mt-2 mb-0" ng-if="repository.stargazers">
+                                        <p class="mt-2 mb-0" ng-if="repository.stargazerCount">
                                             <i class="fa fa-light fa-star me-1"></i>
-                                            <span class="fw-semibold fixed-width-5">{{ repository.stargazers.totalCount | number }}</span>
+                                            <span class="fw-semibold fixed-width-5">{{ repository.stargazerCount | number }}</span>
                                         </p>
                                         <p class="mt-1" ng-if="repository.forks">
                                             <i class="fa fa-light fa-code-fork me-1"></i>

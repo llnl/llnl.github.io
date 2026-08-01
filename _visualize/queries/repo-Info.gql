@@ -19,9 +19,7 @@ query ($ownName: String!, $repoName: String!) {
       spdxId
       url
     }
-    stargazers {
-      totalCount
-    }
+    stargazerCount
     mentionableUsers {
       totalCount
     }

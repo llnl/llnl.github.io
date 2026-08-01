@@ -325,7 +325,7 @@ function draw_sunburst_licenses(areaID) {
                 // Chooses what value to use for weights
                 let value = 1;
                 if (type == null || type == 0) {
-                    value = obj['data'][repo]['stargazers']['totalCount'];
+                    value = obj['data'][repo]['stargazerCount'];
                 } else if (type == 1) {
                     value = obj['data'][repo]['forks']['totalCount'];
                 } else if (type == 2) {

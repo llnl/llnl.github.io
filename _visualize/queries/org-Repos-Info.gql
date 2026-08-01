@@ -21,9 +21,7 @@ query ($orgName: String!, $numRepos: Int!, $pgCursor: String) {
           spdxId
           url
         }
-        stargazers {
-          totalCount
-        }
+        stargazerCount
         mentionableUsers {
           totalCount
         }

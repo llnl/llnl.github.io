@@ -1,6 +1,6 @@
 angular.module("app", []).controller("ProjectController", function($scope) {
     $scope.query = '';
-    $scope.sortBy = '-stargazers.totalCount';
+    $scope.sortBy = '-stargazerCount';
     $scope.sortByReverse = false;
     $scope.showProprietaryRepositories = true;
     $scope.pageNumber = 1;

@@ -13,7 +13,6 @@ menus:
 <div class="d-none d-lg-block col-xxl-2 pe-5 d-none d-xxl-block sticky-top jump-links float-start vh-100" id="llnl-side-container">
   <div class="nav pt-2 ps-3 sticky-top d-flex flex-column" aria-orientation="vertical">
     {% include components/icon-list-item.html title='Creation History' icon='fa-chart-line' %}
-    {% include components/icon-list-item.html title='Stars' url="#number-of-stars-over-time" icon='fa-stars' %}
     {% include components/icon-list-item.html title='Activity Across Top 10 Repos' url="#activity-across-top-10-repos" icon='fa-chart-area' %}
     {% include components/icon-list-item.html title='Commits' icon='fa-code-commit' %}
     {% include components/icon-list-item.html title='Line Edits' icon='fa-file-pen' %}
@@ -38,12 +37,6 @@ We contribute to a variety of code repositories, some of which fuel internal wor
 
 <div class="border-bottom-gradient-impact-extreme thin border-bottom-1 chart-divide">
   <svg class="repoCreationHistory d-block mx-auto my-0"></svg>
-</div>
-
-### Number of Stars Over Time
-
-<div class="border-bottom-gradient-impact-extreme thin border-bottom-1 chart-divide">
-  <svg class="repoStarHistory d-block mx-auto my-0"></svg>
 </div>
 
 ### Activity Across Top 10 Repos
@@ -82,11 +75,10 @@ We contribute to a variety of code repositories, some of which fuel internal wor
 <script type="text/javascript" src="/assets/js/visualize/largeRepos/sunburst_licenses.js"></script>
 <script type="text/javascript" src="/assets/js/visualize/largeRepos/list_popularRepos.js"></script>
 <script type="text/javascript" src="/assets/js/visualize/largeRepos/pie_activityCommits.js"></script>
-<script type="text/javascript" src="/assets/js/visualize/largeRepos/line_repoStarHistory.js"></script>
 
 <script>
     // GiHub Data Directory
-    var ghDataDir = 'https://software.llnl.gov/visualize/github-data';
+    var ghDataDir = '/visualize/github-data';
     // Global chart standards
     var stdTotalWidth = 500,
         stdTotalHeight = 400;
@@ -111,7 +103,6 @@ We contribute to a variety of code repositories, some of which fuel internal wor
         draw_sunburst_licenses('popularLicenses');
         draw_pie_commits('commitPie');
         draw_popularRepos('listPopularRepos', 5, true);
-        draw_line_repoStarHistory('repoStarHistory');
     });
 
 </script>

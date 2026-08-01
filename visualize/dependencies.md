@@ -41,7 +41,7 @@ Livermore's work both fuels and depends on myriad open source packages. We're pr
 
 <script>
     // GiHub Data Directory
-    var ghDataDir = 'https://software.llnl.gov/visualize/github-data';
+    var ghDataDir = '/visualize/github-data';
     // Global chart standards
     var stdTotalWidth = 500,
         stdTotalHeight = 500;

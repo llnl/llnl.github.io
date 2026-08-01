@@ -42,7 +42,7 @@ Over 400 LLNL employees contribute to our repositories, but we also benefit from
 
 <script>
     // GiHub Data Directory
-    var ghDataDir = 'https://software.llnl.gov/visualize/github-data';
+    var ghDataDir = '/visualize/github-data';
     // Global chart standards
     var stdTotalWidth = 500,
         stdTotalHeight = 400;
