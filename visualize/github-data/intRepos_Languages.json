@@ -3275,7 +3275,7 @@
                         "size": 214726
                     },
                     {
-                        "size": 49330
+                        "size": 49986
                     },
                     {
                         "size": 12256
@@ -3323,7 +3323,7 @@
                     }
                 ],
                 "totalCount": 9,
-                "totalSize": 5751826
+                "totalSize": 5752482
             }
         },
         "E3SM-Project/scream": {
@@ -7815,7 +7815,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 588512
+                        "size": 617276
                     },
                     {
                         "size": 91425
@@ -7874,7 +7874,7 @@
                     }
                 ],
                 "totalCount": 8,
-                "totalSize": 690870
+                "totalSize": 719634
             }
         },
         "GMLC-TDC/redoc": {
@@ -11984,16 +11984,16 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 10409947
+                        "size": 10474968
                     },
                     {
-                        "size": 2462054
+                        "size": 2475218
                     },
                     {
-                        "size": 2279198
+                        "size": 2294586
                     },
                     {
-                        "size": 176266
+                        "size": 176329
                     },
                     {
                         "size": 171265
@@ -12106,7 +12106,7 @@
                     }
                 ],
                 "totalCount": 17,
-                "totalSize": 15721211
+                "totalSize": 15814847
             }
         },
         "flux-framework/flux-depend": {
@@ -13218,23 +13218,6 @@
                 "totalSize": 905087
             }
         },
-        "flux-framework/flux-spack": {
-            "languages": {
-                "edges": [
-                    {
-                        "size": 13428
-                    }
-                ],
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ],
-                "totalCount": 1,
-                "totalSize": 13428
-            }
-        },
         "flux-framework/flux-sys-rs": {
             "languages": {
                 "edges": [
@@ -14102,7 +14085,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 26917501
+                        "size": 26927121
                     },
                     {
                         "size": 3682776
@@ -14210,7 +14193,7 @@
                     }
                 ],
                 "totalCount": 15,
-                "totalSize": 32386835
+                "totalSize": 32396455
             }
         },
         "hypre-space/hypredrive": {
@@ -22800,24 +22783,17 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 22174
-                    },
-                    {
-                        "size": 9867
+                        "size": 9605
                     }
                 ],
                 "nodes": [
-                    {
-                        "color": "#e34c26",
-                        "name": "HTML"
-                    },
                     {
                         "color": "#3572A5",
                         "name": "Python"
                     }
                 ],
-                "totalCount": 2,
-                "totalSize": 32041
+                "totalCount": 1,
+                "totalSize": 9605
             }
         },
         "llnl/SSAPy-Toolkit": {
@@ -27089,7 +27065,7 @@
                         "size": 370852
                     },
                     {
-                        "size": 224574
+                        "size": 204149
                     },
                     {
                         "size": 46195
@@ -27157,7 +27133,7 @@
                     }
                 ],
                 "totalCount": 11,
-                "totalSize": 12702310
+                "totalSize": 12681885
             }
         },
         "llnl/configurable-http-proxy": {
@@ -36009,10 +35985,10 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 44890108
+                        "size": 44899640
                     },
                     {
-                        "size": 23606224
+                        "size": 23607090
                     },
                     {
                         "size": 1709039
@@ -36180,7 +36156,7 @@
                     }
                 ],
                 "totalCount": 24,
-                "totalSize": 75628185
+                "totalSize": 75638583
             }
         },
         "llnl/ross-matrix-models": {
@@ -39988,7 +39964,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 20010927
+                        "size": 20027842
                     },
                     {
                         "size": 310096
@@ -40061,7 +40037,7 @@
                     }
                 ],
                 "totalCount": 10,
-                "totalSize": 20669572
+                "totalSize": 20686487
             }
         },
         "mfem/mfem-uberenv": {
@@ -40717,7 +40693,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 18596348
+                        "size": 18595017
                     },
                     {
                         "size": 5262021
@@ -40783,7 +40759,7 @@
                     }
                 ],
                 "totalCount": 9,
-                "totalSize": 26743572
+                "totalSize": 26742241
             }
         },
         "openzfs/zfs-buildbot": {
@@ -40829,10 +40805,10 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 132731378
+                        "size": 132740910
                     },
                     {
-                        "size": 82630376
+                        "size": 82631242
                     },
                     {
                         "size": 1709039
@@ -41000,7 +40976,7 @@
                     }
                 ],
                 "totalCount": 24,
-                "totalSize": 222493607
+                "totalSize": 222504005
             }
         },
         "rose-compiler/build-blocker-plugin": {
@@ -42813,7 +42789,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 8398318
+                        "size": 8401248
                     },
                     {
                         "size": 524229
@@ -42914,7 +42890,7 @@
                     }
                 ],
                 "totalCount": 14,
-                "totalSize": 9188458
+                "totalSize": 9191388
             }
         },
         "spack/spack-asp-prototypes": {
@@ -43490,7 +43466,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 21330806
+                        "size": 21336682
                     },
                     {
                         "size": 48886
@@ -43591,7 +43567,7 @@
                     }
                 ],
                 "totalCount": 14,
-                "totalSize": 21416675
+                "totalSize": 21422551
             }
         },
         "spack/spack-prereq": {
