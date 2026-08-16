@@ -3593,6 +3593,12 @@
             "releases": {
                 "nodes": [
                     {
+                        "name": "0.6.0",
+                        "publishedAt": "2026-08-16T09:45:49Z",
+                        "tagName": "0.6.0",
+                        "url": "https://github.com/ESGF/esgf-qa/releases/tag/0.6.0"
+                    },
+                    {
                         "name": "0.5.1",
                         "publishedAt": "2026-05-28T12:50:35Z",
                         "tagName": "0.5.1",
@@ -15117,7 +15123,14 @@
         },
         "llnl/SurGBSA": {
             "releases": {
-                "nodes": []
+                "nodes": [
+                    {
+                        "name": "v0.1 initial release",
+                        "publishedAt": "2026-08-16T05:08:13Z",
+                        "tagName": "v0.1",
+                        "url": "https://github.com/llnl/SurGBSA/releases/tag/v0.1"
+                    }
+                ]
             }
         },
         "llnl/Surfactant": {
