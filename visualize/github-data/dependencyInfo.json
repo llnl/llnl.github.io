@@ -156,22 +156,6 @@
                 "login": "Azure"
             }
         },
-        "AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "azure-activedirectory-identitymodel-extensions-for-dotnet",
-            "nameWithOwner": "AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet",
-            "owner": {
-                "isVerified": false,
-                "login": "AzureAD"
-            }
-        },
         "Bachmann1234/diff_cover": {
             "languages": {
                 "nodes": [
@@ -602,6 +586,22 @@
                 "login": "EndBug"
             }
         },
+        "Esri/lerc": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f34b7d",
+                        "name": "C++"
+                    }
+                ]
+            },
+            "name": "lerc",
+            "nameWithOwner": "Esri/lerc",
+            "owner": {
+                "isVerified": true,
+                "login": "Esri"
+            }
+        },
         "Eugeny/python-systemd": {
             "languages": {
                 "nodes": [
@@ -713,38 +713,6 @@
                 "login": "FasterXML"
             }
         },
-        "Fody/Costura": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "Costura",
-            "nameWithOwner": "Fody/Costura",
-            "owner": {
-                "isVerified": false,
-                "login": "Fody"
-            }
-        },
-        "Fody/Fody": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "Fody",
-            "nameWithOwner": "Fody/Fody",
-            "owner": {
-                "isVerified": false,
-                "login": "Fody"
-            }
-        },
         "FortAwesome/Font-Awesome": {
             "languages": {
                 "nodes": [
@@ -837,21 +805,6 @@
             "nameWithOwner": "Gilnaa/memoffset",
             "owner": {
                 "login": "Gilnaa"
-            }
-        },
-        "Giorgi/DuckDB.NET": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "DuckDB.NET",
-            "nameWithOwner": "Giorgi/DuckDB.NET",
-            "owner": {
-                "login": "Giorgi"
             }
         },
         "GoogleCloudPlatform/gcs-oauth2-boto-plugin": {
@@ -1103,21 +1056,6 @@
                 "login": "JamesNK"
             }
         },
-        "JamesNK/Newtonsoft.Json.Bson": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "Newtonsoft.Json.Bson",
-            "nameWithOwner": "JamesNK/Newtonsoft.Json.Bson",
-            "owner": {
-                "login": "JamesNK"
-            }
-        },
         "JiaweiZhuang/xESMF": {
             "languages": {
                 "nodes": [
@@ -1207,21 +1145,6 @@
             "nameWithOwner": "KevinMusgrave/pytorch-metric-learning",
             "owner": {
                 "login": "KevinMusgrave"
-            }
-        },
-        "Kibnet/SignalR": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "SignalR",
-            "nameWithOwner": "Kibnet/SignalR",
-            "owner": {
-                "login": "Kibnet"
             }
         },
         "Kilian/electron-to-chromium": {
@@ -1690,38 +1613,6 @@
                 "login": "NCAS-CMS"
             }
         },
-        "NLog/NLog": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "NLog",
-            "nameWithOwner": "NLog/NLog",
-            "owner": {
-                "isVerified": true,
-                "login": "NLog"
-            }
-        },
-        "NVIDIA/TensorRT": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f34b7d",
-                        "name": "C++"
-                    }
-                ]
-            },
-            "name": "TensorRT",
-            "nameWithOwner": "NVIDIA/TensorRT",
-            "owner": {
-                "isVerified": true,
-                "login": "NVIDIA"
-            }
-        },
         "NVIDIA/cuda-python": {
             "languages": {
                 "nodes": [
@@ -2073,6 +1964,22 @@
                 "login": "Pylons"
             }
         },
+        "Pyomo/pyomo": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ]
+            },
+            "name": "pyomo",
+            "nameWithOwner": "Pyomo/pyomo",
+            "owner": {
+                "isVerified": false,
+                "login": "Pyomo"
+            }
+        },
         "Python-Markdown/markdown": {
             "languages": {
                 "nodes": [
@@ -2087,6 +1994,22 @@
             "owner": {
                 "isVerified": false,
                 "login": "Python-Markdown"
+            }
+        },
+        "Python-SIP/sip": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#555555",
+                        "name": "C"
+                    }
+                ]
+            },
+            "name": "sip",
+            "nameWithOwner": "Python-SIP/sip",
+            "owner": {
+                "isVerified": false,
+                "login": "Python-SIP"
             }
         },
         "PythonCharmers/python-future": {
@@ -2290,6 +2213,21 @@
                 "login": "RustCrypto"
             }
         },
+        "S-YOU/bzip2": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#555555",
+                        "name": "C"
+                    }
+                ]
+            },
+            "name": "bzip2",
+            "nameWithOwner": "S-YOU/bzip2",
+            "owner": {
+                "login": "S-YOU"
+            }
+        },
         "SMTorg/smt": {
             "languages": {
                 "nodes": [
@@ -2369,22 +2307,6 @@
                 "login": "SigmaHQ"
             }
         },
-        "SignalR/SignalR": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "SignalR",
-            "nameWithOwner": "SignalR/SignalR",
-            "owner": {
-                "isVerified": false,
-                "login": "SignalR"
-            }
-        },
         "SmileyChris/django-countries": {
             "languages": {
                 "nodes": [
@@ -2429,21 +2351,6 @@
             "nameWithOwner": "Stebalien/tempfile",
             "owner": {
                 "login": "Stebalien"
-            }
-        },
-        "SzymonPobiega/PipelineManager": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "PipelineManager",
-            "nameWithOwner": "SzymonPobiega/PipelineManager",
-            "owner": {
-                "login": "SzymonPobiega"
             }
         },
         "TechSmith/clang-format-wheel": {
@@ -2678,22 +2585,6 @@
             "owner": {
                 "isVerified": true,
                 "login": "VirtusLab"
-            }
-        },
-        "Yelp/bravado": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "bravado",
-            "nameWithOwner": "Yelp/bravado",
-            "owner": {
-                "isVerified": true,
-                "login": "Yelp"
             }
         },
         "Zulko/moviepy": {
@@ -3434,21 +3325,6 @@
                 "login": "ajaxorg"
             }
         },
-        "ajaxx/XLR8.CGLib": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "XLR8.CGLib",
-            "nameWithOwner": "ajaxx/XLR8.CGLib",
-            "owner": {
-                "login": "ajaxx"
-            }
-        },
         "ajv-validator/ajv": {
             "languages": {
                 "nodes": [
@@ -3611,21 +3487,6 @@
                 "login": "algolia"
             }
         },
-        "aloneguid/parquet-dotnet": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "parquet-dotnet",
-            "nameWithOwner": "aloneguid/parquet-dotnet",
-            "owner": {
-                "login": "aloneguid"
-            }
-        },
         "altaurog/pgcopy": {
             "languages": {
                 "nodes": [
@@ -3763,22 +3624,6 @@
                 "login": "annotated-types"
             }
         },
-        "antlr/antlr4": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#b07219",
-                        "name": "Java"
-                    }
-                ]
-            },
-            "name": "antlr4",
-            "nameWithOwner": "antlr/antlr4",
-            "owner": {
-                "isVerified": false,
-                "login": "antlr"
-            }
-        },
         "apache/cassandra-python-driver": {
             "languages": {
                 "nodes": [
@@ -3790,22 +3635,6 @@
             },
             "name": "cassandra-python-driver",
             "nameWithOwner": "apache/cassandra-python-driver",
-            "owner": {
-                "isVerified": true,
-                "login": "apache"
-            }
-        },
-        "apache/httpcomponents-client": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#b07219",
-                        "name": "Java"
-                    }
-                ]
-            },
-            "name": "httpcomponents-client",
-            "nameWithOwner": "apache/httpcomponents-client",
             "owner": {
                 "isVerified": true,
                 "login": "apache"
@@ -4167,54 +3996,6 @@
                 "login": "asottile"
             }
         },
-        "aspnet/AspNetKatana": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "AspNetKatana",
-            "nameWithOwner": "aspnet/AspNetKatana",
-            "owner": {
-                "isVerified": true,
-                "login": "aspnet"
-            }
-        },
-        "aspnet/AspNetWebStack": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "AspNetWebStack",
-            "nameWithOwner": "aspnet/AspNetWebStack",
-            "owner": {
-                "isVerified": true,
-                "login": "aspnet"
-            }
-        },
-        "aspnet/CORS": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "CORS",
-            "nameWithOwner": "aspnet/CORS",
-            "owner": {
-                "isVerified": true,
-                "login": "aspnet"
-            }
-        },
         "astanin/python-tabulate": {
             "languages": {
                 "nodes": [
@@ -4371,38 +4152,6 @@
             "owner": {
                 "isVerified": true,
                 "login": "aws"
-            }
-        },
-        "aws/aws-sdk-net": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "aws-sdk-net",
-            "nameWithOwner": "aws/aws-sdk-net",
-            "owner": {
-                "isVerified": true,
-                "login": "aws"
-            }
-        },
-        "awslabs/dgl-lifesci": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "dgl-lifesci",
-            "nameWithOwner": "awslabs/dgl-lifesci",
-            "owner": {
-                "isVerified": true,
-                "login": "awslabs"
             }
         },
         "azz/prettier-tslint": {
@@ -5101,6 +4850,21 @@
                 "login": "brandon-rhodes"
             }
         },
+        "brandond/python-libuuid": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ]
+            },
+            "name": "python-libuuid",
+            "nameWithOwner": "brandond/python-libuuid",
+            "owner": {
+                "login": "brandond"
+            }
+        },
         "breathe-doc/breathe": {
             "languages": {
                 "nodes": [
@@ -5289,21 +5053,6 @@
                 "login": "c0fec0de"
             }
         },
-        "c4urself/bump2version": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "bump2version",
-            "nameWithOwner": "c4urself/bump2version",
-            "owner": {
-                "login": "c4urself"
-            }
-        },
         "cachix/install-nix-action": {
             "languages": {
                 "nodes": [
@@ -5335,20 +5084,19 @@
                 "login": "caesar0301"
             }
         },
-        "calibreapp/image-actions": {
+        "calum-hand/sparse_mkl": {
             "languages": {
                 "nodes": [
                     {
-                        "color": "#3178c6",
-                        "name": "TypeScript"
+                        "color": "#3572A5",
+                        "name": "Python"
                     }
                 ]
             },
-            "name": "image-actions",
-            "nameWithOwner": "calibreapp/image-actions",
+            "name": "sparse_mkl",
+            "nameWithOwner": "calum-hand/sparse_mkl",
             "owner": {
-                "isVerified": true,
-                "login": "calibreapp"
+                "login": "calum-hand"
             }
         },
         "canonical/screen-resolution-extra": {
@@ -5437,38 +5185,6 @@
             "nameWithOwner": "caseywebdev/react-list",
             "owner": {
                 "login": "caseywebdev"
-            }
-        },
-        "castleproject/Core": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "Core",
-            "nameWithOwner": "castleproject/Core",
-            "owner": {
-                "isVerified": true,
-                "login": "castleproject"
-            }
-        },
-        "castleproject/Windsor": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "Windsor",
-            "nameWithOwner": "castleproject/Windsor",
-            "owner": {
-                "isVerified": true,
-                "login": "castleproject"
             }
         },
         "cduck/drawsvg": {
@@ -5989,6 +5705,22 @@
                 "login": "click-contrib"
             }
         },
+        "clips/pattern": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ]
+            },
+            "name": "pattern",
+            "nameWithOwner": "clips/pattern",
+            "owner": {
+                "isVerified": false,
+                "login": "clips"
+            }
+        },
         "cloudpipe/cloudpickle": {
             "languages": {
                 "nodes": [
@@ -6082,6 +5814,22 @@
             "owner": {
                 "isVerified": false,
                 "login": "codespell-project"
+            }
+        },
+        "cog-imperial/OMLT": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ]
+            },
+            "name": "OMLT",
+            "nameWithOwner": "cog-imperial/OMLT",
+            "owner": {
+                "isVerified": false,
+                "login": "cog-imperial"
             }
         },
         "colorjs/color-name": {
@@ -6704,22 +6452,6 @@
                 "login": "decalage2"
             }
         },
-        "deepchem/deepchem": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "deepchem",
-            "nameWithOwner": "deepchem/deepchem",
-            "owner": {
-                "isVerified": false,
-                "login": "deepchem"
-            }
-        },
         "deepin-community/python-backcall": {
             "languages": {
                 "nodes": [
@@ -6874,6 +6606,22 @@
             "nameWithOwner": "dgasmith/opt_einsum",
             "owner": {
                 "login": "dgasmith"
+            }
+        },
+        "dicelab-rhul/ICU": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ]
+            },
+            "name": "ICU",
+            "nameWithOwner": "dicelab-rhul/ICU",
+            "owner": {
+                "isVerified": true,
+                "login": "dicelab-rhul"
             }
         },
         "digitalbazaar/pyld": {
@@ -7049,38 +6797,6 @@
                 "login": "dmarx"
             }
         },
-        "dmlc/dgl": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "dgl",
-            "nameWithOwner": "dmlc/dgl",
-            "owner": {
-                "isVerified": false,
-                "login": "dmlc"
-            }
-        },
-        "dmlc/xgboost": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f34b7d",
-                        "name": "C++"
-                    }
-                ]
-            },
-            "name": "xgboost",
-            "nameWithOwner": "dmlc/xgboost",
-            "owner": {
-                "isVerified": false,
-                "login": "dmlc"
-            }
-        },
         "dmwm/DBS": {
             "languages": {
                 "nodes": [
@@ -7209,21 +6925,6 @@
                 "login": "docker"
             }
         },
-        "domaindrivendev/Swashbuckle.WebApi": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "Swashbuckle.WebApi",
-            "nameWithOwner": "domaindrivendev/Swashbuckle.WebApi",
-            "owner": {
-                "login": "domaindrivendev"
-            }
-        },
         "dominictarr/event-stream": {
             "languages": {
                 "nodes": [
@@ -7267,124 +6968,6 @@
             "nameWithOwner": "dorny/paths-filter",
             "owner": {
                 "login": "dorny"
-            }
-        },
-        "dotnet/aspnetcore": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "aspnetcore",
-            "nameWithOwner": "dotnet/aspnetcore",
-            "owner": {
-                "isVerified": true,
-                "login": "dotnet"
-            }
-        },
-        "dotnet/corefx": {
-            "languages": {
-                "nodes": []
-            },
-            "name": "corefx",
-            "nameWithOwner": "dotnet/corefx",
-            "owner": {
-                "isVerified": true,
-                "login": "dotnet"
-            }
-        },
-        "dotnet/dotnet": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "dotnet",
-            "nameWithOwner": "dotnet/dotnet",
-            "owner": {
-                "isVerified": true,
-                "login": "dotnet"
-            }
-        },
-        "dotnet/ef6": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "ef6",
-            "nameWithOwner": "dotnet/ef6",
-            "owner": {
-                "isVerified": true,
-                "login": "dotnet"
-            }
-        },
-        "dotnet/extensions": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "extensions",
-            "nameWithOwner": "dotnet/extensions",
-            "owner": {
-                "isVerified": true,
-                "login": "dotnet"
-            }
-        },
-        "dotnet/maintenance-packages": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "maintenance-packages",
-            "nameWithOwner": "dotnet/maintenance-packages",
-            "owner": {
-                "isVerified": true,
-                "login": "dotnet"
-            }
-        },
-        "dotnet/runtime": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "runtime",
-            "nameWithOwner": "dotnet/runtime",
-            "owner": {
-                "isVerified": true,
-                "login": "dotnet"
-            }
-        },
-        "dotnet/source-build": {
-            "languages": {
-                "nodes": []
-            },
-            "name": "source-build",
-            "nameWithOwner": "dotnet/source-build",
-            "owner": {
-                "isVerified": true,
-                "login": "dotnet"
             }
         },
         "dougwilson/nodejs-depd": {
@@ -7663,22 +7246,6 @@
                 "login": "eWaterCycle"
             }
         },
-        "earthlab/matplotcheck": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "matplotcheck",
-            "nameWithOwner": "earthlab/matplotcheck",
-            "owner": {
-                "isVerified": false,
-                "login": "earthlab"
-            }
-        },
         "easimon/maximize-build-space": {
             "languages": {
                 "nodes": []
@@ -7735,22 +7302,6 @@
             "owner": {
                 "isVerified": false,
                 "login": "eclipse-ee4j"
-            }
-        },
-        "eclipse-paho/paho.mqtt.m2mqtt": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "paho.mqtt.m2mqtt",
-            "nameWithOwner": "eclipse-paho/paho.mqtt.m2mqtt",
-            "owner": {
-                "isVerified": false,
-                "login": "eclipse-paho"
             }
         },
         "egor-tensin/setup-clang": {
@@ -8116,22 +7667,6 @@
             "owner": {
                 "isVerified": true,
                 "login": "eslint"
-            }
-        },
-        "espertechinc/nesper": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "nesper",
-            "nameWithOwner": "espertechinc/nesper",
-            "owner": {
-                "isVerified": false,
-                "login": "espertechinc"
             }
         },
         "etingof/pyasn1": {
@@ -8967,21 +8502,6 @@
                 "login": "fonttools"
             }
         },
-        "force-net/Crc32.NET": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "Crc32.NET",
-            "nameWithOwner": "force-net/Crc32.NET",
-            "owner": {
-                "login": "force-net"
-            }
-        },
         "fortran-lang/setup-fortran": {
             "languages": {
                 "nodes": [
@@ -9408,6 +8928,21 @@
                 "login": "gitpython-developers"
             }
         },
+        "gliborgmx/static-glib": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#c6538c",
+                        "name": "SCSS"
+                    }
+                ]
+            },
+            "name": "static-glib",
+            "nameWithOwner": "gliborgmx/static-glib",
+            "owner": {
+                "login": "gliborgmx"
+            }
+        },
         "globus/globus-cli": {
             "languages": {
                 "nodes": [
@@ -9808,22 +9343,6 @@
                 "login": "google"
             }
         },
-        "google/gson": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#b07219",
-                        "name": "Java"
-                    }
-                ]
-            },
-            "name": "gson",
-            "nameWithOwner": "google/gson",
-            "owner": {
-                "isVerified": true,
-                "login": "google"
-            }
-        },
         "google/guava": {
             "languages": {
                 "nodes": [
@@ -10024,6 +9543,21 @@
             "nameWithOwner": "gorakhargosh/watchdog",
             "owner": {
                 "login": "gorakhargosh"
+            }
+        },
+        "gpfei/python-pcre2": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ]
+            },
+            "name": "python-pcre2",
+            "nameWithOwner": "gpfei/python-pcre2",
+            "owner": {
+                "login": "gpfei"
             }
         },
         "gradio-app/gradio": {
@@ -10877,8 +10411,8 @@
             "languages": {
                 "nodes": [
                     {
-                        "color": "#3572A5",
-                        "name": "Python"
+                        "color": "#555555",
+                        "name": "C"
                     }
                 ]
             },
@@ -11602,38 +11136,6 @@
                 "login": "jashkenas"
             }
         },
-        "java-native-access/jna": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#b07219",
-                        "name": "Java"
-                    }
-                ]
-            },
-            "name": "jna",
-            "nameWithOwner": "java-native-access/jna",
-            "owner": {
-                "isVerified": false,
-                "login": "java-native-access"
-            }
-        },
-        "javaee/jaxb-spec": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#b07219",
-                        "name": "Java"
-                    }
-                ]
-            },
-            "name": "jaxb-spec",
-            "nameWithOwner": "javaee/jaxb-spec",
-            "owner": {
-                "isVerified": false,
-                "login": "javaee"
-            }
-        },
         "jawah/charset_normalizer": {
             "languages": {
                 "nodes": [
@@ -11729,6 +11231,21 @@
                 "login": "jbms"
             }
         },
+        "jborean93/pykrb5": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#555555",
+                        "name": "C"
+                    }
+                ]
+            },
+            "name": "pykrb5",
+            "nameWithOwner": "jborean93/pykrb5",
+            "owner": {
+                "login": "jborean93"
+            }
+        },
         "jbq/ufw": {
             "languages": {
                 "nodes": [
@@ -11742,21 +11259,6 @@
             "nameWithOwner": "jbq/ufw",
             "owner": {
                 "login": "jbq"
-            }
-        },
-        "jcbjcbjc/unique-project-client": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "unique-project-client",
-            "nameWithOwner": "jcbjcbjc/unique-project-client",
-            "owner": {
-                "login": "jcbjcbjc"
             }
         },
         "jcmturner/aescts": {
@@ -13191,6 +12693,21 @@
                 "login": "jupyterlab"
             }
         },
+        "jurandy-almeida/jpeg": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#555555",
+                        "name": "C"
+                    }
+                ]
+            },
+            "name": "jpeg",
+            "nameWithOwner": "jurandy-almeida/jpeg",
+            "owner": {
+                "login": "jurandy-almeida"
+            }
+        },
         "jwilk-mirrors/docutils": {
             "languages": {
                 "nodes": [
@@ -13501,21 +13018,6 @@
                 "login": "kmike"
             }
         },
-        "konstantint/matplotlib-venn": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#DA5B0B",
-                        "name": "Jupyter Notebook"
-                    }
-                ]
-            },
-            "name": "matplotlib-venn",
-            "nameWithOwner": "konstantint/matplotlib-venn",
-            "owner": {
-                "login": "konstantint"
-            }
-        },
         "kramdown/parser-gfm": {
             "languages": {
                 "nodes": [
@@ -13771,21 +13273,6 @@
                 "login": "kubernetes"
             }
         },
-        "kuelumbus/rdkit-pypi": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "rdkit-pypi",
-            "nameWithOwner": "kuelumbus/rdkit-pypi",
-            "owner": {
-                "login": "kuelumbus"
-            }
-        },
         "kurtmckee/feedparser": {
             "languages": {
                 "nodes": [
@@ -13940,6 +13427,22 @@
                 "login": "liberfa"
             }
         },
+        "libsodiumproject/sodium": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ]
+            },
+            "name": "sodium",
+            "nameWithOwner": "libsodiumproject/sodium",
+            "owner": {
+                "isVerified": false,
+                "login": "libsodiumproject"
+            }
+        },
         "lidatong/dataclasses-json": {
             "languages": {
                 "nodes": [
@@ -13969,22 +13472,6 @@
             "owner": {
                 "isVerified": true,
                 "login": "lief-project"
-            }
-        },
-        "lightgbm-org/LightGBM": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f34b7d",
-                        "name": "C++"
-                    }
-                ]
-            },
-            "name": "LightGBM",
-            "nameWithOwner": "lightgbm-org/LightGBM",
-            "owner": {
-                "isVerified": false,
-                "login": "lightgbm-org"
             }
         },
         "lint-staged/lint-staged": {
@@ -14321,6 +13808,22 @@
                 "login": "llnl"
             }
         },
+        "llnl/pySigma-backend-duckdb": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ]
+            },
+            "name": "pySigma-backend-duckdb",
+            "nameWithOwner": "llnl/pySigma-backend-duckdb",
+            "owner": {
+                "isVerified": true,
+                "login": "llnl"
+            }
+        },
         "llnl/pysaber": {
             "languages": {
                 "nodes": [
@@ -14556,6 +14059,21 @@
             "owner": {
                 "isVerified": false,
                 "login": "lostisland"
+            }
+        },
+        "ludwigschwardt/python-gnureadline": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#555555",
+                        "name": "C"
+                    }
+                ]
+            },
+            "name": "python-gnureadline",
+            "nameWithOwner": "ludwigschwardt/python-gnureadline",
+            "owner": {
+                "login": "ludwigschwardt"
             }
         },
         "lukasschwab/arxiv.py": {
@@ -15096,6 +14614,21 @@
                 "login": "matttproud"
             }
         },
+        "maxname/openldap": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#384d54",
+                        "name": "Dockerfile"
+                    }
+                ]
+            },
+            "name": "openldap",
+            "nameWithOwner": "maxname/openldap",
+            "owner": {
+                "login": "maxname"
+            }
+        },
         "mbr/asciitree": {
             "languages": {
                 "nodes": [
@@ -15224,22 +14757,6 @@
             },
             "name": "botorch",
             "nameWithOwner": "meta-pytorch/botorch",
-            "owner": {
-                "isVerified": true,
-                "login": "meta-pytorch"
-            }
-        },
-        "meta-pytorch/data": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "data",
-            "nameWithOwner": "meta-pytorch/data",
             "owner": {
                 "isVerified": true,
                 "login": "meta-pytorch"
@@ -15426,28 +14943,12 @@
                 "login": "micromatch"
             }
         },
-        "microsoft/OpenAPI.NET": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "OpenAPI.NET",
-            "nameWithOwner": "microsoft/OpenAPI.NET",
-            "owner": {
-                "isVerified": true,
-                "login": "microsoft"
-            }
-        },
         "microsoft/TypeScript": {
             "languages": {
                 "nodes": [
                     {
-                        "color": "#3178c6",
-                        "name": "TypeScript"
+                        "color": "#00ADD8",
+                        "name": "Go"
                     }
                 ]
             },
@@ -15485,22 +14986,6 @@
             },
             "name": "debugpy",
             "nameWithOwner": "microsoft/debugpy",
-            "owner": {
-                "isVerified": true,
-                "login": "microsoft"
-            }
-        },
-        "microsoft/perfview": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "perfview",
-            "nameWithOwner": "microsoft/perfview",
             "owner": {
                 "isVerified": true,
                 "login": "microsoft"
@@ -16084,22 +15569,6 @@
                 "login": "mongodb"
             }
         },
-        "mordred-descriptor/mordred": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "mordred",
-            "nameWithOwner": "mordred-descriptor/mordred",
-            "owner": {
-                "isVerified": false,
-                "login": "mordred-descriptor"
-            }
-        },
         "more-itertools/more-itertools": {
             "languages": {
                 "nodes": [
@@ -16517,22 +15986,6 @@
                 "login": "nedbat"
             }
         },
-        "net-commons/common-logging": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "common-logging",
-            "nameWithOwner": "net-commons/common-logging",
-            "owner": {
-                "isVerified": false,
-                "login": "net-commons"
-            }
-        },
         "netaddr/netaddr": {
             "languages": {
                 "nodes": [
@@ -16715,20 +16168,20 @@
                 "login": "nilp0inter"
             }
         },
-        "ninja-build/ninja": {
+        "nltk/nltk": {
             "languages": {
                 "nodes": [
                     {
-                        "color": "#f34b7d",
-                        "name": "C++"
+                        "color": "#3572A5",
+                        "name": "Python"
                     }
                 ]
             },
-            "name": "ninja",
-            "nameWithOwner": "ninja-build/ninja",
+            "name": "nltk",
+            "nameWithOwner": "nltk/nltk",
             "owner": {
                 "isVerified": false,
-                "login": "ninja-build"
+                "login": "nltk"
             }
         },
         "nodeca/argparse": {
@@ -17185,22 +16638,6 @@
                 "login": "oprypin"
             }
         },
-        "optimatika/ojAlgo": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#b07219",
-                        "name": "Java"
-                    }
-                ]
-            },
-            "name": "ojAlgo",
-            "nameWithOwner": "optimatika/ojAlgo",
-            "owner": {
-                "isVerified": false,
-                "login": "optimatika"
-            }
-        },
         "optuna/optuna": {
             "languages": {
                 "nodes": [
@@ -17246,22 +16683,6 @@
             "owner": {
                 "isVerified": false,
                 "login": "osqp"
-            }
-        },
-        "owin-contrib/owin-hosting": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "owin-hosting",
-            "nameWithOwner": "owin-contrib/owin-hosting",
-            "owner": {
-                "isVerified": false,
-                "login": "owin-contrib"
             }
         },
         "oyvindln/adler2": {
@@ -17390,6 +16811,22 @@
                 "login": "pallets"
             }
         },
+        "pallets/itsdangerous": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ]
+            },
+            "name": "itsdangerous",
+            "nameWithOwner": "pallets/itsdangerous",
+            "owner": {
+                "isVerified": true,
+                "login": "pallets"
+            }
+        },
         "pallets/jinja": {
             "languages": {
                 "nodes": [
@@ -17511,6 +16948,21 @@
             "nameWithOwner": "peaceiris/actions-gh-pages",
             "owner": {
                 "login": "peaceiris"
+            }
+        },
+        "pearu/pylibtiff": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ]
+            },
+            "name": "pylibtiff",
+            "nameWithOwner": "pearu/pylibtiff",
+            "owner": {
+                "login": "pearu"
             }
         },
         "pebbe/zmq4": {
@@ -18368,6 +17820,22 @@
                 "login": "psycopg"
             }
         },
+        "py-bson/bson": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ]
+            },
+            "name": "bson",
+            "nameWithOwner": "py-bson/bson",
+            "owner": {
+                "isVerified": false,
+                "login": "py-bson"
+            }
+        },
         "py-pa/django-minio-storage": {
             "languages": {
                 "nodes": [
@@ -18573,6 +18041,38 @@
             "owner": {
                 "isVerified": true,
                 "login": "pydantic"
+            }
+        },
+        "pydata/bottleneck": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ]
+            },
+            "name": "bottleneck",
+            "nameWithOwner": "pydata/bottleneck",
+            "owner": {
+                "isVerified": false,
+                "login": "pydata"
+            }
+        },
+        "pydata/numexpr": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ]
+            },
+            "name": "numexpr",
+            "nameWithOwner": "pydata/numexpr",
+            "owner": {
+                "isVerified": false,
+                "login": "pydata"
             }
         },
         "pydata/patsy": {
@@ -20326,22 +19826,6 @@
                 "login": "requests"
             }
         },
-        "restsharp/RestSharp": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "RestSharp",
-            "nameWithOwner": "restsharp/RestSharp",
-            "owner": {
-                "isVerified": false,
-                "login": "restsharp"
-            }
-        },
         "rhysd/path-slash": {
             "languages": {
                 "nodes": [
@@ -21356,22 +20840,6 @@
                 "login": "scikit-image"
             }
         },
-        "scikit-learn-contrib/imbalanced-learn": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "imbalanced-learn",
-            "nameWithOwner": "scikit-learn-contrib/imbalanced-learn",
-            "owner": {
-                "isVerified": false,
-                "login": "scikit-learn-contrib"
-            }
-        },
         "scikit-learn/scikit-learn": {
             "languages": {
                 "nodes": [
@@ -21508,21 +20976,6 @@
             "owner": {
                 "isVerified": true,
                 "login": "seatgeek"
-            }
-        },
-        "segor/SslCertBinding.Net": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#178600",
-                        "name": "C#"
-                    }
-                ]
-            },
-            "name": "SslCertBinding.Net",
-            "nameWithOwner": "segor/SslCertBinding.Net",
-            "owner": {
-                "login": "segor"
             }
         },
         "seiyria/bootstrap-slider": {
@@ -23546,22 +22999,6 @@
                 "login": "testing-cabal"
             }
         },
-        "testng-team/testng": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#b07219",
-                        "name": "Java"
-                    }
-                ]
-            },
-            "name": "testng",
-            "nameWithOwner": "testng-team/testng",
-            "owner": {
-                "isVerified": false,
-                "login": "testng-team"
-            }
-        },
         "textX/textX": {
             "languages": {
                 "nodes": [
@@ -23576,21 +23013,6 @@
             "owner": {
                 "isVerified": false,
                 "login": "textX"
-            }
-        },
-        "thammegowda/011-imb-learn": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "011-imb-learn",
-            "nameWithOwner": "thammegowda/011-imb-learn",
-            "owner": {
-                "login": "thammegowda"
             }
         },
         "thampiman/reverse-geocoder": {
@@ -24228,22 +23650,6 @@
             "nameWithOwner": "tsvikas/sync-with-uv",
             "owner": {
                 "login": "tsvikas"
-            }
-        },
-        "tunnelvisionlabs/antlr4cs": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#b07219",
-                        "name": "Java"
-                    }
-                ]
-            },
-            "name": "antlr4cs",
-            "nameWithOwner": "tunnelvisionlabs/antlr4cs",
-            "owner": {
-                "isVerified": false,
-                "login": "tunnelvisionlabs"
             }
         },
         "twbs/bootstrap": {
