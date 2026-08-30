@@ -14102,7 +14102,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 27120425
+                        "size": 27120446
                     },
                     {
                         "size": 3691450
@@ -14210,7 +14210,7 @@
                     }
                 ],
                 "totalCount": 15,
-                "totalSize": 32607515
+                "totalSize": 32607536
             }
         },
         "hypre-space/hypredrive": {
@@ -22866,7 +22866,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 3122276
+                        "size": 3339479
                     },
                     {
                         "size": 160904
@@ -22890,7 +22890,7 @@
                     }
                 ],
                 "totalCount": 3,
-                "totalSize": 3289454
+                "totalSize": 3506657
             }
         },
         "llnl/SSHSpawner": {
@@ -28100,19 +28100,25 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 258191
+                        "size": 415891
                     },
                     {
-                        "size": 51459
+                        "size": 78417
                     },
                     {
-                        "size": 18953
+                        "size": 60974
+                    },
+                    {
+                        "size": 14918
                     },
                     {
                         "size": 4385
                     },
                     {
                         "size": 2583
+                    },
+                    {
+                        "size": 493
                     }
                 ],
                 "nodes": [
@@ -28121,12 +28127,16 @@
                         "name": "C++"
                     },
                     {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
                         "color": "#DA3434",
                         "name": "CMake"
                     },
                     {
-                        "color": "#3572A5",
-                        "name": "Python"
+                        "color": "#89e051",
+                        "name": "Shell"
                     },
                     {
                         "color": "#427819",
@@ -28135,10 +28145,14 @@
                     {
                         "color": "#c30e9b",
                         "name": "Awk"
+                    },
+                    {
+                        "color": "#5a6986",
+                        "name": "PureBasic"
                     }
                 ],
-                "totalCount": 5,
-                "totalSize": 335571
+                "totalCount": 7,
+                "totalSize": 577661
             }
         },
         "llnl/dtcmp": {
@@ -36138,10 +36152,10 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 44935850
+                        "size": 44955771
                     },
                     {
-                        "size": 23615361
+                        "size": 23617387
                     },
                     {
                         "size": 1709039
@@ -36309,7 +36323,7 @@
                     }
                 ],
                 "totalCount": 24,
-                "totalSize": 75683232
+                "totalSize": 75705179
             }
         },
         "llnl/ross-matrix-models": {
@@ -43633,7 +43647,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 21476539
+                        "size": 21476590
                     },
                     {
                         "size": 48886
@@ -43734,7 +43748,7 @@
                     }
                 ],
                 "totalCount": 14,
-                "totalSize": 21562408
+                "totalSize": 21562459
             }
         },
         "spack/spack-prereq": {
