@@ -2675,7 +2675,7 @@
         "website": ""
     },
     "landajuela/cardiac_challenge": {
-        "description": "Code repository for machine learning for cardiac electrophysiology",
+        "description": "Machine learning challenge for ECG classification and reconstructing cardiac activation maps and transmembrane potentials from 12-lead ECG data.",
         "name": "landajuela/cardiac_challenge",
         "topics": [
             "cardiac-electrophysiology",
@@ -2684,7 +2684,7 @@
         "website": ""
     },
     "landajuela/cardiac_ml": {
-        "description": "Machine Learning for Cardiac Electrical Imaging",
+        "description": "Machine-learning models for reconstructing cardiac activation maps and transmembrane potentials from 12-lead ECG signals using simulated intracardiac data.",
         "name": "landajuela/cardiac_ml",
         "topics": [
             "cardiac-electrophysiology",
@@ -6999,7 +6999,7 @@
         "website": ""
     },
     "llnl/protlib-designer": {
-        "description": "Integer Linear Programming for Protein Library Design",
+        "description": "Design diverse, optimized protein libraries with multi-objective integer programming, deep mutational scanning, protein language models, and inverse folding.",
         "name": "llnl/protlib-designer",
         "topics": [
             "protein-design",
@@ -7999,8 +7999,10 @@
     "llnl/wormhole": {
         "description": "Web interface for Wormhole.",
         "name": "llnl/wormhole",
-        "topics": null,
-        "website": null
+        "topics": [
+            "wormhole-st"
+        ],
+        "website": ""
     },
     "llnl/wormhole-airlock": {
         "description": "Local proxy service designed to pair with Piko to manage inbound requests from Wormhole",
