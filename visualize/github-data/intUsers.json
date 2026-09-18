@@ -1478,7 +1478,8 @@
                 "nodes": [
                     "Olympus-HPC/proteus",
                     "Olympus-HPC/proteus-benchmarks",
-                    "llnl/HPAC"
+                    "llnl/HPAC",
+                    "llnl/ice4hpc_data"
                 ]
             },
             "login": "ZwFink",
@@ -7956,6 +7957,33 @@
             "login": "ilagunap",
             "name": "Ignacio Laguna"
         },
+        "ilumsden": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/28907237?u=84938148ac6ead206de6e3a5d96a909ad55abf80&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "flux-framework/PerfFlowAspect",
+                    "flux-framework/Tutorials",
+                    "flux-framework/dyad",
+                    "flux-framework/flux-core",
+                    "flux-framework/flux-python",
+                    "flux-framework/flux-sys-rs",
+                    "hatchet/hatchet",
+                    "llnl/AMS",
+                    "llnl/Adiak",
+                    "llnl/Caliper",
+                    "llnl/benchpark",
+                    "llnl/benchpark-tutorial",
+                    "llnl/hatchet",
+                    "llnl/hatchet-tutorial",
+                    "llnl/thicket",
+                    "llnl/thicket-tutorial",
+                    "spack/spack",
+                    "spack/spack-packages"
+                ]
+            },
+            "login": "ilumsden",
+            "name": "Ian Lumsden"
+        },
         "indrasis1988": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/88516674?u=043b0bf214f95fd785b2bdfce830993965ebbc1f&v=4",
             "contributedLabRepositories": {
@@ -11604,6 +11632,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/91854887?u=94e5ab319b3ffdb81b98b09f58c8e12c39a0e50b&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "llnl/RAJAPerf",
                     "llnl/benchpark"
                 ]
             },
@@ -11710,6 +11739,7 @@
                     "llnl/ygm-tutorial",
                     "mfem/containers",
                     "mfem/mfem",
+                    "mfem/web",
                     "spack/setup-spack",
                     "spack/spack",
                     "spack/spack-packages"
