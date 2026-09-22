@@ -3257,10 +3257,10 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 3246821
+                        "size": 3249006
                     },
                     {
-                        "size": 1602397
+                        "size": 1602194
                     },
                     {
                         "size": 326760
@@ -3269,7 +3269,7 @@
                         "size": 248050
                     },
                     {
-                        "size": 242277
+                        "size": 242413
                     },
                     {
                         "size": 215055
@@ -3323,7 +3323,7 @@
                     }
                 ],
                 "totalCount": 9,
-                "totalSize": 5955862
+                "totalSize": 5957980
             }
         },
         "E3SM-Project/scream": {
@@ -5900,10 +5900,10 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 1724538
+                        "size": 1726816
                     },
                     {
-                        "size": 78086
+                        "size": 78658
                     },
                     {
                         "size": 73892
@@ -5938,7 +5938,7 @@
                     }
                 ],
                 "totalCount": 5,
-                "totalSize": 1923766
+                "totalSize": 1926616
             }
         },
         "GLVis/data": {
@@ -11882,7 +11882,7 @@
                         "size": 293035
                     },
                     {
-                        "size": 56861
+                        "size": 56943
                     },
                     {
                         "size": 14332
@@ -11932,7 +11932,7 @@
                     }
                 ],
                 "totalCount": 8,
-                "totalSize": 1625868
+                "totalSize": 1625950
             }
         },
         "flux-framework/flux-coral2": {
@@ -12869,10 +12869,10 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 77606
+                        "size": 80787
                     },
                     {
-                        "size": 30388
+                        "size": 30829
                     },
                     {
                         "size": 9550
@@ -12907,7 +12907,7 @@
                     }
                 ],
                 "totalCount": 5,
-                "totalSize": 125050
+                "totalSize": 128672
             }
         },
         "flux-framework/flux-restful-api": {
@@ -17309,7 +17309,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 11708818
+                        "size": 11739860
                     },
                     {
                         "size": 491711
@@ -17375,7 +17375,7 @@
                     }
                 ],
                 "totalCount": 9,
-                "totalSize": 13501853
+                "totalSize": 13532895
             }
         },
         "llnl/Elemental": {
@@ -18632,7 +18632,7 @@
                         "size": 95965786
                     },
                     {
-                        "size": 7257713
+                        "size": 7287653
                     },
                     {
                         "size": 434533
@@ -18716,7 +18716,7 @@
                     }
                 ],
                 "totalCount": 12,
-                "totalSize": 104413292
+                "totalSize": 104443232
             }
         },
         "llnl/GridKit": {
@@ -25985,10 +25985,10 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 1098159
+                        "size": 1103829
                     },
                     {
-                        "size": 20151
+                        "size": 38547
                     },
                     {
                         "size": 4592
@@ -26023,7 +26023,7 @@
                     }
                 ],
                 "totalCount": 5,
-                "totalSize": 1127683
+                "totalSize": 1151749
             }
         },
         "llnl/benchpark-performance": {
@@ -27001,6 +27001,23 @@
                 ],
                 "totalCount": 1,
                 "totalSize": 9276
+            }
+        },
+        "llnl/cm-forecaster": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 74096
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 74096
             }
         },
         "llnl/cmvl": {
@@ -28124,6 +28141,23 @@
                 "totalSize": 8091198
             }
         },
+        "llnl/dr-decoder": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 34154
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 34154
+            }
+        },
         "llnl/dr_evt": {
             "languages": {
                 "edges": [
@@ -28131,10 +28165,10 @@
                         "size": 989505
                     },
                     {
-                        "size": 372392
+                        "size": 401355
                     },
                     {
-                        "size": 179458
+                        "size": 180171
                     },
                     {
                         "size": 115241
@@ -28150,6 +28184,9 @@
                     },
                     {
                         "size": 1108
+                    },
+                    {
+                        "size": 199
                     }
                 ],
                 "nodes": [
@@ -28184,10 +28221,14 @@
                     {
                         "color": "#5a6986",
                         "name": "PureBasic"
+                    },
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
                     }
                 ],
-                "totalCount": 8,
-                "totalSize": 1672539
+                "totalCount": 9,
+                "totalSize": 1702414
             }
         },
         "llnl/dtcmp": {
@@ -34823,6 +34864,30 @@
                 "totalSize": 267669
             }
         },
+        "llnl/psdatagen": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 58224
+                    },
+                    {
+                        "size": 5438
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#198CE7",
+                        "name": "R"
+                    }
+                ],
+                "totalCount": 2,
+                "totalSize": 63662
+            }
+        },
         "llnl/pseudopod": {
             "languages": {
                 "edges": [
@@ -39664,7 +39729,7 @@
                         "size": 12347
                     },
                     {
-                        "size": 3866
+                        "size": 3896
                     },
                     {
                         "size": 3251
@@ -39709,7 +39774,7 @@
                     }
                 ],
                 "totalCount": 9,
-                "totalSize": 1870434
+                "totalSize": 1870464
             }
         },
         "llnl/zfpy-wheels": {
@@ -40082,10 +40147,10 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 528783
+                        "size": 529925
                     },
                     {
-                        "size": 403320
+                        "size": 403432
                     },
                     {
                         "size": 187039
@@ -40127,7 +40192,7 @@
                     }
                 ],
                 "totalCount": 6,
-                "totalSize": 1141401
+                "totalSize": 1142655
             }
         },
         "mfem/containers": {
@@ -40950,7 +41015,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 18538167
+                        "size": 18538792
                     },
                     {
                         "size": 4867911
@@ -40959,7 +41024,7 @@
                         "size": 1229047
                     },
                     {
-                        "size": 476805
+                        "size": 476821
                     },
                     {
                         "size": 461051
@@ -41016,7 +41081,7 @@
                     }
                 ],
                 "totalCount": 9,
-                "totalSize": 26301151
+                "totalSize": 26301792
             }
         },
         "openzfs/zfs-buildbot": {
@@ -43053,7 +43118,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 8788672
+                        "size": 8794070
                     },
                     {
                         "size": 525084
@@ -43147,7 +43212,7 @@
                     }
                 ],
                 "totalCount": 13,
-                "totalSize": 9581301
+                "totalSize": 9586699
             }
         },
         "spack/spack-asp-prototypes": {
@@ -43723,7 +43788,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 21582984
+                        "size": 21601453
                     },
                     {
                         "size": 48886
@@ -43824,7 +43889,7 @@
                     }
                 ],
                 "totalCount": 14,
-                "totalSize": 21668853
+                "totalSize": 21687322
             }
         },
         "spack/spack-prereq": {
