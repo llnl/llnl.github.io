@@ -2819,54 +2819,6 @@
                 "login": "TritonDataCenter"
             }
         },
-        "TutteInstitute/datamapplot": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "datamapplot",
-            "nameWithOwner": "TutteInstitute/datamapplot",
-            "owner": {
-                "isVerified": false,
-                "login": "TutteInstitute"
-            }
-        },
-        "TutteInstitute/fast_hdbscan": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "fast_hdbscan",
-            "nameWithOwner": "TutteInstitute/fast_hdbscan",
-            "owner": {
-                "isVerified": false,
-                "login": "TutteInstitute"
-            }
-        },
-        "TutteInstitute/vectorizers": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "vectorizers",
-            "nameWithOwner": "TutteInstitute/vectorizers",
-            "owner": {
-                "isVerified": false,
-                "login": "TutteInstitute"
-            }
-        },
         "TwP/inifile": {
             "languages": {
                 "nodes": [
@@ -5108,6 +5060,21 @@
                 "login": "beatgammit"
             }
         },
+        "beenje/gidgetlab": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ]
+            },
+            "name": "gidgetlab",
+            "nameWithOwner": "beenje/gidgetlab",
+            "owner": {
+                "login": "beenje"
+            }
+        },
         "benbalter/jekyll-include-cache": {
             "languages": {
                 "nodes": [
@@ -5417,8 +5384,8 @@
             "languages": {
                 "nodes": [
                     {
-                        "color": "#3572A5",
-                        "name": "Python"
+                        "color": "#3178c6",
+                        "name": "TypeScript"
                     }
                 ]
             },
@@ -7191,22 +7158,6 @@
                 "login": "cython"
             }
         },
-        "cytoscape/ipycytoscape": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "ipycytoscape",
-            "nameWithOwner": "cytoscape/ipycytoscape",
-            "owner": {
-                "isVerified": false,
-                "login": "cytoscape"
-            }
-        },
         "d3/d3": {
             "languages": {
                 "nodes": [
@@ -7705,21 +7656,6 @@
                 "login": "dicelab-rhul"
             }
         },
-        "didix21/mdutils": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "mdutils",
-            "nameWithOwner": "didix21/mdutils",
-            "owner": {
-                "login": "didix21"
-            }
-        },
         "digitalbazaar/pyld": {
             "languages": {
                 "nodes": [
@@ -7876,22 +7812,6 @@
             "nameWithOwner": "djc/hashlink",
             "owner": {
                 "login": "djc"
-            }
-        },
-        "dlt-hub/dlt": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "dlt",
-            "nameWithOwner": "dlt-hub/dlt",
-            "owner": {
-                "isVerified": false,
-                "login": "dlt-hub"
             }
         },
         "dmarx/keyframed": {
@@ -10323,6 +10243,22 @@
                 "login": "giampaolo"
             }
         },
+        "gidgethub/gidgethub": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ]
+            },
+            "name": "gidgethub",
+            "nameWithOwner": "gidgethub/gidgethub",
+            "owner": {
+                "isVerified": false,
+                "login": "gidgethub"
+            }
+        },
         "gilbarbara/react-joyride": {
             "languages": {
                 "nodes": [
@@ -11367,21 +11303,6 @@
                 "login": "h2database"
             }
         },
-        "h2non/jsonpath-ng": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "jsonpath-ng",
-            "nameWithOwner": "h2non/jsonpath-ng",
-            "owner": {
-                "login": "h2non"
-            }
-        },
         "h5py/h5py": {
             "languages": {
                 "nodes": [
@@ -11442,21 +11363,6 @@
             "owner": {
                 "isVerified": false,
                 "login": "hamcrest"
-            }
-        },
-        "hamdanal/rich-argparse": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "rich-argparse",
-            "nameWithOwner": "hamdanal/rich-argparse",
-            "owner": {
-                "login": "hamdanal"
             }
         },
         "harlowja/fasteners": {
@@ -12314,21 +12220,6 @@
             "owner": {
                 "isVerified": false,
                 "login": "indexmap-rs"
-            }
-        },
-        "indygreg/python-zstandard": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#555555",
-                        "name": "C"
-                    }
-                ]
-            },
-            "name": "python-zstandard",
-            "nameWithOwner": "indygreg/python-zstandard",
-            "owner": {
-                "login": "indygreg"
             }
         },
         "inkenbrandt/advection": {
@@ -16418,21 +16309,6 @@
                 "login": "lyz-code"
             }
         },
-        "madpah/requirements-parser": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "requirements-parser",
-            "nameWithOwner": "madpah/requirements-parser",
-            "owner": {
-                "login": "madpah"
-            }
-        },
         "madzak/python-json-logger": {
             "languages": {
                 "nodes": [
@@ -17192,21 +17068,6 @@
             "nameWithOwner": "mgeisler/version-sync",
             "owner": {
                 "login": "mgeisler"
-            }
-        },
-        "mhammond/pywin32": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f34b7d",
-                        "name": "C++"
-                    }
-                ]
-            },
-            "name": "pywin32",
-            "nameWithOwner": "mhammond/pywin32",
-            "owner": {
-                "login": "mhammond"
             }
         },
         "mhart/aws4": {
@@ -18583,22 +18444,6 @@
                 "login": "nedbat"
             }
         },
-        "nephila/giturlparse": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "giturlparse",
-            "nameWithOwner": "nephila/giturlparse",
-            "owner": {
-                "isVerified": true,
-                "login": "nephila"
-            }
-        },
         "net-commons/common-logging": {
             "languages": {
                 "nodes": [
@@ -18826,21 +18671,6 @@
             "owner": {
                 "isVerified": false,
                 "login": "ninja-build"
-            }
-        },
-        "njsmith/colorspacious": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "colorspacious",
-            "nameWithOwner": "njsmith/colorspacious",
-            "owner": {
-                "login": "njsmith"
             }
         },
         "nltk/nltk": {
@@ -21563,6 +21393,22 @@
                 "login": "pytest-dev"
             }
         },
+        "pytest-dev/pytest-asyncio": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ]
+            },
+            "name": "pytest-asyncio",
+            "nameWithOwner": "pytest-dev/pytest-asyncio",
+            "owner": {
+                "isVerified": false,
+                "login": "pytest-dev"
+            }
+        },
         "pytest-dev/pytest-cov": {
             "languages": {
                 "nodes": [
@@ -21723,22 +21569,6 @@
                 "login": "python-cffi"
             }
         },
-        "python-distro/distro": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "distro",
-            "nameWithOwner": "python-distro/distro",
-            "owner": {
-                "isVerified": false,
-                "login": "python-distro"
-            }
-        },
         "python-gitlab/python-gitlab": {
             "languages": {
                 "nodes": [
@@ -21851,7 +21681,7 @@
                 "login": "python-jsonschema"
             }
         },
-        "python-lsp/docstring-to-markdown": {
+        "python-ldap/python-ldap": {
             "languages": {
                 "nodes": [
                     {
@@ -21860,27 +21690,11 @@
                     }
                 ]
             },
-            "name": "docstring-to-markdown",
-            "nameWithOwner": "python-lsp/docstring-to-markdown",
+            "name": "python-ldap",
+            "nameWithOwner": "python-ldap/python-ldap",
             "owner": {
                 "isVerified": false,
-                "login": "python-lsp"
-            }
-        },
-        "python-lsp/python-lsp-server": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "python-lsp-server",
-            "nameWithOwner": "python-lsp/python-lsp-server",
-            "owner": {
-                "isVerified": false,
-                "login": "python-lsp"
+                "login": "python-ldap"
             }
         },
         "python-lz4/python-lz4": {
@@ -22723,21 +22537,6 @@
                 "login": "regionmask"
             }
         },
-        "reiinakano/scikit-plot": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "scikit-plot",
-            "nameWithOwner": "reiinakano/scikit-plot",
-            "owner": {
-                "login": "reiinakano"
-            }
-        },
         "release-drafter/release-drafter": {
             "languages": {
                 "nodes": [
@@ -22907,21 +22706,6 @@
             "nameWithOwner": "rlalik/setup-cpp-compiler",
             "owner": {
                 "login": "rlalik"
-            }
-        },
-        "rmorshea/spectate": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "spectate",
-            "nameWithOwner": "rmorshea/spectate",
-            "owner": {
-                "login": "rmorshea"
             }
         },
         "rnorth/mkdocs-codeinclude-plugin": {
@@ -25826,22 +25610,6 @@
                 "login": "stream-utils"
             }
         },
-        "streamlit/streamlit": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "streamlit",
-            "nameWithOwner": "streamlit/streamlit",
-            "owner": {
-                "isVerified": false,
-                "login": "streamlit"
-            }
-        },
         "stretchr/testify": {
             "languages": {
                 "nodes": [
@@ -26537,21 +26305,6 @@
                 "login": "thlorenz"
             }
         },
-        "thombashi/pathvalidate": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "pathvalidate",
-            "nameWithOwner": "thombashi/pathvalidate",
-            "owner": {
-                "login": "thombashi"
-            }
-        },
         "threeal/cmake-action": {
             "languages": {
                 "nodes": [
@@ -26703,21 +26456,6 @@
                 "login": "tobgu"
             }
         },
-        "tobymao/sqlglot": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "sqlglot",
-            "nameWithOwner": "tobymao/sqlglot",
-            "owner": {
-                "login": "tobymao"
-            }
-        },
         "tokio-rs/bytes": {
             "languages": {
                 "nodes": [
@@ -26793,22 +26531,6 @@
             },
             "name": "filelock",
             "nameWithOwner": "tox-dev/filelock",
-            "owner": {
-                "isVerified": false,
-                "login": "tox-dev"
-            }
-        },
-        "tox-dev/pipdeptree": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#dea584",
-                        "name": "Rust"
-                    }
-                ]
-            },
-            "name": "pipdeptree",
-            "nameWithOwner": "tox-dev/pipdeptree",
             "owner": {
                 "isVerified": false,
                 "login": "tox-dev"
@@ -27689,22 +27411,6 @@
                 "login": "vickyliin"
             }
         },
-        "visgl/deck.gl": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3178c6",
-                        "name": "TypeScript"
-                    }
-                ]
-            },
-            "name": "deck.gl",
-            "nameWithOwner": "visgl/deck.gl",
-            "owner": {
-                "isVerified": false,
-                "login": "visgl"
-            }
-        },
         "visionmedia/batch": {
             "languages": {
                 "nodes": [
@@ -28444,21 +28150,6 @@
             "nameWithOwner": "yu-liang-kono/interactor",
             "owner": {
                 "login": "yu-liang-kono"
-            }
-        },
-        "zariiii9003/win-precise-time": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#555555",
-                        "name": "C"
-                    }
-                ]
-            },
-            "name": "win-precise-time",
-            "nameWithOwner": "zariiii9003/win-precise-time",
-            "owner": {
-                "login": "zariiii9003"
             }
         },
         "zarr-developers/VirtualiZarr": {
