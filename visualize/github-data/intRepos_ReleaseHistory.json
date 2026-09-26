@@ -12447,7 +12447,14 @@
         },
         "llnl/GridDyn": {
             "releases": {
-                "nodes": []
+                "nodes": [
+                    {
+                        "name": "v0.12.0",
+                        "publishedAt": "2026-09-26T00:25:48Z",
+                        "tagName": "v0.12.0",
+                        "url": "https://github.com/llnl/GridDyn/releases/tag/v0.12.0"
+                    }
+                ]
             }
         },
         "llnl/GridKit": {
@@ -16650,6 +16657,12 @@
             "releases": {
                 "nodes": [
                     {
+                        "name": "v2026.07.2",
+                        "publishedAt": "2026-09-25T17:10:39Z",
+                        "tagName": "v2026.07.2",
+                        "url": "https://github.com/llnl/camp/releases/tag/v2026.07.2"
+                    },
+                    {
                         "name": "v2026.07.1",
                         "publishedAt": "2026-07-31T15:57:48Z",
                         "tagName": "v2026.07.1",
@@ -17405,6 +17418,41 @@
                 "nodes": []
             }
         },
+        "llnl/datacrumbs": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "v0.0.4",
+                        "publishedAt": "2025-04-21T19:32:07Z",
+                        "tagName": "v0.0.4",
+                        "url": "https://github.com/llnl/datacrumbs/releases/tag/v0.0.4"
+                    },
+                    {
+                        "name": "v0.0.3",
+                        "publishedAt": "2025-04-21T19:22:46Z",
+                        "tagName": "v0.0.3",
+                        "url": "https://github.com/llnl/datacrumbs/releases/tag/v0.0.3"
+                    },
+                    {
+                        "name": "Release v0.0.2",
+                        "publishedAt": "2025-03-06T17:17:07Z",
+                        "tagName": "v0.0.2",
+                        "url": "https://github.com/llnl/datacrumbs/releases/tag/v0.0.2"
+                    },
+                    {
+                        "name": "Release v0.0.1",
+                        "publishedAt": "2024-08-09T16:11:31Z",
+                        "tagName": "v0.0.1",
+                        "url": "https://github.com/llnl/datacrumbs/releases/tag/v0.0.1"
+                    }
+                ]
+            }
+        },
+        "llnl/datacrumbs-utils": {
+            "releases": {
+                "nodes": []
+            }
+        },
         "llnl/dataracebench": {
             "releases": {
                 "nodes": [
@@ -17702,9 +17750,168 @@
                 ]
             }
         },
+        "llnl/dfanalyzer": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "v0.0.9",
+                        "publishedAt": "2026-07-14T14:59:21Z",
+                        "tagName": "v0.0.9",
+                        "url": "https://github.com/llnl/dfanalyzer/releases/tag/v0.0.9"
+                    },
+                    {
+                        "name": "v0.0.8",
+                        "publishedAt": "2026-03-16T16:46:50Z",
+                        "tagName": "v0.0.8",
+                        "url": "https://github.com/llnl/dfanalyzer/releases/tag/v0.0.8"
+                    },
+                    {
+                        "name": "v0.0.7",
+                        "publishedAt": "2026-02-17T19:38:23Z",
+                        "tagName": "v0.0.7",
+                        "url": "https://github.com/llnl/dfanalyzer/releases/tag/v0.0.7"
+                    },
+                    {
+                        "name": "Release v0.0.6",
+                        "publishedAt": "2026-01-15T15:58:18Z",
+                        "tagName": "v0.0.6",
+                        "url": "https://github.com/llnl/dfanalyzer/releases/tag/v0.0.6"
+                    },
+                    {
+                        "name": "Release v0.0.5",
+                        "publishedAt": "2025-10-28T18:12:09Z",
+                        "tagName": "v0.0.5",
+                        "url": "https://github.com/llnl/dfanalyzer/releases/tag/v0.0.5"
+                    },
+                    {
+                        "name": "Release v0.0.4",
+                        "publishedAt": "2025-10-23T01:46:04Z",
+                        "tagName": "v0.0.4",
+                        "url": "https://github.com/llnl/dfanalyzer/releases/tag/v0.0.4"
+                    },
+                    {
+                        "name": "Release v0.0.3",
+                        "publishedAt": "2025-10-23T00:12:03Z",
+                        "tagName": "v0.0.3",
+                        "url": "https://github.com/llnl/dfanalyzer/releases/tag/v0.0.3"
+                    },
+                    {
+                        "name": "Release v0.0.2",
+                        "publishedAt": "2025-10-22T22:02:24Z",
+                        "tagName": "v0.0.2",
+                        "url": "https://github.com/llnl/dfanalyzer/releases/tag/v0.0.2"
+                    },
+                    {
+                        "name": "Release v0.0.1",
+                        "publishedAt": "2025-10-22T21:17:42Z",
+                        "tagName": "v0.0.1",
+                        "url": "https://github.com/llnl/dfanalyzer/releases/tag/v0.0.1"
+                    }
+                ]
+            }
+        },
+        "llnl/dfdashboard": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "llnl/dfoptimizer": {
+            "releases": {
+                "nodes": []
+            }
+        },
         "llnl/dftf": {
             "releases": {
                 "nodes": []
+            }
+        },
+        "llnl/dftracer-agents": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "llnl/dftracer-utils": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "v0.0.12",
+                        "publishedAt": "2026-07-14T13:11:05Z",
+                        "tagName": "v0.0.12",
+                        "url": "https://github.com/llnl/dftracer-utils/releases/tag/v0.0.12"
+                    },
+                    {
+                        "name": "Release v0.0.11",
+                        "publishedAt": "2026-07-06T02:23:22Z",
+                        "tagName": "v0.0.11",
+                        "url": "https://github.com/llnl/dftracer-utils/releases/tag/v0.0.11"
+                    },
+                    {
+                        "name": "Release v0.0.10",
+                        "publishedAt": "2026-06-09T05:59:08Z",
+                        "tagName": "v0.0.10",
+                        "url": "https://github.com/llnl/dftracer-utils/releases/tag/v0.0.10"
+                    },
+                    {
+                        "name": "Release v0.0.9",
+                        "publishedAt": "2026-06-07T22:39:48Z",
+                        "tagName": "v0.0.9",
+                        "url": "https://github.com/llnl/dftracer-utils/releases/tag/v0.0.9"
+                    },
+                    {
+                        "name": "Release v0.0.8",
+                        "publishedAt": "2026-06-07T01:50:08Z",
+                        "tagName": "v0.0.8",
+                        "url": "https://github.com/llnl/dftracer-utils/releases/tag/v0.0.8"
+                    },
+                    {
+                        "name": "Release V0.0.8",
+                        "publishedAt": "2026-06-04T05:09:05Z",
+                        "tagName": "V0.0.8",
+                        "url": "https://github.com/llnl/dftracer-utils/releases/tag/V0.0.8"
+                    },
+                    {
+                        "name": "Release v0.0.7",
+                        "publishedAt": "2026-05-23T03:08:57Z",
+                        "tagName": "v0.0.7",
+                        "url": "https://github.com/llnl/dftracer-utils/releases/tag/v0.0.7"
+                    },
+                    {
+                        "name": "Release v0.0.6",
+                        "publishedAt": "2026-05-22T03:43:47Z",
+                        "tagName": "v0.0.6",
+                        "url": "https://github.com/llnl/dftracer-utils/releases/tag/v0.0.6"
+                    },
+                    {
+                        "name": "Release v0.0.5",
+                        "publishedAt": "2025-10-22T03:39:57Z",
+                        "tagName": "v0.0.5",
+                        "url": "https://github.com/llnl/dftracer-utils/releases/tag/v0.0.5"
+                    },
+                    {
+                        "name": "Release v0.0.4",
+                        "publishedAt": "2025-10-20T18:21:15Z",
+                        "tagName": "v0.0.4",
+                        "url": "https://github.com/llnl/dftracer-utils/releases/tag/v0.0.4"
+                    },
+                    {
+                        "name": "v0.0.3",
+                        "publishedAt": "2025-10-20T06:26:17Z",
+                        "tagName": "v0.0.3",
+                        "url": "https://github.com/llnl/dftracer-utils/releases/tag/v0.0.3"
+                    },
+                    {
+                        "name": "v0.0.2",
+                        "publishedAt": "2025-10-19T22:53:31Z",
+                        "tagName": "v0.0.2",
+                        "url": "https://github.com/llnl/dftracer-utils/releases/tag/v0.0.2"
+                    },
+                    {
+                        "name": "Release v0.0.1",
+                        "publishedAt": "2025-10-19T21:59:37Z",
+                        "tagName": "v0.0.1",
+                        "url": "https://github.com/llnl/dftracer-utils/releases/tag/v0.0.1"
+                    }
+                ]
             }
         },
         "llnl/direct-fuse": {
@@ -18224,6 +18431,18 @@
         "llnl/havoqgt": {
             "releases": {
                 "nodes": []
+            }
+        },
+        "llnl/hcl": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "Release v0.0.1",
+                        "publishedAt": "2024-04-11T16:24:18Z",
+                        "tagName": "0.0.1",
+                        "url": "https://github.com/llnl/hcl/releases/tag/0.0.1"
+                    }
+                ]
             }
         },
         "llnl/hdbind": {
@@ -21710,6 +21929,48 @@
         "llnl/pyctos": {
             "releases": {
                 "nodes": []
+            }
+        },
+        "llnl/pydftracer": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "v2.0.4",
+                        "publishedAt": "2026-07-21T22:26:23Z",
+                        "tagName": "v2.0.4",
+                        "url": "https://github.com/llnl/pydftracer/releases/tag/v2.0.4"
+                    },
+                    {
+                        "name": "Release v2.0.3",
+                        "publishedAt": "2026-06-26T16:17:16Z",
+                        "tagName": "v2.0.3",
+                        "url": "https://github.com/llnl/pydftracer/releases/tag/v2.0.3"
+                    },
+                    {
+                        "name": "Release v2.0.2",
+                        "publishedAt": "2025-10-20T06:08:53Z",
+                        "tagName": "v2.0.2",
+                        "url": "https://github.com/llnl/pydftracer/releases/tag/v2.0.2"
+                    },
+                    {
+                        "name": "Release v2.0.1",
+                        "publishedAt": "2025-10-20T05:55:34Z",
+                        "tagName": "v2.0.1",
+                        "url": "https://github.com/llnl/pydftracer/releases/tag/v2.0.1"
+                    },
+                    {
+                        "name": "v2.0.0",
+                        "publishedAt": "2025-10-20T04:27:37Z",
+                        "tagName": "v2.0.0",
+                        "url": "https://github.com/llnl/pydftracer/releases/tag/v2.0.0"
+                    },
+                    {
+                        "name": "Release v0.0.1",
+                        "publishedAt": "2025-10-20T04:25:41Z",
+                        "tagName": "v0.0.1",
+                        "url": "https://github.com/llnl/pydftracer/releases/tag/v0.0.1"
+                    }
+                ]
             }
         },
         "llnl/pylibROM": {

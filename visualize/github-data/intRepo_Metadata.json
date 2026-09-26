@@ -5514,6 +5514,18 @@
         ],
         "website": ""
     },
+    "llnl/datacrumbs": {
+        "description": "A multi-level dataflow profiler for capture I/O calls from worklows.",
+        "name": "llnl/datacrumbs",
+        "topics": null,
+        "website": "https://datacrumbs.readthedocs.io/en/latest/"
+    },
+    "llnl/datacrumbs-utils": {
+        "description": "Utilities and Userspace tools for help users use and deploy datacrumbs.",
+        "name": "llnl/datacrumbs-utils",
+        "topics": null,
+        "website": null
+    },
     "llnl/dataracebench": {
         "description": "Data race benchmark suite for evaluating OpenMP correctness tools aimed to detect data races.",
         "name": "llnl/dataracebench",
@@ -5575,11 +5587,46 @@
         ],
         "website": null
     },
+    "llnl/dfanalyzer": {
+        "description": "Layered data-flow analysis for HPC I/O.",
+        "name": "llnl/dfanalyzer",
+        "topics": [
+            "deep-learning",
+            "hpc",
+            "io-analysis",
+            "multi-layer"
+        ],
+        "website": "https://dfanalyzer.readthedocs.io/en/latest/"
+    },
+    "llnl/dfdashboard": {
+        "description": "The Interactive Visualization Layer of the DataFlowX Suite",
+        "name": "llnl/dfdashboard",
+        "topics": null,
+        "website": null
+    },
+    "llnl/dfoptimizer": {
+        "description": null,
+        "name": "llnl/dfoptimizer",
+        "topics": null,
+        "website": null
+    },
     "llnl/dftf": {
         "description": "Drink From The Firehose",
         "name": "llnl/dftf",
         "topics": null,
         "website": null
+    },
+    "llnl/dftracer-agents": {
+        "description": null,
+        "name": "llnl/dftracer-agents",
+        "topics": null,
+        "website": null
+    },
+    "llnl/dftracer-utils": {
+        "description": "A collection of utilities for DFTracer",
+        "name": "llnl/dftracer-utils",
+        "topics": null,
+        "website": "https://dftracer.readthedocs.io/projects/utils/en/latest/"
     },
     "llnl/direct-fuse": {
         "description": null,
@@ -5988,6 +6035,12 @@
             "graph"
         ],
         "website": ""
+    },
+    "llnl/hcl": {
+        "description": "HCL is a distributed data structure library with STL like interface",
+        "name": "llnl/hcl",
+        "topics": null,
+        "website": "https://hcl-cpp.readthedocs.io/en/latest"
     },
     "llnl/hdbind": {
         "description": null,
@@ -7099,6 +7152,12 @@
         "name": "llnl/pyctos",
         "topics": null,
         "website": ""
+    },
+    "llnl/pydftracer": {
+        "description": "This repository contains the python binding for DFTracer",
+        "name": "llnl/pydftracer",
+        "topics": null,
+        "website": "https://dftracer.readthedocs.io/projects/python/en/latest/"
     },
     "llnl/pylibROM": {
         "description": "Python interface for libROM, library for reduced order models",
