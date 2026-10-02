@@ -1788,12 +1788,6 @@
         "topics": null,
         "website": null
     },
-    "Olympus-HPC/proteus": {
-        "description": "Programmable JIT Compilation and Optimization for C/C++ using LLVM",
-        "name": "Olympus-HPC/proteus",
-        "topics": null,
-        "website": ""
-    },
     "Olympus-HPC/proteus-benchmarks": {
         "description": "This repo stores benchmarks and a driver program to collect measurements for Proteus JIT optimization",
         "name": "Olympus-HPC/proteus-benchmarks",
@@ -7027,6 +7021,12 @@
             "reinforcement-learning"
         ],
         "website": ""
+    },
+    "llnl/proteus": {
+        "description": "Programmable JIT Compilation and Optimization for C/C++ using LLVM",
+        "name": "llnl/proteus",
+        "topics": null,
+        "website": "https://software.llnl.gov/proteus/"
     },
     "llnl/protlib-designer": {
         "description": "Design diverse, optimized protein libraries with multi-objective integer programming, deep mutational scanning, protein language models, and inverse folding.",

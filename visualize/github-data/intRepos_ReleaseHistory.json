@@ -6490,60 +6490,6 @@
                 ]
             }
         },
-        "Olympus-HPC/proteus": {
-            "releases": {
-                "nodes": [
-                    {
-                        "name": "v2026.10.0",
-                        "publishedAt": "2026-09-28T23:42:43Z",
-                        "tagName": "v2026.10.0",
-                        "url": "https://github.com/Olympus-HPC/proteus/releases/tag/v2026.10.0"
-                    },
-                    {
-                        "name": "v2026.07.0",
-                        "publishedAt": "2026-07-02T01:33:59Z",
-                        "tagName": "v2026.07.0",
-                        "url": "https://github.com/Olympus-HPC/proteus/releases/tag/v2026.07.0"
-                    },
-                    {
-                        "name": "v2026.07.0rc2",
-                        "publishedAt": "2026-07-01T22:43:44Z",
-                        "tagName": "v2026.07.0rc2",
-                        "url": "https://github.com/Olympus-HPC/proteus/releases/tag/v2026.07.0rc2"
-                    },
-                    {
-                        "name": "v2026.07.0rc1",
-                        "publishedAt": "2026-07-01T07:11:27Z",
-                        "tagName": "v2026.07.0rc1",
-                        "url": "https://github.com/Olympus-HPC/proteus/releases/tag/v2026.07.0rc1"
-                    },
-                    {
-                        "name": "v2026.05.0",
-                        "publishedAt": "2026-05-07T23:54:19Z",
-                        "tagName": "v2026.05.0",
-                        "url": "https://github.com/Olympus-HPC/proteus/releases/tag/v2026.05.0"
-                    },
-                    {
-                        "name": "v2026.03.0",
-                        "publishedAt": "2026-03-03T20:17:28Z",
-                        "tagName": "v2026.03.0",
-                        "url": "https://github.com/Olympus-HPC/proteus/releases/tag/v2026.03.0"
-                    },
-                    {
-                        "name": "v2026.01.0",
-                        "publishedAt": "2026-01-16T18:14:53Z",
-                        "tagName": "v2026.01.0",
-                        "url": "https://github.com/Olympus-HPC/proteus/releases/tag/v2026.01.0"
-                    },
-                    {
-                        "name": "cgo25",
-                        "publishedAt": "2025-03-10T17:28:09Z",
-                        "tagName": "cgo25",
-                        "url": "https://github.com/Olympus-HPC/proteus/releases/tag/cgo25"
-                    }
-                ]
-            }
-        },
         "Olympus-HPC/proteus-benchmarks": {
             "releases": {
                 "nodes": []
@@ -21573,6 +21519,60 @@
                 "nodes": []
             }
         },
+        "llnl/proteus": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "v2026.10.0",
+                        "publishedAt": "2026-09-28T23:42:43Z",
+                        "tagName": "v2026.10.0",
+                        "url": "https://github.com/llnl/proteus/releases/tag/v2026.10.0"
+                    },
+                    {
+                        "name": "v2026.07.0",
+                        "publishedAt": "2026-07-02T01:33:59Z",
+                        "tagName": "v2026.07.0",
+                        "url": "https://github.com/llnl/proteus/releases/tag/v2026.07.0"
+                    },
+                    {
+                        "name": "v2026.07.0rc2",
+                        "publishedAt": "2026-07-01T22:43:44Z",
+                        "tagName": "v2026.07.0rc2",
+                        "url": "https://github.com/llnl/proteus/releases/tag/v2026.07.0rc2"
+                    },
+                    {
+                        "name": "v2026.07.0rc1",
+                        "publishedAt": "2026-07-01T07:11:27Z",
+                        "tagName": "v2026.07.0rc1",
+                        "url": "https://github.com/llnl/proteus/releases/tag/v2026.07.0rc1"
+                    },
+                    {
+                        "name": "v2026.05.0",
+                        "publishedAt": "2026-05-07T23:54:19Z",
+                        "tagName": "v2026.05.0",
+                        "url": "https://github.com/llnl/proteus/releases/tag/v2026.05.0"
+                    },
+                    {
+                        "name": "v2026.03.0",
+                        "publishedAt": "2026-03-03T20:17:28Z",
+                        "tagName": "v2026.03.0",
+                        "url": "https://github.com/llnl/proteus/releases/tag/v2026.03.0"
+                    },
+                    {
+                        "name": "v2026.01.0",
+                        "publishedAt": "2026-01-16T18:14:53Z",
+                        "tagName": "v2026.01.0",
+                        "url": "https://github.com/llnl/proteus/releases/tag/v2026.01.0"
+                    },
+                    {
+                        "name": "cgo25",
+                        "publishedAt": "2025-03-10T17:28:09Z",
+                        "tagName": "cgo25",
+                        "url": "https://github.com/llnl/proteus/releases/tag/cgo25"
+                    }
+                ]
+            }
+        },
         "llnl/protlib-designer": {
             "releases": {
                 "nodes": [
@@ -27104,6 +27104,12 @@
         "xCDAT/xcdat": {
             "releases": {
                 "nodes": [
+                    {
+                        "name": "v0.11.4",
+                        "publishedAt": "2026-10-01T21:44:17Z",
+                        "tagName": "v0.11.4",
+                        "url": "https://github.com/xCDAT/xcdat/releases/tag/v0.11.4"
+                    },
                     {
                         "name": "v0.11.3",
                         "publishedAt": "2026-07-16T18:18:29Z",
