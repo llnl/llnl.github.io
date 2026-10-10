@@ -4506,17 +4506,6 @@
         "topics": null,
         "website": null
     },
-    "llnl/SSAPy-Toolkit": {
-        "description": "A package for high fidelity six-dof propagation and visualizations.",
-        "name": "llnl/SSAPy-Toolkit",
-        "topics": [
-            "observables",
-            "orbit-transfers",
-            "plotting",
-            "orbit-fit"
-        ],
-        "website": ""
-    },
     "llnl/SSHSpawner": {
         "description": null,
         "name": "llnl/SSHSpawner",
@@ -7764,6 +7753,17 @@
         "name": "llnl/spotfe",
         "topics": [
             "radiuss"
+        ],
+        "website": ""
+    },
+    "llnl/ssatk": {
+        "description": "Space Situational Awareness Toolkit (SSATK): six-degree-of-freedom (6-DOF) orbit and attitude propagation, coordinate transforms, Lambertian brightness modeling, and 3D/interactive visualization for spacecraft from LEO to cislunar space.",
+        "name": "llnl/ssatk",
+        "topics": [
+            "observables",
+            "orbit-transfers",
+            "plotting",
+            "orbit-fit"
         ],
         "website": ""
     },
