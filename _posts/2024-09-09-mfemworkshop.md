@@ -8,7 +8,7 @@ The [MFEM](https://mfem.org) team invites you to the fourth annual [MFEM Communi
 Registration and abstract submissions close on October 15. Submit visualizations (images or videos) of MFEM-related simulations for a chance to win a t-shirt and be featured in the online gallery. Returning this year is the student showcase, so we encourage students to submit a 10-minute lightning talk.
 
 * [Agenda & other details](https://mfem.org/workshop/)
-* [Vis contest submission](https://docs.google.com/forms/d/e/1FAIpQLSe7iIn0KJvu0Iu9Nyp6S0gi9D-l_unsO-WGupBWE3d0l8TgLg/viewform?usp=sf_link)
+* Vis contest submission
 * [Read about last year's workshop](https://computing.llnl.gov/about/newsroom/mfem-workshop-2023)
 * [Videos of last year's talks](https://mfem.org/videos/#mfem-workshop-2023)
 * Contact: <mfem@llnl.gov>

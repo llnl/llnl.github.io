@@ -45,7 +45,7 @@ One of the great things about a large government organization is that we're not 
 
 Case in point: The DOE's Advanced Simulation and Computing ([ASC](https://asc.llnl.gov)) Program leverages OSS to build, field, and integrate Linux clusters into production service at our [Livermore Computing high-performance computing center](https://hpc.llnl.gov/). ASC is responsible for developing computer simulation capabilities that analyze and predict the performance, safety, and effectiveness of the nation's nuclear stockpile. In other words, the stakes are high for ensuring our code is accurate. With OSS, we can develop quickly and choose the best solutions.
 
-This website abounds with examples of projects that have found a home in the open-source community. Access is key, which is why we jumped at the chance to index our software on [Code.gov](https://code.gov). You'll find our work in the DOE [repo list](https://code.gov/#!/browse-projects?agencies=DOE), and we invite you to browse our projects on [GitHub](https://github.com/LLNL).
+This website abounds with examples of projects that have found a home in the open-source community, and we invite you to browse our projects on [GitHub](https://github.com/LLNL).
 
 \* The original policy memorandum is no longer available online. For details, please see
 
