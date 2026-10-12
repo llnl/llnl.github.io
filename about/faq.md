@@ -203,7 +203,7 @@ Now that your project is on GitHub, make sure users and contributors can find it
 
     * See helpful hints on [GitHub's topic help page](https://help.github.com/articles/about-topics/). Add tags relevant to your project's programming language, platforms, and more (e.g., Python, HPC, Linux).
 
-2. Let [X/Twitter](https://x.com/Livermore_Comp) followers know your project is available on GitHub. Feel free to tag the `@Livermore_Comp` handle in your own post, or submit a request to <comp-comms@llnl.gov> to post on your behalf.
+2. Let [X/Twitter](https://x.com/Livermore_Comp) followers know your project is available on GitHub. Feel free to tag the `@Livermore_Comp` handle in your own post, or submit a request to <comp-comms@llnl.gov> to post on your behalf. Similarly, feel free to tag [Computing at LLNL](https://www.linkedin.com/showcase/computing-at-llnl) in LinkedIn posts.
 
 3. Publicize any outreach activities or major milestones related to your project such as:
    * A paper/poster/presentation is accepted at a conference
