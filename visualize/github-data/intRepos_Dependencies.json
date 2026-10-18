@@ -41411,6 +41411,210 @@
                 ]
             }
         },
+        "llnl/MacPatch": {
+            "dependencyGraphManifests": {
+                "nodes": [
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "requests",
+                                    "repository": {
+                                        "nameWithOwner": "psf/requests"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "ace-editor-builds",
+                                    "repository": {
+                                        "nameWithOwner": "ajaxorg/ace-builds"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "bootstrap",
+                                    "repository": {
+                                        "nameWithOwner": "twbs/bootstrap"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "bootstrap-chosen",
+                                    "repository": null
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "bootstrap-editable",
+                                    "repository": null
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "bootstrap-table",
+                                    "repository": {
+                                        "nameWithOwner": "wenzhixin/bootstrap-table"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "brace",
+                                    "repository": {
+                                        "nameWithOwner": "thlorenz/brace"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "chart.js",
+                                    "repository": {
+                                        "nameWithOwner": "chartjs/Chart.js"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "chosen-js",
+                                    "repository": {
+                                        "nameWithOwner": "harvesthq/chosen"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "dompurify",
+                                    "repository": {
+                                        "nameWithOwner": "cure53/DOMPurify"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "font-awesome",
+                                    "repository": {
+                                        "nameWithOwner": "FortAwesome/Font-Awesome"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "interactjs",
+                                    "repository": {
+                                        "nameWithOwner": "taye/interact.js"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "jQuery-QueryBuilder",
+                                    "repository": {
+                                        "nameWithOwner": "mistic100/jQuery-QueryBuilder"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "jquery",
+                                    "repository": {
+                                        "nameWithOwner": "jquery/jquery"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "jquery-resizable-columns",
+                                    "repository": {
+                                        "nameWithOwner": "dobtco/jquery-resizable-columns"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "jquery-steps-tc",
+                                    "repository": {
+                                        "nameWithOwner": "Jorisslagter/jquery-steps"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "metismenu",
+                                    "repository": {
+                                        "nameWithOwner": "onokumus/metismenu"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "modernizr",
+                                    "repository": {
+                                        "nameWithOwner": "Modernizr/Modernizr"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "moment",
+                                    "repository": {
+                                        "nameWithOwner": "moment/moment"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "morris.js",
+                                    "repository": {
+                                        "nameWithOwner": "morrisjs/morris.js"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "popper.js",
+                                    "repository": {
+                                        "nameWithOwner": "floating-ui/floating-ui"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "raphael",
+                                    "repository": {
+                                        "nameWithOwner": "DmitryBaranovskiy/raphael"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "sb-admin-2",
+                                    "repository": {
+                                        "nameWithOwner": "StartBootstrap/startbootstrap-sb-admin-2"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "selectize",
+                                    "repository": {
+                                        "nameWithOwner": "selectize/selectize.js"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "sql-parser-mistic",
+                                    "repository": {
+                                        "nameWithOwner": "mistic100/sql-parser"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "tableexport.jquery.plugin",
+                                    "repository": {
+                                        "nameWithOwner": "hhurz/tableExport.jquery.plugin"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#438eff",
+                        "name": "Objective-C"
+                    }
+                ]
+            }
+        },
         "llnl/MacPatch-AutoPKG": {
             "dependencyGraphManifests": {
                 "nodes": []
@@ -56209,7 +56413,9 @@
                                 {
                                     "packageManager": "MAVEN",
                                     "packageName": "org.springframework:spring-webflux",
-                                    "repository": null
+                                    "repository": {
+                                        "nameWithOwner": "spring-projects/spring-framework"
+                                    }
                                 },
                                 {
                                     "packageManager": "MAVEN",
@@ -60239,6 +60445,80 @@
                 ]
             }
         },
+        "llnl/echemfem": {
+            "dependencyGraphManifests": {
+                "nodes": [
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "pandas",
+                                    "repository": {
+                                        "nameWithOwner": "pandas-dev/pandas"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "sphinx",
+                                    "repository": {
+                                        "nameWithOwner": "sphinx-doc/sphinx"
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "sphinx-rtd-theme",
+                                    "repository": {
+                                        "nameWithOwner": "readthedocs/sphinx_rtd_theme"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "ACTIONS",
+                                    "packageName": "actions/checkout",
+                                    "repository": {
+                                        "nameWithOwner": "actions/checkout"
+                                    }
+                                },
+                                {
+                                    "packageManager": "ACTIONS",
+                                    "packageName": "actions/deploy-pages",
+                                    "repository": {
+                                        "nameWithOwner": "actions/deploy-pages"
+                                    }
+                                },
+                                {
+                                    "packageManager": "ACTIONS",
+                                    "packageName": "actions/upload-pages-artifact",
+                                    "repository": {
+                                        "nameWithOwner": "actions/upload-pages-artifact"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ]
+            }
+        },
         "llnl/elastic-stacker": {
             "dependencyGraphManifests": {
                 "nodes": [
@@ -63085,6 +63365,47 @@
                 ]
             }
         },
+        "llnl/irep": {
+            "dependencyGraphManifests": {
+                "nodes": [
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "sphinx",
+                                    "repository": {
+                                        "nameWithOwner": "sphinx-doc/sphinx"
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "sphinx-rtd-theme",
+                                    "repository": {
+                                        "nameWithOwner": "readthedocs/sphinx_rtd_theme"
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "sphinxcontrib-programoutput",
+                                    "repository": {
+                                        "nameWithOwner": "OpenNTI/sphinxcontrib-programoutput"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#000080",
+                        "name": "Lua"
+                    }
+                ]
+            }
+        },
         "llnl/iris": {
             "dependencyGraphManifests": {
                 "nodes": [
@@ -64244,6 +64565,25 @@
                     {
                         "color": "#f34b7d",
                         "name": "C++"
+                    }
+                ]
+            }
+        },
+        "llnl/ltau-ff": {
+            "dependencyGraphManifests": {
+                "nodes": [
+                    {
+                        "dependencies": {
+                            "nodes": []
+                        }
+                    }
+                ]
+            },
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
                     }
                 ]
             }
