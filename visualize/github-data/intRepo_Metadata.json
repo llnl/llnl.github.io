@@ -4414,7 +4414,7 @@
         "website": null
     },
     "llnl/SAC2000": {
-        "description": "SAC2000 (Seismic Analysis Code for the third millennium) is a general purpose interactive program designed for the study of sequential signals, especially time-series data.",
+        "description": "SAC2000 (Seismic Analysis Code for the third millennium) is a general purpose interactive program designed for the study of sequential signals, especially time-series data. For a modern version of these algorithms please visit our updated Java Seismic Analysis Code repo at https://github.com/llnl/JSAC",
         "name": "llnl/SAC2000",
         "topics": [
             "application"
@@ -5711,6 +5711,12 @@
             "cnn-visualization"
         ],
         "website": ""
+    },
+    "llnl/fdsndata": {
+        "description": "FDSNData provides a simple programmatic interface for accessing Federation of Digital Seismograph Networks (FDSN) standard compliant web services to download Earth Science data (seismic waveforms, earthquake bulletins, etc).",
+        "name": "llnl/fdsndata",
+        "topics": null,
+        "website": null
     },
     "llnl/fdtree": {
         "description": "Recursive generator of directory trees",
