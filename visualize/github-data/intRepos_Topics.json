@@ -17164,41 +17164,6 @@
                 "totalCount": 0
             }
         },
-        "spack/cache.spack.io": {
-            "repositoryTopics": {
-                "nodes": [
-                    {
-                        "resourcePath": "/topics/build-cache",
-                        "topic": {
-                            "name": "build-cache"
-                        },
-                        "url": "https://github.com/topics/build-cache"
-                    },
-                    {
-                        "resourcePath": "/topics/package-manager",
-                        "topic": {
-                            "name": "package-manager"
-                        },
-                        "url": "https://github.com/topics/package-manager"
-                    },
-                    {
-                        "resourcePath": "/topics/packages",
-                        "topic": {
-                            "name": "packages"
-                        },
-                        "url": "https://github.com/topics/packages"
-                    },
-                    {
-                        "resourcePath": "/topics/spack",
-                        "topic": {
-                            "name": "spack"
-                        },
-                        "url": "https://github.com/topics/spack"
-                    }
-                ],
-                "totalCount": 4
-            }
-        },
         "spack/canonical-unparse": {
             "repositoryTopics": {
                 "nodes": [],
@@ -17331,6 +17296,41 @@
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
+            }
+        },
+        "spack/legacy-cache.spack.io": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/build-cache",
+                        "topic": {
+                            "name": "build-cache"
+                        },
+                        "url": "https://github.com/topics/build-cache"
+                    },
+                    {
+                        "resourcePath": "/topics/package-manager",
+                        "topic": {
+                            "name": "package-manager"
+                        },
+                        "url": "https://github.com/topics/package-manager"
+                    },
+                    {
+                        "resourcePath": "/topics/packages",
+                        "topic": {
+                            "name": "packages"
+                        },
+                        "url": "https://github.com/topics/packages"
+                    },
+                    {
+                        "resourcePath": "/topics/spack",
+                        "topic": {
+                            "name": "spack"
+                        },
+                        "url": "https://github.com/topics/spack"
+                    }
+                ],
+                "totalCount": 4
             }
         },
         "spack/legacy-spack.io": {
