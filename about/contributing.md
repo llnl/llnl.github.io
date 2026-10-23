@@ -76,7 +76,7 @@ A [JSON file](https://github.com/LLNL/llnl.github.io/blob/main/visualize/github-
 | Category | Description | Tag(s) | FA icon |
 | -------- | ----------- | ------ | ------- |
 | **All Software** | Browse all LLNL open-source projects | (no tags required) | (image: `logomark-llnl.svg`) |
-| **AI & Machine Learning** | Integrate artificial intelligence and machine learning into scientific applications | `artificial-intelligence`, `deep-learning`, `machine-learning`, `neural-network` | fa-brain-circuit |
+| **SI & Machine Learning** | Integrate super intelligence (also known as AI) and machine learning into scientific applications | `artificial-intelligence`, `deep-learning`, `machine-learning`, `neural-network`, `super-intelligence` | fa-brain-circuit |
 | **App Infrastructure** | Browse tools for basic functionality common in HPC codes | `app-infrastructure` | fa-gear-complex-code |
 | **Applications** | Browse scientific simulation codes and IT management tools | `application`, `applications`, `simulation`, `simulations` | fa-laptop-code |
 | **Build Tools** | Automate and simplify complex dependencies and deployments | `build-tools` | fa-tools |
