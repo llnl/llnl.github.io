@@ -25764,6 +25764,13 @@
                                 },
                                 {
                                     "packageManager": "PIP",
+                                    "packageName": "black",
+                                    "repository": {
+                                        "nameWithOwner": "psf/black"
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
                                     "packageName": "cffi",
                                     "repository": {
                                         "nameWithOwner": "python-cffi/cffi"
@@ -48634,6 +48641,26 @@
                             "nodes": [
                                 {
                                     "packageManager": "PIP",
+                                    "packageName": "duckdb",
+                                    "repository": {
+                                        "nameWithOwner": "duckdb/duckdb"
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "streamlit",
+                                    "repository": {
+                                        "nameWithOwner": "streamlit/streamlit"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "PIP",
                                     "packageName": "dynaconf",
                                     "repository": {
                                         "nameWithOwner": "dynaconf/dynaconf"
@@ -52056,26 +52083,6 @@
                                 }
                             ]
                         }
-                    },
-                    {
-                        "dependencies": {
-                            "nodes": [
-                                {
-                                    "packageManager": "ACTIONS",
-                                    "packageName": "actions/checkout",
-                                    "repository": {
-                                        "nameWithOwner": "actions/checkout"
-                                    }
-                                },
-                                {
-                                    "packageManager": "ACTIONS",
-                                    "packageName": "actions/setup-python",
-                                    "repository": {
-                                        "nameWithOwner": "actions/setup-python"
-                                    }
-                                }
-                            ]
-                        }
                     }
                 ]
             },
@@ -53938,6 +53945,13 @@
                             "nodes": [
                                 {
                                     "packageManager": "PIP",
+                                    "packageName": "archspec",
+                                    "repository": {
+                                        "nameWithOwner": "archspec/archspec"
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
                                     "packageName": "coverage",
                                     "repository": {
                                         "nameWithOwner": "coveragepy/coveragepy"
@@ -53955,6 +53969,13 @@
                                     "packageName": "deprecation",
                                     "repository": {
                                         "nameWithOwner": "briancurtin/deprecation"
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "distro",
+                                    "repository": {
+                                        "nameWithOwner": "python-distro/distro"
                                     }
                                 },
                                 {
@@ -53983,6 +54004,13 @@
                                     "packageName": "google-cloud-storage",
                                     "repository": {
                                         "nameWithOwner": "googleapis/google-cloud-python"
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "jsonschema",
+                                    "repository": {
+                                        "nameWithOwner": "python-jsonschema/jsonschema"
                                     }
                                 },
                                 {
@@ -54299,6 +54327,13 @@
                             "nodes": [
                                 {
                                     "packageManager": "PIP",
+                                    "packageName": "archspec",
+                                    "repository": {
+                                        "nameWithOwner": "archspec/archspec"
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
                                     "packageName": "codespell",
                                     "repository": {
                                         "nameWithOwner": "codespell-project/codespell"
@@ -54323,6 +54358,13 @@
                                     "packageName": "deprecation",
                                     "repository": {
                                         "nameWithOwner": "briancurtin/deprecation"
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "distro",
+                                    "repository": {
+                                        "nameWithOwner": "python-distro/distro"
                                     }
                                 },
                                 {
@@ -54358,6 +54400,13 @@
                                     "packageName": "graphlib-backport",
                                     "repository": {
                                         "nameWithOwner": "mariushelf/graphlib_backport"
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "jsonschema",
+                                    "repository": {
+                                        "nameWithOwner": "python-jsonschema/jsonschema"
                                     }
                                 },
                                 {
@@ -90527,9 +90576,7 @@
                                 {
                                     "packageManager": "PIP",
                                     "packageName": "coord",
-                                    "repository": {
-                                        "nameWithOwner": "keithschulze/coord"
-                                    }
+                                    "repository": null
                                 },
                                 {
                                     "packageManager": "PIP",
