@@ -35939,8 +35939,8 @@
             "languages": {
                 "nodes": [
                     {
-                        "color": "#e34c26",
-                        "name": "HTML"
+                        "color": "#3572A5",
+                        "name": "Python"
                     }
                 ]
             }
@@ -57028,7 +57028,9 @@
                                 {
                                     "packageManager": "MAVEN",
                                     "packageName": "org.springframework.boot:spring-boot-starter-data-jpa-test",
-                                    "repository": null
+                                    "repository": {
+                                        "nameWithOwner": "spring-projects/spring-boot"
+                                    }
                                 },
                                 {
                                     "packageManager": "MAVEN",
