@@ -296,21 +296,6 @@
                 "login": "CEED"
             }
         },
-        "ChALkeR/safer-buffer": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "safer-buffer",
-            "nameWithOwner": "ChALkeR/safer-buffer",
-            "owner": {
-                "login": "ChALkeR"
-            }
-        },
         "CheetahTemplate3/CT3": {
             "languages": {
                 "nodes": [
@@ -511,21 +496,6 @@
             "nameWithOwner": "Delgan/loguru",
             "owner": {
                 "login": "Delgan"
-            }
-        },
-        "DmitryBaranovskiy/raphael": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "raphael",
-            "nameWithOwner": "DmitryBaranovskiy/raphael",
-            "owner": {
-                "login": "DmitryBaranovskiy"
             }
         },
         "DoozyX/clang-format-lint-action": {
@@ -1258,21 +1228,6 @@
                 "login": "JohannesBuchner"
             }
         },
-        "Jorisslagter/jquery-steps": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "jquery-steps",
-            "nameWithOwner": "Jorisslagter/jquery-steps",
-            "owner": {
-                "login": "Jorisslagter"
-            }
-        },
         "JoshData/python-email-validator": {
             "languages": {
                 "nodes": [
@@ -1738,7 +1693,7 @@
                 "login": "MetallData"
             }
         },
-        "Modernizr/Modernizr": {
+        "MetinSeylan/Vue-Socket.io": {
             "languages": {
                 "nodes": [
                     {
@@ -1747,11 +1702,10 @@
                     }
                 ]
             },
-            "name": "Modernizr",
-            "nameWithOwner": "Modernizr/Modernizr",
+            "name": "Vue-Socket.io",
+            "nameWithOwner": "MetinSeylan/Vue-Socket.io",
             "owner": {
-                "isVerified": false,
-                "login": "Modernizr"
+                "login": "MetinSeylan"
             }
         },
         "MrBitBucket/reportlab-mirror": {
@@ -1847,6 +1801,22 @@
             "owner": {
                 "isVerified": true,
                 "login": "NVIDIA"
+            }
+        },
+        "NaturalIntelligence/fast-xml-parser": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "fast-xml-parser",
+            "nameWithOwner": "NaturalIntelligence/fast-xml-parser",
+            "owner": {
+                "isVerified": false,
+                "login": "NaturalIntelligence"
             }
         },
         "Ohjeah/cartesian": {
@@ -2604,22 +2574,6 @@
             "nameWithOwner": "SmileyChris/django-countries",
             "owner": {
                 "login": "SmileyChris"
-            }
-        },
-        "StartBootstrap/startbootstrap-sb-admin-2": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#e34c26",
-                        "name": "HTML"
-                    }
-                ]
-            },
-            "name": "startbootstrap-sb-admin-2",
-            "nameWithOwner": "StartBootstrap/startbootstrap-sb-admin-2",
-            "owner": {
-                "isVerified": false,
-                "login": "StartBootstrap"
             }
         },
         "Stebalien/tempfile": {
@@ -3844,22 +3798,6 @@
                 "login": "ajafff"
             }
         },
-        "ajaxorg/ace-builds": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "ace-builds",
-            "nameWithOwner": "ajaxorg/ace-builds",
-            "owner": {
-                "isVerified": false,
-                "login": "ajaxorg"
-            }
-        },
         "ajaxx/XLR8.CGLib": {
             "languages": {
                 "nodes": [
@@ -4080,6 +4018,54 @@
             "nameWithOwner": "alexmojaki/stack_data",
             "owner": {
                 "login": "alexmojaki"
+            }
+        },
+        "algolia/algoliasearch-client-javascript": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3178c6",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "algoliasearch-client-javascript",
+            "nameWithOwner": "algolia/algoliasearch-client-javascript",
+            "owner": {
+                "isVerified": true,
+                "login": "algolia"
+            }
+        },
+        "algolia/autocomplete": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3178c6",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "autocomplete",
+            "nameWithOwner": "algolia/autocomplete",
+            "owner": {
+                "isVerified": true,
+                "login": "algolia"
+            }
+        },
+        "algolia/events": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "events",
+            "nameWithOwner": "algolia/events",
+            "owner": {
+                "isVerified": true,
+                "login": "algolia"
             }
         },
         "algolia/jekyll-algolia": {
@@ -4390,6 +4376,21 @@
             "owner": {
                 "isVerified": false,
                 "login": "antlr"
+            }
+        },
+        "antoniandre/splitpanes": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#41b883",
+                        "name": "Vue"
+                    }
+                ]
+            },
+            "name": "splitpanes",
+            "nameWithOwner": "antoniandre/splitpanes",
+            "owner": {
+                "login": "antoniandre"
             }
         },
         "apache/cassandra-python-driver": {
@@ -4719,6 +4720,21 @@
                 "login": "arviz-devs"
             }
         },
+        "asamuzaK/cssColor": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3178c6",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "cssColor",
+            "nameWithOwner": "asamuzaK/cssColor",
+            "owner": {
+                "login": "asamuzaK"
+            }
+        },
         "asciimoo/ds": {
             "languages": {
                 "nodes": [
@@ -5002,49 +5018,17 @@
                 "login": "aws-actions"
             }
         },
-        "aws/aws-cli": {
+        "aws/aws-sdk-js-v3": {
             "languages": {
                 "nodes": [
                     {
-                        "color": "#3572A5",
-                        "name": "Python"
+                        "color": "#3178c6",
+                        "name": "TypeScript"
                     }
                 ]
             },
-            "name": "aws-cli",
-            "nameWithOwner": "aws/aws-cli",
-            "owner": {
-                "isVerified": true,
-                "login": "aws"
-            }
-        },
-        "aws/aws-encryption-sdk-cli": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "aws-encryption-sdk-cli",
-            "nameWithOwner": "aws/aws-encryption-sdk-cli",
-            "owner": {
-                "isVerified": true,
-                "login": "aws"
-            }
-        },
-        "aws/aws-encryption-sdk-python": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "aws-encryption-sdk-python",
-            "nameWithOwner": "aws/aws-encryption-sdk-python",
+            "name": "aws-sdk-js-v3",
+            "nameWithOwner": "aws/aws-sdk-js-v3",
             "owner": {
                 "isVerified": true,
                 "login": "aws"
@@ -5066,22 +5050,6 @@
                 "login": "aws"
             }
         },
-        "aws/base64io-python": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "base64io-python",
-            "nameWithOwner": "aws/base64io-python",
-            "owner": {
-                "isVerified": true,
-                "login": "aws"
-            }
-        },
         "awslabs/dgl-lifesci": {
             "languages": {
                 "nodes": [
@@ -5096,6 +5064,22 @@
             "owner": {
                 "isVerified": true,
                 "login": "awslabs"
+            }
+        },
+        "axios/axios": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "axios",
+            "nameWithOwner": "axios/axios",
+            "owner": {
+                "isVerified": true,
+                "login": "axios"
             }
         },
         "azz/prettier-tslint": {
@@ -5124,6 +5108,22 @@
             },
             "name": "babel",
             "nameWithOwner": "babel/babel",
+            "owner": {
+                "isVerified": true,
+                "login": "babel"
+            }
+        },
+        "babel/babel-eslint": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "babel-eslint",
+            "nameWithOwner": "babel/babel-eslint",
             "owner": {
                 "isVerified": true,
                 "login": "babel"
@@ -5635,6 +5635,22 @@
             "nameWithOwner": "bolsote/isoduration",
             "owner": {
                 "login": "bolsote"
+            }
+        },
+        "bootstrap-vue/bootstrap-vue": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "bootstrap-vue",
+            "nameWithOwner": "bootstrap-vue/bootstrap-vue",
+            "owner": {
+                "isVerified": true,
+                "login": "bootstrap-vue"
             }
         },
         "borntyping/python-colorlog": {
@@ -7029,22 +7045,6 @@
                 "login": "component"
             }
         },
-        "component/toidentifier": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "toidentifier",
-            "nameWithOwner": "component/toidentifier",
-            "owner": {
-                "isVerified": false,
-                "login": "component"
-            }
-        },
         "computationalmodelling/nbval": {
             "languages": {
                 "nodes": [
@@ -7337,21 +7337,6 @@
                 "login": "css-modules"
             }
         },
-        "cure53/DOMPurify": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "DOMPurify",
-            "nameWithOwner": "cure53/DOMPurify",
-            "owner": {
-                "login": "cure53"
-            }
-        },
         "cuviper/autocfg": {
             "languages": {
                 "nodes": [
@@ -7446,6 +7431,22 @@
                 "login": "d3"
             }
         },
+        "d3/d3-axis": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "d3-axis",
+            "nameWithOwner": "d3/d3-axis",
+            "owner": {
+                "isVerified": false,
+                "login": "d3"
+            }
+        },
         "d3/d3-quadtree": {
             "languages": {
                 "nodes": [
@@ -7460,6 +7461,54 @@
             "owner": {
                 "isVerified": false,
                 "login": "d3"
+            }
+        },
+        "d3/d3-scale": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "d3-scale",
+            "nameWithOwner": "d3/d3-scale",
+            "owner": {
+                "isVerified": false,
+                "login": "d3"
+            }
+        },
+        "d3/d3-selection-multi": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "d3-selection-multi",
+            "nameWithOwner": "d3/d3-selection-multi",
+            "owner": {
+                "isVerified": false,
+                "login": "d3"
+            }
+        },
+        "dagrejs/dagre-d3": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "dagre-d3",
+            "nameWithOwner": "dagrejs/dagre-d3",
+            "owner": {
+                "isVerified": false,
+                "login": "dagrejs"
             }
         },
         "darccio/mergo": {
@@ -8194,22 +8243,6 @@
             "owner": {
                 "isVerified": false,
                 "login": "dmwm"
-            }
-        },
-        "dobtco/jquery-resizable-columns": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "jquery-resizable-columns",
-            "nameWithOwner": "dobtco/jquery-resizable-columns",
-            "owner": {
-                "isVerified": false,
-                "login": "dobtco"
             }
         },
         "docker/build-push-action": {
@@ -9168,54 +9201,6 @@
                 "login": "es-shims"
             }
         },
-        "es-shims/dunder-proto": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "dunder-proto",
-            "nameWithOwner": "es-shims/dunder-proto",
-            "owner": {
-                "isVerified": false,
-                "login": "es-shims"
-            }
-        },
-        "es-shims/es-object-atoms": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "es-object-atoms",
-            "nameWithOwner": "es-shims/es-object-atoms",
-            "owner": {
-                "isVerified": false,
-                "login": "es-shims"
-            }
-        },
-        "es-shims/math-intrinsics": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "math-intrinsics",
-            "nameWithOwner": "es-shims/math-intrinsics",
-            "owner": {
-                "isVerified": false,
-                "login": "es-shims"
-            }
-        },
         "eslint-community/eslint-plugin-promise": {
             "languages": {
                 "nodes": [
@@ -9658,22 +9643,6 @@
                 "login": "explosion"
             }
         },
-        "expressjs/body-parser": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "body-parser",
-            "nameWithOwner": "expressjs/body-parser",
-            "owner": {
-                "isVerified": false,
-                "login": "expressjs"
-            }
-        },
         "expressjs/cors": {
             "languages": {
                 "nodes": [
@@ -9701,22 +9670,6 @@
             },
             "name": "express",
             "nameWithOwner": "expressjs/express",
-            "owner": {
-                "isVerified": false,
-                "login": "expressjs"
-            }
-        },
-        "expressjs/serve-static": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "serve-static",
-            "nameWithOwner": "expressjs/serve-static",
             "owner": {
                 "isVerified": false,
                 "login": "expressjs"
@@ -10166,6 +10119,21 @@
             "owner": {
                 "isVerified": false,
                 "login": "floating-ui"
+            }
+        },
+        "floydspace/serverless-esbuild": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3178c6",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "serverless-esbuild",
+            "nameWithOwner": "floydspace/serverless-esbuild",
+            "owner": {
+                "login": "floydspace"
             }
         },
         "flux-framework/flux-python": {
@@ -10719,6 +10687,21 @@
             "owner": {
                 "isVerified": false,
                 "login": "gitpython-developers"
+            }
+        },
+        "gka/chroma.js": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "chroma.js",
+            "nameWithOwner": "gka/chroma.js",
+            "owner": {
+                "login": "gka"
             }
         },
         "gliborgmx/static-glib": {
@@ -11730,22 +11713,6 @@
                 "login": "harlowja"
             }
         },
-        "harvesthq/chosen": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#e34c26",
-                        "name": "HTML"
-                    }
-                ]
-            },
-            "name": "chosen",
-            "nameWithOwner": "harvesthq/chosen",
-            "owner": {
-                "isVerified": true,
-                "login": "harvesthq"
-            }
-        },
         "hashicorp/go-uuid": {
             "languages": {
                 "nodes": [
@@ -11883,21 +11850,6 @@
             "nameWithOwner": "hhatto/autopep8",
             "owner": {
                 "login": "hhatto"
-            }
-        },
-        "hhurz/tableExport.jquery.plugin": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#e34c26",
-                        "name": "HTML"
-                    }
-                ]
-            },
-            "name": "tableExport.jquery.plugin",
-            "nameWithOwner": "hhurz/tableExport.jquery.plugin",
-            "owner": {
-                "login": "hhurz"
             }
         },
         "hibernate/hibernate-validator": {
@@ -12618,22 +12570,6 @@
                 "login": "inspect-js"
             }
         },
-        "inspect-js/hasOwn": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "hasOwn",
-            "nameWithOwner": "inspect-js/hasOwn",
-            "owner": {
-                "isVerified": false,
-                "login": "inspect-js"
-            }
-        },
         "inspect-js/is-core-module": {
             "languages": {
                 "nodes": [
@@ -12661,22 +12597,6 @@
             },
             "name": "node-supports-preserve-symlinks-flag",
             "nameWithOwner": "inspect-js/node-supports-preserve-symlinks-flag",
-            "owner": {
-                "isVerified": false,
-                "login": "inspect-js"
-            }
-        },
-        "inspect-js/object-inspect": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "object-inspect",
-            "nameWithOwner": "inspect-js/object-inspect",
             "owner": {
                 "isVerified": false,
                 "login": "inspect-js"
@@ -13820,6 +13740,22 @@
                 "login": "jessaustin"
             }
         },
+        "jestjs/jest": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3178c6",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "jest",
+            "nameWithOwner": "jestjs/jest",
+            "owner": {
+                "isVerified": false,
+                "login": "jestjs"
+            }
+        },
         "jfalken/aws_enumeration_lib": {
             "languages": {
                 "nodes": [
@@ -14047,6 +13983,21 @@
             "nameWithOwner": "joke2k/faker",
             "owner": {
                 "login": "joke2k"
+            }
+        },
+        "jonaskello/tsconfig-paths": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3178c6",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "tsconfig-paths",
+            "nameWithOwner": "jonaskello/tsconfig-paths",
+            "owner": {
+                "login": "jonaskello"
             }
         },
         "jonathanong/ee-first": {
@@ -14319,6 +14270,21 @@
                 "login": "joshspeagle"
             }
         },
+        "jossef/material-design-icons-iconfont": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#c6538c",
+                        "name": "SCSS"
+                    }
+                ]
+            },
+            "name": "material-design-icons-iconfont",
+            "nameWithOwner": "jossef/material-design-icons-iconfont",
+            "owner": {
+                "login": "jossef"
+            }
+        },
         "jpadilla/pyjwt": {
             "languages": {
                 "nodes": [
@@ -14534,54 +14500,6 @@
                 "login": "jshttp"
             }
         },
-        "jshttp/content-disposition": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3178c6",
-                        "name": "TypeScript"
-                    }
-                ]
-            },
-            "name": "content-disposition",
-            "nameWithOwner": "jshttp/content-disposition",
-            "owner": {
-                "isVerified": false,
-                "login": "jshttp"
-            }
-        },
-        "jshttp/content-type": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3178c6",
-                        "name": "TypeScript"
-                    }
-                ]
-            },
-            "name": "content-type",
-            "nameWithOwner": "jshttp/content-type",
-            "owner": {
-                "isVerified": false,
-                "login": "jshttp"
-            }
-        },
-        "jshttp/cookie": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3178c6",
-                        "name": "TypeScript"
-                    }
-                ]
-            },
-            "name": "cookie",
-            "nameWithOwner": "jshttp/cookie",
-            "owner": {
-                "isVerified": false,
-                "login": "jshttp"
-            }
-        },
         "jshttp/etag": {
             "languages": {
                 "nodes": [
@@ -14593,214 +14511,6 @@
             },
             "name": "etag",
             "nameWithOwner": "jshttp/etag",
-            "owner": {
-                "isVerified": false,
-                "login": "jshttp"
-            }
-        },
-        "jshttp/forwarded": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "forwarded",
-            "nameWithOwner": "jshttp/forwarded",
-            "owner": {
-                "isVerified": false,
-                "login": "jshttp"
-            }
-        },
-        "jshttp/fresh": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "fresh",
-            "nameWithOwner": "jshttp/fresh",
-            "owner": {
-                "isVerified": false,
-                "login": "jshttp"
-            }
-        },
-        "jshttp/http-errors": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "http-errors",
-            "nameWithOwner": "jshttp/http-errors",
-            "owner": {
-                "isVerified": false,
-                "login": "jshttp"
-            }
-        },
-        "jshttp/media-typer": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3178c6",
-                        "name": "TypeScript"
-                    }
-                ]
-            },
-            "name": "media-typer",
-            "nameWithOwner": "jshttp/media-typer",
-            "owner": {
-                "isVerified": false,
-                "login": "jshttp"
-            }
-        },
-        "jshttp/mime-db": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "mime-db",
-            "nameWithOwner": "jshttp/mime-db",
-            "owner": {
-                "isVerified": false,
-                "login": "jshttp"
-            }
-        },
-        "jshttp/mime-types": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "mime-types",
-            "nameWithOwner": "jshttp/mime-types",
-            "owner": {
-                "isVerified": false,
-                "login": "jshttp"
-            }
-        },
-        "jshttp/negotiator": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "negotiator",
-            "nameWithOwner": "jshttp/negotiator",
-            "owner": {
-                "isVerified": false,
-                "login": "jshttp"
-            }
-        },
-        "jshttp/on-finished": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "on-finished",
-            "nameWithOwner": "jshttp/on-finished",
-            "owner": {
-                "isVerified": false,
-                "login": "jshttp"
-            }
-        },
-        "jshttp/proxy-addr": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "proxy-addr",
-            "nameWithOwner": "jshttp/proxy-addr",
-            "owner": {
-                "isVerified": false,
-                "login": "jshttp"
-            }
-        },
-        "jshttp/range-parser": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "range-parser",
-            "nameWithOwner": "jshttp/range-parser",
-            "owner": {
-                "isVerified": false,
-                "login": "jshttp"
-            }
-        },
-        "jshttp/statuses": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "statuses",
-            "nameWithOwner": "jshttp/statuses",
-            "owner": {
-                "isVerified": false,
-                "login": "jshttp"
-            }
-        },
-        "jshttp/type-is": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3178c6",
-                        "name": "TypeScript"
-                    }
-                ]
-            },
-            "name": "type-is",
-            "nameWithOwner": "jshttp/type-is",
-            "owner": {
-                "isVerified": false,
-                "login": "jshttp"
-            }
-        },
-        "jshttp/vary": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "vary",
-            "nameWithOwner": "jshttp/vary",
             "owner": {
                 "isVerified": false,
                 "login": "jshttp"
@@ -16029,6 +15739,21 @@
                 "login": "kuelumbus"
             }
         },
+        "kulshekhar/ts-jest": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3178c6",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "ts-jest",
+            "nameWithOwner": "kulshekhar/ts-jest",
+            "owner": {
+                "login": "kulshekhar"
+            }
+        },
         "kurtmckee/feedparser": {
             "languages": {
                 "nodes": [
@@ -16324,66 +16049,6 @@
                 "login": "ljharb"
             }
         },
-        "ljharb/call-bind-apply-helpers": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "call-bind-apply-helpers",
-            "nameWithOwner": "ljharb/call-bind-apply-helpers",
-            "owner": {
-                "login": "ljharb"
-            }
-        },
-        "ljharb/call-bound": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "call-bound",
-            "nameWithOwner": "ljharb/call-bound",
-            "owner": {
-                "login": "ljharb"
-            }
-        },
-        "ljharb/es-define-property": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "es-define-property",
-            "nameWithOwner": "ljharb/es-define-property",
-            "owner": {
-                "login": "ljharb"
-            }
-        },
-        "ljharb/es-errors": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "es-errors",
-            "nameWithOwner": "ljharb/es-errors",
-            "owner": {
-                "login": "ljharb"
-            }
-        },
         "ljharb/get-intrinsic": {
             "languages": {
                 "nodes": [
@@ -16395,111 +16060,6 @@
             },
             "name": "get-intrinsic",
             "nameWithOwner": "ljharb/get-intrinsic",
-            "owner": {
-                "login": "ljharb"
-            }
-        },
-        "ljharb/get-proto": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "get-proto",
-            "nameWithOwner": "ljharb/get-proto",
-            "owner": {
-                "login": "ljharb"
-            }
-        },
-        "ljharb/gopd": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "gopd",
-            "nameWithOwner": "ljharb/gopd",
-            "owner": {
-                "login": "ljharb"
-            }
-        },
-        "ljharb/qs": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "qs",
-            "nameWithOwner": "ljharb/qs",
-            "owner": {
-                "login": "ljharb"
-            }
-        },
-        "ljharb/side-channel": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "side-channel",
-            "nameWithOwner": "ljharb/side-channel",
-            "owner": {
-                "login": "ljharb"
-            }
-        },
-        "ljharb/side-channel-list": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "side-channel-list",
-            "nameWithOwner": "ljharb/side-channel-list",
-            "owner": {
-                "login": "ljharb"
-            }
-        },
-        "ljharb/side-channel-map": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "side-channel-map",
-            "nameWithOwner": "ljharb/side-channel-map",
-            "owner": {
-                "login": "ljharb"
-            }
-        },
-        "ljharb/side-channel-weakmap": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "side-channel-weakmap",
-            "nameWithOwner": "ljharb/side-channel-weakmap",
             "owner": {
                 "login": "ljharb"
             }
@@ -16962,6 +16522,22 @@
             "nameWithOwner": "lo48576/iri-string",
             "owner": {
                 "login": "lo48576"
+            }
+        },
+        "localstack/serverless-localstack": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "serverless-localstack",
+            "nameWithOwner": "localstack/serverless-localstack",
+            "owner": {
+                "isVerified": true,
+                "login": "localstack"
             }
         },
         "locationtech/jts": {
@@ -17832,6 +17408,21 @@
                 "login": "mdbootstrap"
             }
         },
+        "mdevils/html-entities": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3178c6",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "html-entities",
+            "nameWithOwner": "mdevils/html-entities",
+            "owner": {
+                "login": "mdevils"
+            }
+        },
         "medyagh/setup-minikube": {
             "languages": {
                 "nodes": [
@@ -18407,6 +17998,36 @@
                 "login": "miguelgrinberg"
             }
         },
+        "mikesouza/serverless-deployment-bucket": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "serverless-deployment-bucket",
+            "nameWithOwner": "mikesouza/serverless-deployment-bucket",
+            "owner": {
+                "login": "mikesouza"
+            }
+        },
+        "mikolalysenko/robust-point-in-polygon": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "robust-point-in-polygon",
+            "nameWithOwner": "mikolalysenko/robust-point-in-polygon",
+            "owner": {
+                "login": "mikolalysenko"
+            }
+        },
         "milesgranger/cramjam": {
             "languages": {
                 "nodes": [
@@ -18498,36 +18119,6 @@
             "owner": {
                 "isVerified": false,
                 "login": "missinglinkelectronics"
-            }
-        },
-        "mistic100/jQuery-QueryBuilder": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "jQuery-QueryBuilder",
-            "nameWithOwner": "mistic100/jQuery-QueryBuilder",
-            "owner": {
-                "login": "mistic100"
-            }
-        },
-        "mistic100/sql-parser": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "sql-parser",
-            "nameWithOwner": "mistic100/sql-parser",
-            "owner": {
-                "login": "mistic100"
             }
         },
         "mitchellh/go-homedir": {
@@ -18921,22 +18512,6 @@
             "owner": {
                 "isVerified": false,
                 "login": "more-itertools"
-            }
-        },
-        "morrisjs/morris.js": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#244776",
-                        "name": "CoffeeScript"
-                    }
-                ]
-            },
-            "name": "morris.js",
-            "nameWithOwner": "morrisjs/morris.js",
-            "owner": {
-                "isVerified": false,
-                "login": "morrisjs"
             }
         },
         "mozilla/bleach": {
@@ -19401,6 +18976,38 @@
             "owner": {
                 "isVerified": false,
                 "login": "networkx"
+            }
+        },
+        "newrelic/node-newrelic": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "node-newrelic",
+            "nameWithOwner": "newrelic/node-newrelic",
+            "owner": {
+                "isVerified": false,
+                "login": "newrelic"
+            }
+        },
+        "newrelic/serverless-newrelic-lambda-layers": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3178c6",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "serverless-newrelic-lambda-layers",
+            "nameWithOwner": "newrelic/serverless-newrelic-lambda-layers",
+            "owner": {
+                "isVerified": false,
+                "login": "newrelic"
             }
         },
         "nexdrew/ansi-align": {
@@ -20044,21 +19651,6 @@
                 "login": "omnilib"
             }
         },
-        "onokumus/metismenu": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "metismenu",
-            "nameWithOwner": "onokumus/metismenu",
-            "owner": {
-                "login": "onokumus"
-            }
-        },
         "open-cli-tools/concurrently": {
             "languages": {
                 "nodes": [
@@ -20546,6 +20138,21 @@
                 "login": "pandas-dev"
             }
         },
+        "patorjk/d3-context-menu": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#663399",
+                        "name": "CSS"
+                    }
+                ]
+            },
+            "name": "d3-context-menu",
+            "nameWithOwner": "patorjk/d3-context-menu",
+            "owner": {
+                "login": "patorjk"
+            }
+        },
         "patrys/httmock": {
             "languages": {
                 "nodes": [
@@ -20920,86 +20527,6 @@
             },
             "name": "finalhandler",
             "nameWithOwner": "pillarjs/finalhandler",
-            "owner": {
-                "isVerified": false,
-                "login": "pillarjs"
-            }
-        },
-        "pillarjs/iconv-lite": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "iconv-lite",
-            "nameWithOwner": "pillarjs/iconv-lite",
-            "owner": {
-                "isVerified": false,
-                "login": "pillarjs"
-            }
-        },
-        "pillarjs/parseurl": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "parseurl",
-            "nameWithOwner": "pillarjs/parseurl",
-            "owner": {
-                "isVerified": false,
-                "login": "pillarjs"
-            }
-        },
-        "pillarjs/path-to-regexp": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3178c6",
-                        "name": "TypeScript"
-                    }
-                ]
-            },
-            "name": "path-to-regexp",
-            "nameWithOwner": "pillarjs/path-to-regexp",
-            "owner": {
-                "isVerified": false,
-                "login": "pillarjs"
-            }
-        },
-        "pillarjs/router": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "router",
-            "nameWithOwner": "pillarjs/router",
-            "owner": {
-                "isVerified": false,
-                "login": "pillarjs"
-            }
-        },
-        "pillarjs/send": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "send",
-            "nameWithOwner": "pillarjs/send",
             "owner": {
                 "isVerified": false,
                 "login": "pillarjs"
@@ -21454,6 +20981,21 @@
             "owner": {
                 "isVerified": false,
                 "login": "primefaces"
+            }
+        },
+        "probil/vue-socket.io-extended": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "vue-socket.io-extended",
+            "nameWithOwner": "probil/vue-socket.io-extended",
+            "owner": {
+                "login": "probil"
             }
         },
         "prometheus/client_golang": {
@@ -23591,38 +23133,6 @@
                 "login": "redis"
             }
         },
-        "reduxjs/redux": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3178c6",
-                        "name": "TypeScript"
-                    }
-                ]
-            },
-            "name": "redux",
-            "nameWithOwner": "reduxjs/redux",
-            "owner": {
-                "isVerified": false,
-                "login": "reduxjs"
-            }
-        },
-        "reduxjs/redux-toolkit": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3178c6",
-                        "name": "TypeScript"
-                    }
-                ]
-            },
-            "name": "redux-toolkit",
-            "nameWithOwner": "reduxjs/redux-toolkit",
-            "owner": {
-                "isVerified": false,
-                "login": "reduxjs"
-            }
-        },
         "regebro/tzlocal": {
             "languages": {
                 "nodes": [
@@ -24774,6 +24284,21 @@
                 "login": "samuelcolvin"
             }
         },
+        "santiagocardenas/serverless-cloudformation-sub-variables": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "serverless-cloudformation-sub-variables",
+            "nameWithOwner": "santiagocardenas/serverless-cloudformation-sub-variables",
+            "owner": {
+                "login": "santiagocardenas"
+            }
+        },
         "sarosia/buffer-indexof-polyfill": {
             "languages": {
                 "nodes": [
@@ -24803,6 +24328,22 @@
             "owner": {
                 "isVerified": false,
                 "login": "sarugaku"
+            }
+        },
+        "sass/dart-sass": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#00B4AB",
+                        "name": "Dart"
+                    }
+                ]
+            },
+            "name": "dart-sass",
+            "nameWithOwner": "sass/dart-sass",
+            "owner": {
+                "isVerified": false,
+                "login": "sass"
             }
         },
         "sass/node-sass": {
@@ -25083,22 +24624,6 @@
                 "login": "seiyria"
             }
         },
-        "selectize/selectize.js": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#c6538c",
-                        "name": "SCSS"
-                    }
-                ]
-            },
-            "name": "selectize.js",
-            "nameWithOwner": "selectize/selectize.js",
-            "owner": {
-                "isVerified": false,
-                "login": "selectize"
-            }
-        },
         "semitable/robotic-warehouse": {
             "languages": {
                 "nodes": [
@@ -25174,6 +24699,22 @@
             "nameWithOwner": "serge-sans-paille/gast",
             "owner": {
                 "login": "serge-sans-paille"
+            }
+        },
+        "serverless/serverless": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "serverless",
+            "nameWithOwner": "serverless/serverless",
+            "owner": {
+                "isVerified": false,
+                "login": "serverless"
             }
         },
         "servo/core-foundation-rs": {
@@ -25710,21 +25251,6 @@
                 "login": "sindresorhus"
             }
         },
-        "sindresorhus/merge-descriptors": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "merge-descriptors",
-            "nameWithOwner": "sindresorhus/merge-descriptors",
-            "owner": {
-                "login": "sindresorhus"
-            }
-        },
         "sindresorhus/mimic-response": {
             "languages": {
                 "nodes": [
@@ -25740,7 +25266,7 @@
                 "login": "sindresorhus"
             }
         },
-        "sindresorhus/object-assign": {
+        "sindresorhus/p-throttle": {
             "languages": {
                 "nodes": [
                     {
@@ -25749,8 +25275,8 @@
                     }
                 ]
             },
-            "name": "object-assign",
-            "nameWithOwner": "sindresorhus/object-assign",
+            "name": "p-throttle",
+            "nameWithOwner": "sindresorhus/p-throttle",
             "owner": {
                 "login": "sindresorhus"
             }
@@ -25956,6 +25482,22 @@
             "owner": {
                 "isVerified": false,
                 "login": "socketry"
+            }
+        },
+        "softonic/axios-retry": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3178c6",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "axios-retry",
+            "nameWithOwner": "softonic/axios-retry",
+            "owner": {
+                "isVerified": false,
+                "login": "softonic"
             }
         },
         "softprops/action-gh-release": {
@@ -26771,38 +26313,6 @@
                 "login": "stream-utils"
             }
         },
-        "stream-utils/raw-body": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3178c6",
-                        "name": "TypeScript"
-                    }
-                ]
-            },
-            "name": "raw-body",
-            "nameWithOwner": "stream-utils/raw-body",
-            "owner": {
-                "isVerified": false,
-                "login": "stream-utils"
-            }
-        },
-        "stream-utils/unpipe": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "unpipe",
-            "nameWithOwner": "stream-utils/unpipe",
-            "owner": {
-                "isVerified": false,
-                "login": "stream-utils"
-            }
-        },
         "streamlit/streamlit": {
             "languages": {
                 "nodes": [
@@ -27085,21 +26595,6 @@
                 "login": "svenstaro"
             }
         },
-        "sybrenstuvel/python-rsa": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "python-rsa",
-            "nameWithOwner": "sybrenstuvel/python-rsa",
-            "owner": {
-                "login": "sybrenstuvel"
-            }
-        },
         "sympy/sympy": {
             "languages": {
                 "nodes": [
@@ -27314,21 +26809,6 @@
                 "login": "tartley"
             }
         },
-        "taye/interact.js": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3178c6",
-                        "name": "TypeScript"
-                    }
-                ]
-            },
-            "name": "interact.js",
-            "nameWithOwner": "taye/interact.js",
-            "owner": {
-                "login": "taye"
-            }
-        },
         "tensorflow/tensorflow": {
             "languages": {
                 "nodes": [
@@ -27469,22 +26949,6 @@
                 "login": "thecodejack"
             }
         },
-        "then/is-promise": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "is-promise",
-            "nameWithOwner": "then/is-promise",
-            "owner": {
-                "isVerified": false,
-                "login": "then"
-            }
-        },
         "theskumar/python-dotenv": {
             "languages": {
                 "nodes": [
@@ -27526,21 +26990,6 @@
             },
             "name": "ansistyles",
             "nameWithOwner": "thlorenz/ansistyles",
-            "owner": {
-                "login": "thlorenz"
-            }
-        },
-        "thlorenz/brace": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "brace",
-            "nameWithOwner": "thlorenz/brace",
             "owner": {
                 "login": "thlorenz"
             }
@@ -27662,21 +27111,6 @@
             },
             "name": "commander.js",
             "nameWithOwner": "tj/commander.js",
-            "owner": {
-                "login": "tj"
-            }
-        },
-        "tj/node-cookie-signature": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "node-cookie-signature",
-            "nameWithOwner": "tj/node-cookie-signature",
             "owner": {
                 "login": "tj"
             }
@@ -28591,6 +28025,22 @@
                 "login": "urllib3"
             }
         },
+        "uuidjs/uuid": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3178c6",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "uuid",
+            "nameWithOwner": "uuidjs/uuid",
+            "owner": {
+                "isVerified": false,
+                "login": "uuidjs"
+            }
+        },
         "uyha/tree-sitter-cmake": {
             "languages": {
                 "nodes": [
@@ -28698,38 +28148,6 @@
                 "login": "vega"
             }
         },
-        "vega/vega-embed": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3178c6",
-                        "name": "TypeScript"
-                    }
-                ]
-            },
-            "name": "vega-embed",
-            "nameWithOwner": "vega/vega-embed",
-            "owner": {
-                "isVerified": false,
-                "login": "vega"
-            }
-        },
-        "vega/vega-lite": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3178c6",
-                        "name": "TypeScript"
-                    }
-                ]
-            },
-            "name": "vega-lite",
-            "nameWithOwner": "vega/vega-lite",
-            "owner": {
-                "isVerified": false,
-                "login": "vega"
-            }
-        },
         "vercel/arg": {
             "languages": {
                 "nodes": [
@@ -28741,22 +28159,6 @@
             },
             "name": "arg",
             "nameWithOwner": "vercel/arg",
-            "owner": {
-                "isVerified": true,
-                "login": "vercel"
-            }
-        },
-        "vercel/ms": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3178c6",
-                        "name": "TypeScript"
-                    }
-                ]
-            },
-            "name": "ms",
-            "nameWithOwner": "vercel/ms",
             "owner": {
                 "isVerified": true,
                 "login": "vercel"
@@ -28839,22 +28241,6 @@
                 "login": "visionmedia"
             }
         },
-        "visionmedia/bytes.js": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "bytes.js",
-            "nameWithOwner": "visionmedia/bytes.js",
-            "owner": {
-                "isVerified": false,
-                "login": "visionmedia"
-            }
-        },
         "vitejs/vite": {
             "languages": {
                 "nodes": [
@@ -28930,6 +28316,166 @@
             "nameWithOwner": "vsoch/uptodate",
             "owner": {
                 "login": "vsoch"
+            }
+        },
+        "vuejs/core": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3178c6",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "core",
+            "nameWithOwner": "vuejs/core",
+            "owner": {
+                "isVerified": true,
+                "login": "vuejs"
+            }
+        },
+        "vuejs/eslint-plugin-vue": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3178c6",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "eslint-plugin-vue",
+            "nameWithOwner": "vuejs/eslint-plugin-vue",
+            "owner": {
+                "isVerified": true,
+                "login": "vuejs"
+            }
+        },
+        "vuejs/router": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3178c6",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "router",
+            "nameWithOwner": "vuejs/router",
+            "owner": {
+                "isVerified": true,
+                "login": "vuejs"
+            }
+        },
+        "vuejs/vue": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3178c6",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "vue",
+            "nameWithOwner": "vuejs/vue",
+            "owner": {
+                "isVerified": true,
+                "login": "vuejs"
+            }
+        },
+        "vuejs/vue-cli": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "vue-cli",
+            "nameWithOwner": "vuejs/vue-cli",
+            "owner": {
+                "isVerified": true,
+                "login": "vuejs"
+            }
+        },
+        "vuejs/vuex": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "vuex",
+            "nameWithOwner": "vuejs/vuex",
+            "owner": {
+                "isVerified": true,
+                "login": "vuejs"
+            }
+        },
+        "vuematerial/vue-material": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#41b883",
+                        "name": "Vue"
+                    }
+                ]
+            },
+            "name": "vue-material",
+            "nameWithOwner": "vuematerial/vue-material",
+            "owner": {
+                "isVerified": true,
+                "login": "vuematerial"
+            }
+        },
+        "vuetifyjs/vue-cli-plugins": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "vue-cli-plugins",
+            "nameWithOwner": "vuetifyjs/vue-cli-plugins",
+            "owner": {
+                "isVerified": true,
+                "login": "vuetifyjs"
+            }
+        },
+        "vuetifyjs/vuetify": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3178c6",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "vuetify",
+            "nameWithOwner": "vuetifyjs/vuetify",
+            "owner": {
+                "isVerified": true,
+                "login": "vuetifyjs"
+            }
+        },
+        "vuetifyjs/vuetify-loader": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3178c6",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "vuetify-loader",
+            "nameWithOwner": "vuetifyjs/vuetify-loader",
+            "owner": {
+                "isVerified": true,
+                "login": "vuetifyjs"
             }
         },
         "vxgmichel/aiostream": {
@@ -29072,6 +28618,22 @@
                 "login": "webpack"
             }
         },
+        "webpack/sass-loader": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "sass-loader",
+            "nameWithOwner": "webpack/sass-loader",
+            "owner": {
+                "isVerified": true,
+                "login": "webpack"
+            }
+        },
         "webpack/style-loader": {
             "languages": {
                 "nodes": [
@@ -29198,21 +28760,6 @@
                 "login": "wention"
             }
         },
-        "wenzhixin/bootstrap-table": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "bootstrap-table",
-            "nameWithOwner": "wenzhixin/bootstrap-table",
-            "owner": {
-                "login": "wenzhixin"
-            }
-        },
         "weppos/publicsuffix-ruby": {
             "languages": {
                 "nodes": [
@@ -29226,36 +28773,6 @@
             "nameWithOwner": "weppos/publicsuffix-ruby",
             "owner": {
                 "login": "weppos"
-            }
-        },
-        "wesleytodd/setprototypeof": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "setprototypeof",
-            "nameWithOwner": "wesleytodd/setprototypeof",
-            "owner": {
-                "login": "wesleytodd"
-            }
-        },
-        "whitequark/ipaddr.js": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "ipaddr.js",
-            "nameWithOwner": "whitequark/ipaddr.js",
-            "owner": {
-                "login": "whitequark"
             }
         },
         "whoosh-community/whoosh": {
@@ -29732,6 +29249,21 @@
             "owner": {
                 "isVerified": false,
                 "login": "zip-rs"
+            }
+        },
+        "zloirock/core-js": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "core-js",
+            "nameWithOwner": "zloirock/core-js",
+            "owner": {
+                "login": "zloirock"
             }
         },
         "zopefoundation/roman": {
