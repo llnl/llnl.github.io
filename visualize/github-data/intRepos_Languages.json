@@ -8503,10 +8503,10 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 397284
+                        "size": 394887
                     },
                     {
-                        "size": 46291
+                        "size": 51705
                     },
                     {
                         "size": 30955
@@ -8541,7 +8541,7 @@
                     }
                 ],
                 "totalCount": 5,
-                "totalSize": 477221
+                "totalSize": 480238
             }
         },
         "Olympus-HPC/proteus-benchmarks": {
@@ -11925,13 +11925,13 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 10998765
+                        "size": 11000735
                     },
                     {
-                        "size": 2594156
+                        "size": 2597064
                     },
                     {
-                        "size": 2424882
+                        "size": 2428558
                     },
                     {
                         "size": 183107
@@ -12047,7 +12047,7 @@
                     }
                 ],
                 "totalCount": 17,
-                "totalSize": 16602066
+                "totalSize": 16610620
             }
         },
         "flux-framework/flux-depend": {
@@ -12623,10 +12623,10 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 339886
+                        "size": 360982
                     },
                     {
-                        "size": 170842
+                        "size": 172698
                     },
                     {
                         "size": 68018
@@ -12638,7 +12638,7 @@
                         "size": 24671
                     },
                     {
-                        "size": 9395
+                        "size": 9496
                     },
                     {
                         "size": 2345
@@ -12682,7 +12682,7 @@
                     }
                 ],
                 "totalCount": 8,
-                "totalSize": 680587
+                "totalSize": 703640
             }
         },
         "flux-framework/flux-power-monitor": {
@@ -14075,7 +14075,7 @@
                         "size": 196221
                     },
                     {
-                        "size": 116381
+                        "size": 115844
                     },
                     {
                         "size": 81102
@@ -14165,7 +14165,7 @@
                     }
                 ],
                 "totalCount": 15,
-                "totalSize": 32879242
+                "totalSize": 32878705
             }
         },
         "hypre-space/hypredrive": {
@@ -14259,10 +14259,10 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 1448931
+                        "size": 1449645
                     },
                     {
-                        "size": 803551
+                        "size": 803782
                     },
                     {
                         "size": 381387
@@ -14311,7 +14311,7 @@
                     }
                 ],
                 "totalCount": 7,
-                "totalSize": 2664909
+                "totalSize": 2665854
             }
         },
         "klieberman/ood_nic": {
@@ -18612,10 +18612,10 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 10233121
+                        "size": 10478072
                     },
                     {
-                        "size": 439880
+                        "size": 439929
                     },
                     {
                         "size": 161563
@@ -18678,7 +18678,7 @@
                     }
                 ],
                 "totalCount": 9,
-                "totalSize": 11132142
+                "totalSize": 11377142
             }
         },
         "llnl/GridKit": {
@@ -19514,34 +19514,38 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 1025149
+                        "size": 11211740
                     },
                     {
-                        "size": 875967
+                        "size": 1421851
                     },
                     {
-                        "size": 844056
+                        "size": 1320431
                     },
                     {
-                        "size": 37920
+                        "size": 42106
                     },
                     {
-                        "size": 5008
+                        "size": 9565
                     },
                     {
-                        "size": 2607
+                        "size": 2523
+                    },
+                    {
+                        "size": 668
                     },
                     {
                         "size": 403
                     },
                     {
                         "size": 340
-                    },
-                    {
-                        "size": 187
                     }
                 ],
                 "nodes": [
+                    {
+                        "color": "#f34b7d",
+                        "name": "C++"
+                    },
                     {
                         "color": "#3A4E3A",
                         "name": "Cuda"
@@ -19549,10 +19553,6 @@
                     {
                         "color": "#3572A5",
                         "name": "Python"
-                    },
-                    {
-                        "color": "#f34b7d",
-                        "name": "C++"
                     },
                     {
                         "color": "#555555",
@@ -19567,20 +19567,20 @@
                         "name": "Makefile"
                     },
                     {
+                        "color": "#89e051",
+                        "name": "Shell"
+                    },
+                    {
                         "color": "#C1F12E",
                         "name": "Batchfile"
                     },
                     {
                         "color": "#384d54",
                         "name": "Dockerfile"
-                    },
-                    {
-                        "color": "#89e051",
-                        "name": "Shell"
                     }
                 ],
                 "totalCount": 9,
-                "totalSize": 2791637
+                "totalSize": 14009627
             }
         },
         "llnl/LH2Transfer": {
@@ -25492,7 +25492,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 86090
+                        "size": 254438
                     }
                 ],
                 "nodes": [
@@ -25502,7 +25502,7 @@
                     }
                 ],
                 "totalCount": 1,
-                "totalSize": 86090
+                "totalSize": 254438
             }
         },
         "llnl/aiida-inq": {
@@ -26046,7 +26046,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 1444580
+                        "size": 1444693
                     },
                     {
                         "size": 43656
@@ -26084,7 +26084,7 @@
                     }
                 ],
                 "totalCount": 5,
-                "totalSize": 1501311
+                "totalSize": 1501424
             }
         },
         "llnl/benchpark-performance": {
@@ -28313,13 +28313,13 @@
                         "size": 1537577
                     },
                     {
-                        "size": 833166
+                        "size": 833222
                     },
                     {
-                        "size": 281940
+                        "size": 281868
                     },
                     {
-                        "size": 143641
+                        "size": 143623
                     },
                     {
                         "size": 7011
@@ -28376,7 +28376,7 @@
                     }
                 ],
                 "totalCount": 9,
-                "totalSize": 2812844
+                "totalSize": 2812810
             }
         },
         "llnl/dtcmp": {
@@ -37744,13 +37744,13 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 9242930
+                        "size": 9243271
                     },
                     {
                         "size": 8632719
                     },
                     {
-                        "size": 7448029
+                        "size": 7448333
                     },
                     {
                         "size": 129286
@@ -37824,7 +37824,7 @@
                     }
                 ],
                 "totalCount": 11,
-                "totalSize": 25668889
+                "totalSize": 25669534
             }
         },
         "llnl/spheral-docker": {
@@ -38111,10 +38111,10 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 4568504
+                        "size": 4763872
                     },
                     {
-                        "size": 265314
+                        "size": 265934
                     },
                     {
                         "size": 6274
@@ -38135,7 +38135,7 @@
                     }
                 ],
                 "totalCount": 3,
-                "totalSize": 4840092
+                "totalSize": 5036080
             }
         },
         "llnl/strawman": {
@@ -39431,10 +39431,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 226657
-                    },
-                    {
-                        "size": 7561
+                        "size": 227977
                     },
                     {
                         "size": 1475
@@ -39455,10 +39452,6 @@
                         "name": "Python"
                     },
                     {
-                        "color": "#00ADD8",
-                        "name": "Go Template"
-                    },
-                    {
                         "color": "#384d54",
                         "name": "Dockerfile"
                     },
@@ -39475,8 +39468,8 @@
                         "name": "Shell"
                     }
                 ],
-                "totalCount": 6,
-                "totalSize": 238019
+                "totalCount": 5,
+                "totalSize": 231778
             }
         },
         "llnl/wormhole-token-service": {
@@ -39528,7 +39521,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 113572
+                        "size": 115511
                     },
                     {
                         "size": 1984
@@ -39573,7 +39566,7 @@
                     }
                 ],
                 "totalCount": 6,
-                "totalSize": 117193
+                "totalSize": 119132
             }
         },
         "llnl/wrap": {
@@ -39598,6 +39591,37 @@
                 ],
                 "totalCount": 2,
                 "totalSize": 59174
+            }
+        },
+        "llnl/xcard-automation": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 157923
+                    },
+                    {
+                        "size": 1537
+                    },
+                    {
+                        "size": 618
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#a52a22",
+                        "name": "Jinja"
+                    },
+                    {
+                        "color": "#724b3b",
+                        "name": "Mustache"
+                    }
+                ],
+                "totalCount": 3,
+                "totalSize": 160078
             }
         },
         "llnl/ygm": {
@@ -40631,7 +40655,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 20375391
+                        "size": 20378670
                     },
                     {
                         "size": 319301
@@ -40697,7 +40721,7 @@
                     }
                 ],
                 "totalCount": 9,
-                "totalSize": 21056866
+                "totalSize": 21060145
             }
         },
         "mfem/mfem-uberenv": {
@@ -41356,7 +41380,7 @@
                         "size": 18726590
                     },
                     {
-                        "size": 5237332
+                        "size": 5238481
                     },
                     {
                         "size": 1229047
@@ -41419,7 +41443,7 @@
                     }
                 ],
                 "totalCount": 9,
-                "totalSize": 26757416
+                "totalSize": 26758565
             }
         },
         "openzfs/zfs-buildbot": {
@@ -44126,7 +44150,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 21798006
+                        "size": 21815312
                     },
                     {
                         "size": 49345
@@ -44227,7 +44251,7 @@
                     }
                 ],
                 "totalCount": 14,
-                "totalSize": 21885593
+                "totalSize": 21902899
             }
         },
         "spack/spack-prereq": {
@@ -45266,7 +45290,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 75201903
+                        "size": 75202174
                     },
                     {
                         "size": 13306536
@@ -45278,7 +45302,7 @@
                         "size": 3007074
                     },
                     {
-                        "size": 1261098
+                        "size": 1261589
                     },
                     {
                         "size": 1100713
@@ -45423,7 +45447,7 @@
                     }
                 ],
                 "totalCount": 22,
-                "totalSize": 99428414
+                "totalSize": 99429176
             }
         },
         "visit-dav/visit-deps": {
