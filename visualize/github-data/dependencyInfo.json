@@ -2264,6 +2264,21 @@
                 "login": "PythonCharmers"
             }
         },
+        "Qard/onchange": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3178c6",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "onchange",
+            "nameWithOwner": "Qard/onchange",
+            "owner": {
+                "login": "Qard"
+            }
+        },
         "Qix-/color": {
             "languages": {
                 "nodes": [
@@ -2370,22 +2385,6 @@
                 "login": "Raynos"
             }
         },
-        "ReactiveCircus/android-emulator-runner": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3178c6",
-                        "name": "TypeScript"
-                    }
-                ]
-            },
-            "name": "android-emulator-runner",
-            "nameWithOwner": "ReactiveCircus/android-emulator-runner",
-            "owner": {
-                "isVerified": false,
-                "login": "ReactiveCircus"
-            }
-        },
         "ReactiveX/rxjs": {
             "languages": {
                 "nodes": [
@@ -2460,6 +2459,38 @@
             },
             "name": "block-ciphers",
             "nameWithOwner": "RustCrypto/block-ciphers",
+            "owner": {
+                "isVerified": false,
+                "login": "RustCrypto"
+            }
+        },
+        "RustCrypto/formats": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#dea584",
+                        "name": "Rust"
+                    }
+                ]
+            },
+            "name": "formats",
+            "nameWithOwner": "RustCrypto/formats",
+            "owner": {
+                "isVerified": false,
+                "login": "RustCrypto"
+            }
+        },
+        "RustCrypto/hybrid-array": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#dea584",
+                        "name": "Rust"
+                    }
+                ]
+            },
+            "name": "hybrid-array",
+            "nameWithOwner": "RustCrypto/hybrid-array",
             "owner": {
                 "isVerified": false,
                 "login": "RustCrypto"
@@ -3058,22 +3089,6 @@
             "owner": {
                 "isVerified": true,
                 "login": "VirtusLab"
-            }
-        },
-        "WebwareForPython/DBUtils": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "DBUtils",
-            "nameWithOwner": "WebwareForPython/DBUtils",
-            "owner": {
-                "isVerified": false,
-                "login": "WebwareForPython"
             }
         },
         "Yelp/bravado": {
@@ -4034,21 +4049,6 @@
                 "login": "akaihola"
             }
         },
-        "akhilles/crc-catalog": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#dea584",
-                        "name": "Rust"
-                    }
-                ]
-            },
-            "name": "crc-catalog",
-            "nameWithOwner": "akhilles/crc-catalog",
-            "owner": {
-                "login": "akhilles"
-            }
-        },
         "aleclarson/quick-lru": {
             "languages": {
                 "nodes": [
@@ -4254,6 +4254,22 @@
             "owner": {
                 "isVerified": false,
                 "login": "alvistack"
+            }
+        },
+        "amazon-braket/amazon-braket-sdk-python": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ]
+            },
+            "name": "amazon-braket-sdk-python",
+            "nameWithOwner": "amazon-braket/amazon-braket-sdk-python",
+            "owner": {
+                "isVerified": false,
+                "login": "amazon-braket"
             }
         },
         "ammaraskar/sphinx-action": {
@@ -5891,6 +5907,22 @@
                 "login": "boutproject"
             }
         },
+        "boutproject/zoidberg": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ]
+            },
+            "name": "zoidberg",
+            "nameWithOwner": "boutproject/zoidberg",
+            "owner": {
+                "isVerified": false,
+                "login": "boutproject"
+            }
+        },
         "box/box-python-sdk": {
             "languages": {
                 "nodes": [
@@ -6200,21 +6232,6 @@
             "nameWithOwner": "c0fec0de/anytree",
             "owner": {
                 "login": "c0fec0de"
-            }
-        },
-        "c4urself/bump2version": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    }
-                ]
-            },
-            "name": "bump2version",
-            "nameWithOwner": "c4urself/bump2version",
-            "owner": {
-                "login": "c4urself"
             }
         },
         "cachix/install-nix-action": {
@@ -13399,22 +13416,6 @@
                 "login": "jasmine"
             }
         },
-        "java-native-access/jna": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#b07219",
-                        "name": "Java"
-                    }
-                ]
-            },
-            "name": "jna",
-            "nameWithOwner": "java-native-access/jna",
-            "owner": {
-                "isVerified": false,
-                "login": "java-native-access"
-            }
-        },
         "javaee/javax.annotation": {
             "languages": {
                 "nodes": [
@@ -18750,21 +18751,6 @@
                 "login": "mpmath"
             }
         },
-        "mrhooray/crc-rs": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#dea584",
-                        "name": "Rust"
-                    }
-                ]
-            },
-            "name": "crc-rs",
-            "nameWithOwner": "mrhooray/crc-rs",
-            "owner": {
-                "login": "mrhooray"
-            }
-        },
         "mrmlnc/fast-glob": {
             "languages": {
                 "nodes": [
@@ -18990,6 +18976,21 @@
             },
             "name": "eslint-plugin-node",
             "nameWithOwner": "mysticatea/eslint-plugin-node",
+            "owner": {
+                "login": "mysticatea"
+            }
+        },
+        "mysticatea/npm-run-all": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "npm-run-all",
+            "nameWithOwner": "mysticatea/npm-run-all",
             "owner": {
                 "login": "mysticatea"
             }
@@ -19313,22 +19314,6 @@
             "nameWithOwner": "nilp0inter/cpe",
             "owner": {
                 "login": "nilp0inter"
-            }
-        },
-        "ninja-build/ninja": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f34b7d",
-                        "name": "C++"
-                    }
-                ]
-            },
-            "name": "ninja",
-            "nameWithOwner": "ninja-build/ninja",
-            "owner": {
-                "isVerified": false,
-                "login": "ninja-build"
             }
         },
         "njsmith/colorspacious": {
@@ -20052,22 +20037,6 @@
             "owner": {
                 "isVerified": false,
                 "login": "optuna"
-            }
-        },
-        "oracle/graalpy-extensions": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#b07219",
-                        "name": "Java"
-                    }
-                ]
-            },
-            "name": "graalpy-extensions",
-            "nameWithOwner": "oracle/graalpy-extensions",
-            "owner": {
-                "isVerified": false,
-                "login": "oracle"
             }
         },
         "oremanj/greenback": {
@@ -24122,22 +24091,6 @@
                 "login": "rust-cli"
             }
         },
-        "rust-fuzz/arbitrary": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#dea584",
-                        "name": "Rust"
-                    }
-                ]
-            },
-            "name": "arbitrary",
-            "nameWithOwner": "rust-fuzz/arbitrary",
-            "owner": {
-                "isVerified": false,
-                "login": "rust-fuzz"
-            }
-        },
         "rust-lang-nursery/lazy-static.rs": {
             "languages": {
                 "nodes": [
@@ -27135,22 +27088,6 @@
             "owner": {
                 "isVerified": false,
                 "login": "testing-cabal"
-            }
-        },
-        "testng-team/testng": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#b07219",
-                        "name": "Java"
-                    }
-                ]
-            },
-            "name": "testng",
-            "nameWithOwner": "testng-team/testng",
-            "owner": {
-                "isVerified": false,
-                "login": "testng-team"
             }
         },
         "textX/textX": {
