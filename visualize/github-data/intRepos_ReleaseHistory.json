@@ -2107,6 +2107,12 @@
             "releases": {
                 "nodes": [
                     {
+                        "name": "Remhos release v2.0",
+                        "publishedAt": "2026-11-13T19:15:04Z",
+                        "tagName": "v2.0",
+                        "url": "https://github.com/CEED/Remhos/releases/tag/v2.0"
+                    },
+                    {
                         "name": "Remhos release v1.0",
                         "publishedAt": "2020-03-31T03:51:44Z",
                         "tagName": "v1.0",
@@ -6618,6 +6624,24 @@
                         "publishedAt": "2026-03-11T17:21:22Z",
                         "tagName": "v0.2.0",
                         "url": "https://github.com/MetallData/metalldata/releases/tag/v0.2.0"
+                    }
+                ]
+            }
+        },
+        "MetallData/metalldata-tutorial": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "v0.1.1",
+                        "publishedAt": "2026-11-12T23:22:09Z",
+                        "tagName": "v0.1.1",
+                        "url": "https://github.com/MetallData/metalldata-tutorial/releases/tag/v0.1.1"
+                    },
+                    {
+                        "name": "v0.1.0",
+                        "publishedAt": "2026-11-12T19:40:30Z",
+                        "tagName": "v0.1.0",
+                        "url": "https://github.com/MetallData/metalldata-tutorial/releases/tag/v0.1.0"
                     }
                 ]
             }
@@ -18048,6 +18072,12 @@
             "releases": {
                 "nodes": [
                     {
+                        "name": "v1.1.0",
+                        "publishedAt": "2026-11-12T20:25:24Z",
+                        "tagName": "v1.1.0",
+                        "url": "https://github.com/llnl/dr_evt/releases/tag/v1.1.0"
+                    },
+                    {
                         "name": "v1.0.0",
                         "publishedAt": "2026-11-05T07:37:10Z",
                         "tagName": "v1.0.0",
@@ -27388,6 +27418,11 @@
             }
         },
         "visit-dav/dashboard-hdf5200": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "visit-dav/dashboard_old": {
             "releases": {
                 "nodes": []
             }
