@@ -3889,6 +3889,12 @@
             "releases": {
                 "nodes": [
                     {
+                        "name": "v7.3.0",
+                        "publishedAt": "2026-11-17T10:04:58Z",
+                        "tagName": "7.3.0",
+                        "url": "https://github.com/ESGF/esgf-vocab/releases/tag/7.3.0"
+                    },
+                    {
                         "name": "v7.2.0",
                         "publishedAt": "2026-10-21T11:51:14Z",
                         "tagName": "7.2.0",
@@ -13395,7 +13401,7 @@
                 "nodes": [
                     {
                         "name": "MacPatch v4.4.0",
-                        "publishedAt": "2026-11-16T16:11:21Z",
+                        "publishedAt": "2026-11-16T23:27:59Z",
                         "tagName": "v4.4.0",
                         "url": "https://github.com/llnl/MacPatch/releases/tag/v4.4.0"
                     },
@@ -14259,6 +14265,12 @@
         "llnl/PyDV": {
             "releases": {
                 "nodes": [
+                    {
+                        "name": "pydv-3.11.1",
+                        "publishedAt": "2026-11-17T15:24:16Z",
+                        "tagName": "pydv-3.11.1",
+                        "url": "https://github.com/llnl/PyDV/releases/tag/pydv-3.11.1"
+                    },
                     {
                         "name": "pydv-3.11.0",
                         "publishedAt": "2026-10-26T17:51:01Z",
@@ -15387,16 +15399,10 @@
             "releases": {
                 "nodes": [
                     {
-                        "name": "4.12.2-pre2",
-                        "publishedAt": "2026-11-11T18:18:18Z",
-                        "tagName": "4.12.2-pre2",
-                        "url": "https://github.com/llnl/Silo/releases/tag/4.12.2-pre2"
-                    },
-                    {
-                        "name": "4.12.2-pre1",
-                        "publishedAt": "2026-10-27T06:58:40Z",
-                        "tagName": "4.12.2-pre1",
-                        "url": "https://github.com/llnl/Silo/releases/tag/4.12.2-pre1"
+                        "name": "4.12.2",
+                        "publishedAt": "2026-11-17T02:35:56Z",
+                        "tagName": "4.12.2",
+                        "url": "https://github.com/llnl/Silo/releases/tag/4.12.2"
                     },
                     {
                         "name": "4.12.1",
@@ -18198,6 +18204,11 @@
             }
         },
         "llnl/elastic-stacker": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "llnl/erf-sdm-gold-files": {
             "releases": {
                 "nodes": []
             }
