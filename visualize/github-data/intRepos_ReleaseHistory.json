@@ -12129,6 +12129,11 @@
                 "nodes": []
             }
         },
+        "llnl/CereBench": {
+            "releases": {
+                "nodes": []
+            }
+        },
         "llnl/CerebrasTrilabs-SC24AD": {
             "releases": {
                 "nodes": []
@@ -14265,6 +14270,12 @@
         "llnl/PyDV": {
             "releases": {
                 "nodes": [
+                    {
+                        "name": "pydv-3.11.2",
+                        "publishedAt": "2026-11-18T17:06:20Z",
+                        "tagName": "pydv-3.11.2",
+                        "url": "https://github.com/llnl/PyDV/releases/tag/pydv-3.11.2"
+                    },
                     {
                         "name": "pydv-3.11.1",
                         "publishedAt": "2026-11-17T15:24:16Z",
