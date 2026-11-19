@@ -5661,6 +5661,12 @@
         ],
         "website": ""
     },
+    "llnl/edg-compiler": {
+        "description": "LLNL Fork of The Open EDG C & C++ Compiler Project",
+        "name": "llnl/edg-compiler",
+        "topics": null,
+        "website": "https://edgcpp.org"
+    },
     "llnl/elastic-stacker": {
         "description": "A tool for importing and exporting Elastic Stack configuration to and from files.",
         "name": "llnl/elastic-stacker",
@@ -8121,8 +8127,10 @@
     "llnl/wormhole-ui": {
         "description": "Web interface for Wormhole.",
         "name": "llnl/wormhole-ui",
-        "topics": null,
-        "website": null
+        "topics": [
+            "wormhole-st"
+        ],
+        "website": ""
     },
     "llnl/wrap": {
         "description": "MPI wrapper generator, for writing PMPI tool libraries",

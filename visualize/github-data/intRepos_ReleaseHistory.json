@@ -4,6 +4,12 @@
             "releases": {
                 "nodes": [
                     {
+                        "name": "1.9.0 - Release",
+                        "publishedAt": "2026-11-19T18:23:06Z",
+                        "tagName": "1.9.0",
+                        "url": "https://github.com/ATOMScience-org/AMPL/releases/tag/1.9.0"
+                    },
+                    {
                         "name": "1.8.1 - Release",
                         "publishedAt": "2026-10-15T22:44:03Z",
                         "tagName": "1.8.1",
@@ -2129,6 +2135,12 @@
         "CEED/libCEED": {
             "releases": {
                 "nodes": [
+                    {
+                        "name": "v1.1.1",
+                        "publishedAt": "2026-11-19T19:03:49Z",
+                        "tagName": "v1.1.1",
+                        "url": "https://github.com/CEED/libCEED/releases/tag/v1.1.1"
+                    },
                     {
                         "name": "v1.1.0",
                         "publishedAt": "2026-10-30T15:16:08Z",
@@ -18212,6 +18224,11 @@
                         "url": "https://github.com/llnl/echemfem/releases/tag/v0.0.1"
                     }
                 ]
+            }
+        },
+        "llnl/edg-compiler": {
+            "releases": {
+                "nodes": []
             }
         },
         "llnl/elastic-stacker": {

@@ -10870,6 +10870,12 @@
                 "totalCount": 5
             }
         },
+        "llnl/edg-compiler": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "llnl/elastic-stacker": {
             "repositoryTopics": {
                 "nodes": [],
@@ -16365,8 +16371,16 @@
         },
         "llnl/wormhole-ui": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/wormhole-st",
+                        "topic": {
+                            "name": "wormhole-st"
+                        },
+                        "url": "https://github.com/topics/wormhole-st"
+                    }
+                ],
+                "totalCount": 1
             }
         },
         "llnl/wrap": {
