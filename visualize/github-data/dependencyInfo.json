@@ -1,5 +1,21 @@
 {
     "data": {
+        "2i2c-org/jupyter-launcher-shortcuts": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ]
+            },
+            "name": "jupyter-launcher-shortcuts",
+            "nameWithOwner": "2i2c-org/jupyter-launcher-shortcuts",
+            "owner": {
+                "isVerified": false,
+                "login": "2i2c-org"
+            }
+        },
         "3lixy/pip_bump_requirements": {
             "languages": {
                 "nodes": [
@@ -249,6 +265,21 @@
             "nameWithOwner": "BrianPugh/cyclopts",
             "owner": {
                 "login": "BrianPugh"
+            }
+        },
+        "Brooooooklyn/lzma": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3178c6",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "lzma",
+            "nameWithOwner": "Brooooooklyn/lzma",
+            "owner": {
+                "login": "Brooooooklyn"
             }
         },
         "BurntSushi/aho-corasick": {
@@ -1351,21 +1382,6 @@
             "owner": {
                 "isVerified": true,
                 "login": "KitwareMedical"
-            }
-        },
-        "Klortho/d3-flextree": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "d3-flextree",
-            "nameWithOwner": "Klortho/d3-flextree",
-            "owner": {
-                "login": "Klortho"
             }
         },
         "Kludex/python-multipart": {
@@ -2949,22 +2965,6 @@
                 "login": "TwP"
             }
         },
-        "TypeStrong/ts-node": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3178c6",
-                        "name": "TypeScript"
-                    }
-                ]
-            },
-            "name": "ts-node",
-            "nameWithOwner": "TypeStrong/ts-node",
-            "owner": {
-                "isVerified": false,
-                "login": "TypeStrong"
-            }
-        },
         "Unidata/cftime": {
             "languages": {
                 "nodes": [
@@ -3573,6 +3573,22 @@
             "nameWithOwner": "adamchainz/django-cors-headers",
             "owner": {
                 "login": "adamchainz"
+            }
+        },
+        "adobe/css-tools": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#663399",
+                        "name": "CSS"
+                    }
+                ]
+            },
+            "name": "css-tools",
+            "nameWithOwner": "adobe/css-tools",
+            "owner": {
+                "isVerified": true,
+                "login": "adobe"
             }
         },
         "advanced-security/dismiss-alerts": {
@@ -4428,21 +4444,6 @@
                 "login": "andrewrk"
             }
         },
-        "andreypopp/autobind-decorator": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "autobind-decorator",
-            "nameWithOwner": "andreypopp/autobind-decorator",
-            "owner": {
-                "login": "andreypopp"
-            }
-        },
         "andymckay/labeler": {
             "languages": {
                 "nodes": [
@@ -4771,6 +4772,102 @@
                 "login": "apache"
             }
         },
+        "apollographql/apollo-client": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3178c6",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "apollo-client",
+            "nameWithOwner": "apollographql/apollo-client",
+            "owner": {
+                "isVerified": false,
+                "login": "apollographql"
+            }
+        },
+        "apollographql/apollo-tooling": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3178c6",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "apollo-tooling",
+            "nameWithOwner": "apollographql/apollo-tooling",
+            "owner": {
+                "isVerified": false,
+                "login": "apollographql"
+            }
+        },
+        "apollographql/apollo-utils": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3178c6",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "apollo-utils",
+            "nameWithOwner": "apollographql/apollo-utils",
+            "owner": {
+                "isVerified": false,
+                "login": "apollographql"
+            }
+        },
+        "apollographql/federation": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3178c6",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "federation",
+            "nameWithOwner": "apollographql/federation",
+            "owner": {
+                "isVerified": false,
+                "login": "apollographql"
+            }
+        },
+        "apollographql/protobuf.js": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "protobuf.js",
+            "nameWithOwner": "apollographql/protobuf.js",
+            "owner": {
+                "isVerified": false,
+                "login": "apollographql"
+            }
+        },
+        "apollographql/subgraph-js": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3178c6",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "subgraph-js",
+            "nameWithOwner": "apollographql/subgraph-js",
+            "owner": {
+                "isVerified": false,
+                "login": "apollographql"
+            }
+        },
         "appany/helm-oci-chart-releaser": {
             "languages": {
                 "nodes": [
@@ -4835,19 +4932,19 @@
                 "login": "archspec"
             }
         },
-        "aredridel/node-bin-gen": {
+        "ardatan/graphql-tools": {
             "languages": {
                 "nodes": [
                     {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
+                        "color": "#3178c6",
+                        "name": "TypeScript"
                     }
                 ]
             },
-            "name": "node-bin-gen",
-            "nameWithOwner": "aredridel/node-bin-gen",
+            "name": "graphql-tools",
+            "nameWithOwner": "ardatan/graphql-tools",
             "owner": {
-                "login": "aredridel"
+                "login": "ardatan"
             }
         },
         "ariebovenberg/slotscheck": {
@@ -4925,6 +5022,21 @@
             "owner": {
                 "isVerified": false,
                 "login": "arviz-devs"
+            }
+        },
+        "asamuzaK/cssColor": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3178c6",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "cssColor",
+            "nameWithOwner": "asamuzaK/cssColor",
+            "owner": {
+                "login": "asamuzaK"
             }
         },
         "asciimoo/ds": {
@@ -5049,6 +5161,22 @@
             "owner": {
                 "isVerified": true,
                 "login": "aspnet"
+            }
+        },
+        "ast-grep/ast-grep": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#dea584",
+                        "name": "Rust"
+                    }
+                ]
+            },
+            "name": "ast-grep",
+            "nameWithOwner": "ast-grep/ast-grep",
+            "owner": {
+                "isVerified": false,
+                "login": "ast-grep"
             }
         },
         "astanin/python-tabulate": {
@@ -5271,21 +5399,6 @@
             "owner": {
                 "isVerified": true,
                 "login": "awslabs"
-            }
-        },
-        "azz/prettier-tslint": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "prettier-tslint",
-            "nameWithOwner": "azz/prettier-tslint",
-            "owner": {
-                "login": "azz"
             }
         },
         "babel/babel": {
@@ -5704,22 +5817,6 @@
             "owner": {
                 "isVerified": false,
                 "login": "blaze"
-            }
-        },
-        "blueberryapps/react-load-script": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "react-load-script",
-            "nameWithOwner": "blueberryapps/react-load-script",
-            "owner": {
-                "isVerified": false,
-                "login": "blueberryapps"
             }
         },
         "blueswen/mkdocs-glightbox": {
@@ -6462,21 +6559,6 @@
             "nameWithOwner": "carltongibson/django-filter",
             "owner": {
                 "login": "carltongibson"
-            }
-        },
-        "caseywebdev/react-list": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "react-list",
-            "nameWithOwner": "caseywebdev/react-list",
-            "owner": {
-                "login": "caseywebdev"
             }
         },
         "castleproject/Core": {
@@ -7655,22 +7737,6 @@
                 "login": "d3"
             }
         },
-        "d3/d3-quadtree": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "d3-quadtree",
-            "nameWithOwner": "d3/d3-quadtree",
-            "owner": {
-                "isVerified": false,
-                "login": "d3"
-            }
-        },
         "d3/d3-scale": {
             "languages": {
                 "nodes": [
@@ -8044,6 +8110,22 @@
             "nameWithOwner": "deoxxa/duplexer2",
             "owner": {
                 "login": "deoxxa"
+            }
+        },
+        "dequelabs/axe-core-npm": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "axe-core-npm",
+            "nameWithOwner": "dequelabs/axe-core-npm",
+            "owner": {
+                "isVerified": true,
+                "login": "dequelabs"
             }
         },
         "dessant/repo-lockdown": {
@@ -8803,21 +8885,6 @@
                 "login": "dpranke"
             }
         },
-        "dsc/node-remove": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "node-remove",
-            "nameWithOwner": "dsc/node-remove",
-            "owner": {
-                "login": "dsc"
-            }
-        },
         "dss-extensions/DSS-Python": {
             "languages": {
                 "nodes": [
@@ -9407,22 +9474,6 @@
             "owner": {
                 "isVerified": false,
                 "login": "es-shims"
-            }
-        },
-        "eslint-community/eslint-plugin-promise": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "eslint-plugin-promise",
-            "nameWithOwner": "eslint-community/eslint-plugin-promise",
-            "owner": {
-                "isVerified": false,
-                "login": "eslint-community"
             }
         },
         "eslint-community/eslint-utils": {
@@ -10345,21 +10396,6 @@
                 "login": "fizyk20"
             }
         },
-        "fkhadra/react-toastify": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3178c6",
-                        "name": "TypeScript"
-                    }
-                ]
-            },
-            "name": "react-toastify",
-            "nameWithOwner": "fkhadra/react-toastify",
-            "owner": {
-                "login": "fkhadra"
-            }
-        },
         "fkirc/skip-duplicate-actions": {
             "languages": {
                 "nodes": [
@@ -10814,21 +10850,6 @@
             "owner": {
                 "isVerified": false,
                 "login": "gidgethub"
-            }
-        },
-        "gilbarbara/react-joyride": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3178c6",
-                        "name": "TypeScript"
-                    }
-                ]
-            },
-            "name": "react-joyride",
-            "nameWithOwner": "gilbarbara/react-joyride",
-            "owner": {
-                "login": "gilbarbara"
             }
         },
         "gimli-rs/addr2line": {
@@ -11666,6 +11687,17 @@
             "nameWithOwner": "grantjenks/python-sortedcontainers",
             "owner": {
                 "login": "grantjenks"
+            }
+        },
+        "graphql/graphql-language-service": {
+            "languages": {
+                "nodes": []
+            },
+            "name": "graphql-language-service",
+            "nameWithOwner": "graphql/graphql-language-service",
+            "owner": {
+                "isVerified": false,
+                "login": "graphql"
             }
         },
         "gristlabs/asttokens": {
@@ -14691,6 +14723,21 @@
                 "login": "jrburke"
             }
         },
+        "jrfonseca/xdot.py": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ]
+            },
+            "name": "xdot.py",
+            "nameWithOwner": "jrfonseca/xdot.py",
+            "owner": {
+                "login": "jrfonseca"
+            }
+        },
         "jridgewell/resolve-uri": {
             "languages": {
                 "nodes": [
@@ -15269,6 +15316,22 @@
                 "login": "jupyterhub"
             }
         },
+        "jupyterhub/jupyterhub-idle-culler": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ]
+            },
+            "name": "jupyterhub-idle-culler",
+            "nameWithOwner": "jupyterhub/jupyterhub-idle-culler",
+            "owner": {
+                "isVerified": false,
+                "login": "jupyterhub"
+            }
+        },
         "jupyterhub/nbgitpuller": {
             "languages": {
                 "nodes": [
@@ -15328,22 +15391,6 @@
             },
             "name": "jupyterlab_pygments",
             "nameWithOwner": "jupyterlab/jupyterlab_pygments",
-            "owner": {
-                "isVerified": true,
-                "login": "jupyterlab"
-            }
-        },
-        "jupyterlab/lumino": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3178c6",
-                        "name": "TypeScript"
-                    }
-                ]
-            },
-            "name": "lumino",
-            "nameWithOwner": "jupyterlab/lumino",
             "owner": {
                 "isVerified": true,
                 "login": "jupyterlab"
@@ -16239,22 +16286,6 @@
                 "login": "lightgbm-org"
             }
         },
-        "lint-staged/lint-staged": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "lint-staged",
-            "nameWithOwner": "lint-staged/lint-staged",
-            "owner": {
-                "isVerified": false,
-                "login": "lint-staged"
-            }
-        },
         "linuxmint/apturl": {
             "languages": {
                 "nodes": [
@@ -16791,22 +16822,6 @@
             "owner": {
                 "isVerified": false,
                 "login": "locationtech"
-            }
-        },
-        "lodash/lodash": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "lodash",
-            "nameWithOwner": "lodash/lodash",
-            "owner": {
-                "isVerified": true,
-                "login": "lodash"
             }
         },
         "lostisland/faraday": {
@@ -17659,22 +17674,6 @@
             "owner": {
                 "isVerified": true,
                 "login": "meta-pytorch"
-            }
-        },
-        "meta/prop-types": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "prop-types",
-            "nameWithOwner": "meta/prop-types",
-            "owner": {
-                "isVerified": true,
-                "login": "meta"
             }
         },
         "mewwts/addict": {
@@ -19043,21 +19042,6 @@
                 "login": "mysql"
             }
         },
-        "mysticatea/eslint-plugin-node": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "eslint-plugin-node",
-            "nameWithOwner": "mysticatea/eslint-plugin-node",
-            "owner": {
-                "login": "mysticatea"
-            }
-        },
         "nDmitry/grunt-autoprefixer": {
             "languages": {
                 "nodes": [
@@ -19761,21 +19745,6 @@
                 "login": "olahol"
             }
         },
-        "omichelsen/compare-versions": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3178c6",
-                        "name": "TypeScript"
-                    }
-                ]
-            },
-            "name": "compare-versions",
-            "nameWithOwner": "omichelsen/compare-versions",
-            "owner": {
-                "login": "omichelsen"
-            }
-        },
         "omnilib/aioitertools": {
             "languages": {
                 "nodes": [
@@ -20213,22 +20182,6 @@
                 "login": "palantir"
             }
         },
-        "palantir/tslint-react": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3178c6",
-                        "name": "TypeScript"
-                    }
-                ]
-            },
-            "name": "tslint-react",
-            "nameWithOwner": "palantir/tslint-react",
-            "owner": {
-                "isVerified": true,
-                "login": "palantir"
-            }
-        },
         "pallets-eco/blinker": {
             "languages": {
                 "nodes": [
@@ -20402,21 +20355,6 @@
                 "login": "paulmillr"
             }
         },
-        "pawelgalazka/tasksfile": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3178c6",
-                        "name": "TypeScript"
-                    }
-                ]
-            },
-            "name": "tasksfile",
-            "nameWithOwner": "pawelgalazka/tasksfile",
-            "owner": {
-                "login": "pawelgalazka"
-            }
-        },
         "pbrady/fastcache": {
             "languages": {
                 "nodes": [
@@ -20535,21 +20473,6 @@
             "nameWithOwner": "peter-evans/find-comment",
             "owner": {
                 "login": "peter-evans"
-            }
-        },
-        "peternewnham/react-html-parser": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "react-html-parser",
-            "nameWithOwner": "peternewnham/react-html-parser",
-            "owner": {
-                "login": "peternewnham"
             }
         },
         "peterolson/BigInteger.js": {
@@ -21058,22 +20981,6 @@
                 "login": "prettier"
             }
         },
-        "prettier/eslint-plugin-prettier": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "eslint-plugin-prettier",
-            "nameWithOwner": "prettier/eslint-plugin-prettier",
-            "owner": {
-                "isVerified": true,
-                "login": "prettier"
-            }
-        },
         "prettier/prettier": {
             "languages": {
                 "nodes": [
@@ -21085,22 +20992,6 @@
             },
             "name": "prettier",
             "nameWithOwner": "prettier/prettier",
-            "owner": {
-                "isVerified": true,
-                "login": "prettier"
-            }
-        },
-        "prettier/tslint-config-prettier": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3178c6",
-                        "name": "TypeScript"
-                    }
-                ]
-            },
-            "name": "tslint-config-prettier",
-            "nameWithOwner": "prettier/tslint-config-prettier",
             "owner": {
                 "isVerified": true,
                 "login": "prettier"
@@ -23111,7 +23002,7 @@
                 "login": "react-bootstrap"
             }
         },
-        "react-component/slider": {
+        "react-navigation/react-navigation": {
             "languages": {
                 "nodes": [
                     {
@@ -23120,11 +23011,11 @@
                     }
                 ]
             },
-            "name": "slider",
-            "nameWithOwner": "react-component/slider",
+            "name": "react-navigation",
+            "nameWithOwner": "react-navigation/react-navigation",
             "owner": {
                 "isVerified": false,
-                "login": "react-component"
+                "login": "react-navigation"
             }
         },
         "react/react": {
@@ -23143,20 +23034,20 @@
                 "login": "react"
             }
         },
-        "reactstrap/reactstrap": {
+        "react/react-native": {
             "languages": {
                 "nodes": [
                     {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
+                        "color": "#f34b7d",
+                        "name": "C++"
                     }
                 ]
             },
-            "name": "reactstrap",
-            "nameWithOwner": "reactstrap/reactstrap",
+            "name": "react-native",
+            "nameWithOwner": "react/react-native",
             "owner": {
                 "isVerified": false,
-                "login": "reactstrap"
+                "login": "react"
             }
         },
         "readthedocs/commonmark.py": {
@@ -23429,21 +23320,6 @@
                 "login": "relf"
             }
         },
-        "remy/nodemon": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "nodemon",
-            "nameWithOwner": "remy/nodemon",
-            "owner": {
-                "login": "remy"
-            }
-        },
         "request/aws-sign": {
             "languages": {
                 "nodes": [
@@ -23642,6 +23518,22 @@
             },
             "name": "plugins",
             "nameWithOwner": "rollup/plugins",
+            "owner": {
+                "isVerified": false,
+                "login": "rollup"
+            }
+        },
+        "rollup/rollup": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "rollup",
+            "nameWithOwner": "rollup/rollup",
             "owner": {
                 "isVerified": false,
                 "login": "rollup"
@@ -24520,22 +24412,6 @@
                 "login": "sass"
             }
         },
-        "sass/node-sass": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f34b7d",
-                        "name": "C++"
-                    }
-                ]
-            },
-            "name": "node-sass",
-            "nameWithOwner": "sass/node-sass",
-            "owner": {
-                "isVerified": false,
-                "login": "sass"
-            }
-        },
         "scientific-python/lazy-loader": {
             "languages": {
                 "nodes": [
@@ -24768,21 +24644,6 @@
                 "login": "segor"
             }
         },
-        "seiyria/bootstrap-slider": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "bootstrap-slider",
-            "nameWithOwner": "seiyria/bootstrap-slider",
-            "owner": {
-                "login": "seiyria"
-            }
-        },
         "selectize/selectize.js": {
             "languages": {
                 "nodes": [
@@ -24967,21 +24828,6 @@
             "nameWithOwner": "sfackler/streaming-iterator",
             "owner": {
                 "login": "sfackler"
-            }
-        },
-        "sghall/react-compound-slider": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3178c6",
-                        "name": "TypeScript"
-                    }
-                ]
-            },
-            "name": "react-compound-slider",
-            "nameWithOwner": "sghall/react-compound-slider",
-            "owner": {
-                "login": "sghall"
             }
         },
         "shapely/shapely": {
@@ -25405,21 +25251,6 @@
             },
             "name": "path-is-absolute",
             "nameWithOwner": "sindresorhus/path-is-absolute",
-            "owner": {
-                "login": "sindresorhus"
-            }
-        },
-        "sindresorhus/query-string": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "query-string",
-            "nameWithOwner": "sindresorhus/query-string",
             "owner": {
                 "login": "sindresorhus"
             }
@@ -26829,21 +26660,6 @@
                 "login": "takluyver"
             }
         },
-        "tamino-martinius/node-ts-dedent": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#3178c6",
-                        "name": "TypeScript"
-                    }
-                ]
-            },
-            "name": "node-ts-dedent",
-            "nameWithOwner": "tamino-martinius/node-ts-dedent",
-            "owner": {
-                "login": "tamino-martinius"
-            }
-        },
         "tapio/live-server": {
             "languages": {
                 "nodes": [
@@ -27100,6 +26916,21 @@
             },
             "name": "brace",
             "nameWithOwner": "thlorenz/brace",
+            "owner": {
+                "login": "thlorenz"
+            }
+        },
+        "thlorenz/convert-source-map": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "convert-source-map",
+            "nameWithOwner": "thlorenz/convert-source-map",
             "owner": {
                 "login": "thlorenz"
             }
@@ -27651,6 +27482,21 @@
                 "login": "triton-lang"
             }
         },
+        "trungleduc/jupyter_app_launcher": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3178c6",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "jupyter_app_launcher",
+            "nameWithOwner": "trungleduc/jupyter_app_launcher",
+            "owner": {
+                "login": "trungleduc"
+            }
+        },
         "tschaub/gh-pages": {
             "languages": {
                 "nodes": [
@@ -27804,21 +27650,6 @@
             "owner": {
                 "isVerified": true,
                 "login": "typescript-eslint"
-            }
-        },
-        "typicode/husky": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#f1e05a",
-                        "name": "JavaScript"
-                    }
-                ]
-            },
-            "name": "husky",
-            "nameWithOwner": "typicode/husky",
-            "owner": {
-                "login": "typicode"
             }
         },
         "uber-go/atomic": {
@@ -28290,6 +28121,22 @@
                 "login": "vitejs"
             }
         },
+        "vitejs/vite-plugin-react": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3178c6",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "vite-plugin-react",
+            "nameWithOwner": "vitejs/vite-plugin-react",
+            "owner": {
+                "isVerified": true,
+                "login": "vitejs"
+            }
+        },
         "vmactions/freebsd-vm": {
             "languages": {
                 "nodes": [
@@ -28600,6 +28447,22 @@
             "owner": {
                 "isVerified": false,
                 "login": "web-animations"
+            }
+        },
+        "web-platform-dx/baseline-browser-mapping": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3178c6",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "baseline-browser-mapping",
+            "nameWithOwner": "web-platform-dx/baseline-browser-mapping",
+            "owner": {
+                "isVerified": false,
+                "login": "web-platform-dx"
             }
         },
         "webdesus/fs_extra": {

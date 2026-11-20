@@ -3297,6 +3297,11 @@
                 ]
             }
         },
+        "ESGF/esgf-deployment": {
+            "releases": {
+                "nodes": []
+            }
+        },
         "ESGF/esgf-devOps": {
             "releases": {
                 "nodes": []
@@ -14081,6 +14086,11 @@
                 "nodes": []
             }
         },
+        "llnl/PRIDE_eSim": {
+            "releases": {
+                "nodes": []
+            }
+        },
         "llnl/PYB11Generator": {
             "releases": {
                 "nodes": [
@@ -24347,6 +24357,12 @@
         "llnl/wormhole-route-registry": {
             "releases": {
                 "nodes": [
+                    {
+                        "name": "v0.1.6",
+                        "publishedAt": "2026-11-19T21:02:45Z",
+                        "tagName": "v0.1.6",
+                        "url": "https://github.com/llnl/wormhole-route-registry/releases/tag/v0.1.6"
+                    },
                     {
                         "name": "v0.1.5",
                         "publishedAt": "2026-11-10T20:39:58Z",
