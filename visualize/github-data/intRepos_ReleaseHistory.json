@@ -4588,6 +4588,12 @@
             "releases": {
                 "nodes": [
                     {
+                        "name": "v3.7.1",
+                        "publishedAt": "2026-11-21T20:58:08Z",
+                        "tagName": "v3.7.1",
+                        "url": "https://github.com/GMLC-TDC/HELICS/releases/tag/v3.7.1"
+                    },
+                    {
                         "name": "v3.7.0",
                         "publishedAt": "2026-09-09T23:29:45Z",
                         "tagName": "v3.7.0",
@@ -16474,6 +16480,12 @@
                         "url": "https://github.com/llnl/Wintap/releases/tag/v7.0.0"
                     },
                     {
+                        "name": "Wintap 7.0.1-beta.1 \u2014 Windows Package",
+                        "publishedAt": "2026-11-21T20:13:35Z",
+                        "tagName": "v7.0.1-beta.2",
+                        "url": "https://github.com/llnl/Wintap/releases/tag/v7.0.1-beta.2"
+                    },
+                    {
                         "name": "v6.1.0.4",
                         "publishedAt": "2024-10-09T15:27:05Z",
                         "tagName": "v6.1.0.4",
@@ -21243,7 +21255,26 @@
         },
         "llnl/mgmol": {
             "releases": {
-                "nodes": []
+                "nodes": [
+                    {
+                        "name": "Release v1.2",
+                        "publishedAt": "2026-11-22T04:10:47Z",
+                        "tagName": "v1.2",
+                        "url": "https://github.com/llnl/mgmol/releases/tag/v1.2"
+                    },
+                    {
+                        "name": "Release v1.1",
+                        "publishedAt": "2026-11-22T03:50:33Z",
+                        "tagName": "v1.1",
+                        "url": "https://github.com/llnl/mgmol/releases/tag/v1.1"
+                    },
+                    {
+                        "name": "Release v1.0",
+                        "publishedAt": "2026-11-22T03:34:36Z",
+                        "tagName": "v1.0",
+                        "url": "https://github.com/llnl/mgmol/releases/tag/v1.0"
+                    }
+                ]
             }
         },
         "llnl/mhysa": {
