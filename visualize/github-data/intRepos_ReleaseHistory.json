@@ -15810,7 +15810,14 @@
         },
         "llnl/Tribol": {
             "releases": {
-                "nodes": []
+                "nodes": [
+                    {
+                        "name": "Tribol-v0.2.0",
+                        "publishedAt": "2026-11-24T22:06:52Z",
+                        "tagName": "v0.2.0",
+                        "url": "https://github.com/llnl/Tribol/releases/tag/v0.2.0"
+                    }
+                ]
             }
         },
         "llnl/UEDGE": {
@@ -21263,6 +21270,24 @@
             "releases": {
                 "nodes": [
                     {
+                        "name": "v1.5",
+                        "publishedAt": "2026-11-24T15:58:14Z",
+                        "tagName": "v1.5",
+                        "url": "https://github.com/llnl/mgmol/releases/tag/v1.5"
+                    },
+                    {
+                        "name": "v1.4",
+                        "publishedAt": "2026-11-24T15:54:32Z",
+                        "tagName": "v1.4",
+                        "url": "https://github.com/llnl/mgmol/releases/tag/v1.4"
+                    },
+                    {
+                        "name": "Release v1.3",
+                        "publishedAt": "2026-11-24T15:48:32Z",
+                        "tagName": "v1.3",
+                        "url": "https://github.com/llnl/mgmol/releases/tag/v1.3"
+                    },
+                    {
                         "name": "Release v1.2",
                         "publishedAt": "2026-11-22T04:10:47Z",
                         "tagName": "v1.2",
@@ -24869,6 +24894,11 @@
             }
         },
         "mdg-graphics/mili-python": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "mfem/MFEM.jl": {
             "releases": {
                 "nodes": []
             }
