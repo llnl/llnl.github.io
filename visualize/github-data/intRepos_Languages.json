@@ -5725,7 +5725,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 1133975
+                        "size": 1149104
                     },
                     {
                         "size": 12672
@@ -5777,7 +5777,7 @@
                     }
                 ],
                 "totalCount": 7,
-                "totalSize": 1167984
+                "totalSize": 1183113
             }
         },
         "ESGF/sproket": {
@@ -6273,7 +6273,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 5729147
+                        "size": 5733637
                     },
                     {
                         "size": 869820
@@ -6346,7 +6346,7 @@
                     }
                 ],
                 "totalCount": 10,
-                "totalSize": 7394059
+                "totalSize": 7398549
             }
         },
         "GMLC-TDC/HELICS-BBX": {
@@ -8267,7 +8267,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 905202
+                        "size": 905266
                     },
                     {
                         "size": 104953
@@ -8305,7 +8305,7 @@
                     }
                 ],
                 "totalCount": 5,
-                "totalSize": 1097808
+                "totalSize": 1097872
             }
         },
         "LBANN/DistConv": {
@@ -11832,7 +11832,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 728154
+                        "size": 728444
                     },
                     {
                         "size": 663492
@@ -11891,7 +11891,7 @@
                     }
                 ],
                 "totalCount": 8,
-                "totalSize": 1818381
+                "totalSize": 1818671
             }
         },
         "flux-framework/flux-coral2": {
@@ -11957,10 +11957,10 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 11133838
+                        "size": 11154323
                     },
                     {
-                        "size": 2641230
+                        "size": 2655409
                     },
                     {
                         "size": 2476508
@@ -12079,7 +12079,7 @@
                     }
                 ],
                 "totalCount": 17,
-                "totalSize": 16836983
+                "totalSize": 16871647
             }
         },
         "flux-framework/flux-depend": {
@@ -14204,40 +14204,43 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 3851489
+                        "size": 3936344
                     },
                     {
-                        "size": 471580
+                        "size": 496926
                     },
                     {
-                        "size": 456227
+                        "size": 465770
                     },
                     {
-                        "size": 149665
+                        "size": 154507
                     },
                     {
-                        "size": 115809
+                        "size": 149237
                     },
                     {
-                        "size": 67397
+                        "size": 102121
                     },
                     {
-                        "size": 64671
+                        "size": 69343
+                    },
+                    {
+                        "size": 48984
                     },
                     {
                         "size": 48423
                     },
                     {
+                        "size": 38618
+                    },
+                    {
                         "size": 29939
                     },
                     {
-                        "size": 29154
-                    },
-                    {
-                        "size": 21253
-                    },
-                    {
                         "size": 4572
+                    },
+                    {
+                        "size": 1784
                     }
                 ],
                 "nodes": [
@@ -14262,36 +14265,40 @@
                         "name": "Julia"
                     },
                     {
-                        "color": "#4d41b1",
-                        "name": "Fortran"
-                    },
-                    {
                         "color": "#dea584",
                         "name": "Rust"
                     },
                     {
-                        "color": "#f34b7d",
-                        "name": "C++"
-                    },
-                    {
-                        "color": null,
-                        "name": "M4"
-                    },
-                    {
-                        "color": "#e16737",
-                        "name": "MATLAB"
+                        "color": "#4d41b1",
+                        "name": "Fortran"
                     },
                     {
                         "color": "#fedf5b",
                         "name": "Cython"
                     },
                     {
+                        "color": "#f34b7d",
+                        "name": "C++"
+                    },
+                    {
+                        "color": "#e16737",
+                        "name": "MATLAB"
+                    },
+                    {
+                        "color": null,
+                        "name": "M4"
+                    },
+                    {
                         "color": "#427819",
                         "name": "Makefile"
+                    },
+                    {
+                        "color": "#012456",
+                        "name": "PowerShell"
                     }
                 ],
-                "totalCount": 12,
-                "totalSize": 5310179
+                "totalCount": 13,
+                "totalSize": 5546568
             }
         },
         "jpype-project/jpype": {
@@ -18710,10 +18717,10 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 10805030
+                        "size": 10880014
                     },
                     {
-                        "size": 437082
+                        "size": 439750
                     },
                     {
                         "size": 161563
@@ -18731,7 +18738,7 @@
                         "size": 31222
                     },
                     {
-                        "size": 6769
+                        "size": 6861
                     },
                     {
                         "size": 3986
@@ -18776,7 +18783,7 @@
                     }
                 ],
                 "totalCount": 9,
-                "totalSize": 11711406
+                "totalSize": 11789150
             }
         },
         "llnl/GridKit": {
@@ -22906,7 +22913,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 211186
+                        "size": 211711
                     }
                 ],
                 "nodes": [
@@ -22916,7 +22923,7 @@
                     }
                 ],
                 "totalCount": 1,
-                "totalSize": 211186
+                "totalSize": 211711
             }
         },
         "llnl/SHOCK-UQ": {
@@ -23095,28 +23102,28 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 845437
+                        "size": 877719
                     },
                     {
-                        "size": 759571
+                        "size": 845437
                     },
                     {
                         "size": 551637
                     },
                     {
-                        "size": 68964
+                        "size": 79901
                     },
                     {
-                        "size": 49604
+                        "size": 49935
                     },
                     {
                         "size": 22239
                     },
                     {
-                        "size": 10940
+                        "size": 11321
                     },
                     {
-                        "size": 5088
+                        "size": 5825
                     },
                     {
                         "size": 4624
@@ -23127,12 +23134,12 @@
                 ],
                 "nodes": [
                     {
-                        "color": "#555555",
-                        "name": "C"
-                    },
-                    {
                         "color": "#3572A5",
                         "name": "Python"
+                    },
+                    {
+                        "color": "#555555",
+                        "name": "C"
                     },
                     {
                         "color": "#f34b7d",
@@ -23168,7 +23175,7 @@
                     }
                 ],
                 "totalCount": 10,
-                "totalSize": 2318813
+                "totalSize": 2449347
             }
         },
         "llnl/STKAddressConverter": {
@@ -28459,16 +28466,16 @@
                         "size": 2437087
                     },
                     {
-                        "size": 1603917
+                        "size": 1612273
                     },
                     {
-                        "size": 331169
+                        "size": 331720
                     },
                     {
                         "size": 214928
                     },
                     {
-                        "size": 29493
+                        "size": 30357
                     },
                     {
                         "size": 29209
@@ -28529,7 +28536,7 @@
                     }
                 ],
                 "totalCount": 10,
-                "totalSize": 4656754
+                "totalSize": 4666525
             }
         },
         "llnl/dtcmp": {
@@ -40999,7 +41006,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 20498295
+                        "size": 20527000
                     },
                     {
                         "size": 321521
@@ -41065,7 +41072,7 @@
                     }
                 ],
                 "totalCount": 9,
-                "totalSize": 21182716
+                "totalSize": 21211421
             }
         },
         "mfem/mfem-uberenv": {
@@ -43824,7 +43831,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 9050378
+                        "size": 9050376
                     },
                     {
                         "size": 525915
@@ -43918,7 +43925,7 @@
                     }
                 ],
                 "totalCount": 13,
-                "totalSize": 9853076
+                "totalSize": 9853074
             }
         },
         "spack/spack-asp-prototypes": {
@@ -44494,7 +44501,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 21988284
+                        "size": 21989814
                     },
                     {
                         "size": 49345
@@ -44509,10 +44516,10 @@
                         "size": 4544
                     },
                     {
-                        "size": 4369
+                        "size": 3777
                     },
                     {
-                        "size": 3777
+                        "size": 3171
                     },
                     {
                         "size": 2492
@@ -44558,12 +44565,12 @@
                         "name": "BitBake"
                     },
                     {
-                        "color": "#427819",
-                        "name": "Makefile"
-                    },
-                    {
                         "color": "#f34b7d",
                         "name": "C++"
+                    },
+                    {
+                        "color": "#427819",
+                        "name": "Makefile"
                     },
                     {
                         "color": "#701516",
@@ -44595,7 +44602,7 @@
                     }
                 ],
                 "totalCount": 14,
-                "totalSize": 22076827
+                "totalSize": 22077159
             }
         },
         "spack/spack-prereq": {
@@ -45657,7 +45664,7 @@
                         "size": 1262781
                     },
                     {
-                        "size": 1100795
+                        "size": 1100870
                     },
                     {
                         "size": 1092921
@@ -45799,7 +45806,7 @@
                     }
                 ],
                 "totalCount": 22,
-                "totalSize": 99488452
+                "totalSize": 99488527
             }
         },
         "visit-dav/visit-deps": {
@@ -45809,10 +45816,10 @@
                         "size": 74529723
                     },
                     {
-                        "size": 65234253
+                        "size": 59843477
                     },
                     {
-                        "size": 19216128
+                        "size": 19007263
                     },
                     {
                         "size": 5022970
@@ -45996,7 +46003,7 @@
                     }
                 ],
                 "totalCount": 28,
-                "totalSize": 169333624
+                "totalSize": 163733983
             }
         },
         "visit-dav/visit-website": {

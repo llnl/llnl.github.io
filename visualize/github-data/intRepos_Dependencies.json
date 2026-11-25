@@ -15239,7 +15239,7 @@
                                     "packageManager": "PIP",
                                     "packageName": "future",
                                     "repository": {
-                                        "nameWithOwner": "PythonCharmers/python-future"
+                                        "nameWithOwner": "CharmersTraining/python-future"
                                     }
                                 },
                                 {
@@ -28533,7 +28533,7 @@
                                     "packageManager": "PIP",
                                     "packageName": "future",
                                     "repository": {
-                                        "nameWithOwner": "PythonCharmers/python-future"
+                                        "nameWithOwner": "CharmersTraining/python-future"
                                     }
                                 },
                                 {
@@ -31464,6 +31464,13 @@
                                 },
                                 {
                                     "packageManager": "ACTIONS",
+                                    "packageName": "julia-actions/setup-julia",
+                                    "repository": {
+                                        "nameWithOwner": "julia-actions/setup-julia"
+                                    }
+                                },
+                                {
+                                    "packageManager": "ACTIONS",
                                     "packageName": "msys2/setup-msys2",
                                     "repository": {
                                         "nameWithOwner": "msys2/setup-msys2"
@@ -31528,19 +31535,6 @@
                                     "packageName": "actions/upload-artifact",
                                     "repository": {
                                         "nameWithOwner": "actions/upload-artifact"
-                                    }
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "dependencies": {
-                            "nodes": [
-                                {
-                                    "packageManager": "ACTIONS",
-                                    "packageName": "actions/checkout",
-                                    "repository": {
-                                        "nameWithOwner": "actions/checkout"
                                     }
                                 }
                             ]
@@ -37464,7 +37458,7 @@
                                     "packageManager": "PIP",
                                     "packageName": "future",
                                     "repository": {
-                                        "nameWithOwner": "PythonCharmers/python-future"
+                                        "nameWithOwner": "CharmersTraining/python-future"
                                     }
                                 },
                                 {
@@ -45361,8 +45355,8 @@
             "languages": {
                 "nodes": [
                     {
-                        "color": "#555555",
-                        "name": "C"
+                        "color": "#3572A5",
+                        "name": "Python"
                     }
                 ]
             }
@@ -63283,7 +63277,7 @@
                                     "packageManager": "PIP",
                                     "packageName": "future",
                                     "repository": {
-                                        "nameWithOwner": "PythonCharmers/python-future"
+                                        "nameWithOwner": "CharmersTraining/python-future"
                                     }
                                 },
                                 {
@@ -78700,7 +78694,7 @@
                                     "packageManager": "PIP",
                                     "packageName": "future",
                                     "repository": {
-                                        "nameWithOwner": "PythonCharmers/python-future"
+                                        "nameWithOwner": "CharmersTraining/python-future"
                                     }
                                 },
                                 {
