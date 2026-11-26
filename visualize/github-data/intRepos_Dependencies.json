@@ -52011,6 +52011,19 @@
                 ]
             }
         },
+        "llnl/bu-nm-rom": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            },
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    }
+                ]
+            }
+        },
         "llnl/burstfs": {
             "dependencyGraphManifests": {
                 "nodes": []
@@ -67146,7 +67159,7 @@
                                     "packageManager": "PIP",
                                     "packageName": "abmarl",
                                     "repository": {
-                                        "nameWithOwner": "llnl/Abmarl"
+                                        "nameWithOwner": "dhardestylewis/Abmarl"
                                     }
                                 },
                                 {
@@ -76702,7 +76715,9 @@
                                 {
                                     "packageManager": "NPM",
                                     "packageName": "mermaid",
-                                    "repository": null
+                                    "repository": {
+                                        "nameWithOwner": "mermaid-js/mermaid-v13"
+                                    }
                                 }
                             ]
                         }
@@ -79829,50 +79844,12 @@
                 "nodes": [
                     {
                         "dependencies": {
-                            "nodes": [
-                                {
-                                    "packageManager": "ACTIONS",
-                                    "packageName": "actions/checkout",
-                                    "repository": {
-                                        "nameWithOwner": "actions/checkout"
-                                    }
-                                },
-                                {
-                                    "packageManager": "ACTIONS",
-                                    "packageName": "docker/build-push-action",
-                                    "repository": {
-                                        "nameWithOwner": "docker/build-push-action"
-                                    }
-                                },
-                                {
-                                    "packageManager": "ACTIONS",
-                                    "packageName": "docker/login-action",
-                                    "repository": {
-                                        "nameWithOwner": "docker/login-action"
-                                    }
-                                },
-                                {
-                                    "packageManager": "ACTIONS",
-                                    "packageName": "docker/metadata-action",
-                                    "repository": {
-                                        "nameWithOwner": "docker/metadata-action"
-                                    }
-                                },
-                                {
-                                    "packageManager": "ACTIONS",
-                                    "packageName": "docker/setup-buildx-action",
-                                    "repository": {
-                                        "nameWithOwner": "docker/setup-buildx-action"
-                                    }
-                                },
-                                {
-                                    "packageManager": "ACTIONS",
-                                    "packageName": "docker/setup-qemu-action",
-                                    "repository": {
-                                        "nameWithOwner": "docker/setup-qemu-action"
-                                    }
-                                }
-                            ]
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "dependencies": {
+                            "nodes": []
                         }
                     }
                 ]
