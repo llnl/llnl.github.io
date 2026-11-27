@@ -27077,7 +27077,7 @@
                                     "packageManager": "RUBYGEMS",
                                     "packageName": "kramdown",
                                     "repository": {
-                                        "nameWithOwner": "deepin-community/ruby-kramdown"
+                                        "nameWithOwner": "gettalong/kramdown"
                                     }
                                 },
                                 {
@@ -87455,6 +87455,19 @@
                         }
                     }
                 ]
+            },
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ]
+            }
+        },
+        "spack/untar": {
+            "dependencyGraphManifests": {
+                "nodes": []
             },
             "languages": {
                 "nodes": [

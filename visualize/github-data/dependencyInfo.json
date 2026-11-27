@@ -8105,22 +8105,6 @@
                 "login": "deepin-community"
             }
         },
-        "deepin-community/ruby-kramdown": {
-            "languages": {
-                "nodes": [
-                    {
-                        "color": "#701516",
-                        "name": "Ruby"
-                    }
-                ]
-            },
-            "name": "ruby-kramdown",
-            "nameWithOwner": "deepin-community/ruby-kramdown",
-            "owner": {
-                "isVerified": false,
-                "login": "deepin-community"
-            }
-        },
         "deepin-community/sphinxext-rediraffe": {
             "languages": {
                 "nodes": [
@@ -10919,6 +10903,21 @@
             "owner": {
                 "isVerified": true,
                 "login": "getsentry"
+            }
+        },
+        "gettalong/kramdown": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#701516",
+                        "name": "Ruby"
+                    }
+                ]
+            },
+            "name": "kramdown",
+            "nameWithOwner": "gettalong/kramdown",
+            "owner": {
+                "login": "gettalong"
             }
         },
         "gevorg/apache-crypt": {
